@@ -1,0 +1,111 @@
+@UTF8
+@Window:	58_24_761_654_806_1_1226_2_1226_2
+X = .*     % anything
+A = .* % any other thing
+T = ...*     % anything at least 3 letters long
+W = .*[aeiou]  % any string ending in a vowel
+Y = .*[^aeiou]  % any string not ending in a vowel
+Z = .*[eoy]  % any string ending in 'e' or 'y'
+% possible initial consonant cluster combinations in English
+%mple formulation:  1, 2, or three things that are not vowels
+O = [^aeiou] | [^aeiou][^aeiou] | [^aeiou][^aeiou][^aeiou] | qu | squ
+V = [aeiou] % vowels
+C = [pbcmtdnrlkgzv]   % consonants which geminate
+B = [pbcmtdnkgz]    % consonants which geminate, less r and l
+D = [bcdfghjklmnpqrstvwxz]   % all consonants
+S = [sxz] | ch | sh  %  affricates, sibilants
+
+%enable a stem to stick to a suffix (with hyphen)
+%RULENAME: hyphens
+%LEX-ENTRY:
+%LEXSURF = $A$X
+%LEXCAT: [scat n]
+%ALLO:
+%ALLOSURF = $A-$X
+%ALLOCAT = LEXCAT, ADD [allo hyphen]
+%ALLO:
+%ALLOSURF = LEXSURF
+%ALLOCAT = LEXCAT, ADD [allo nohyphen]
+
+% for variations in words ending in 'er' or 'a' (e.g. 'mother' and 'motha')
+RULENAME: a-ending
+LEX-ENTRY:
+LEXSURF = $Xer
+LEXCAT = [scat OR n prep]
+ALLO:
+ALLOSURF = $Xa
+ALLOCAT = LEXCAT, ADD [allo nErB]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo nErA]
+
+% for variations in 'eep' spelling, e.g. 'sleep' and 'sliip'
+
+RULENAME: ergative
+LEX-ENTRY:
+LEXSURF: -ngku
+LEXCAT = [scat case]
+ALLO:
+ALLOSURF = -ng
+ALLOCAT = LEXCAT, ADD [allo 1ngku]
+ALLO:
+ALLOSURF = -ngu
+ALLOCAT = LEXCAT, ADD [allo 2ngku]
+ALLO:
+ALLOSURF = -ng
+ALLOCAT = LEXCAT, ADD [allo 3ngku]
+ALLO:
+ALLOSURF: -ing
+ALLOCAT = LEXCAT, ADD [allo 3ngku]
+
+
+RULENAME: eep-ending
+LEX-ENTRY:
+LEXSURF = $Xeep
+LEXCAT = [scat v:intran]
+ALLO:
+ALLOSURF = $Xiip
+ALLOCAT = LEXCAT, ADD [allo eepB]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo eepA]
+
+RULENAME: eel-ending
+LEX-ENTRY:
+LEXSURF = $Xeel
+LEXCAT = [scat OR v v:tran v:intran]
+ALLO:
+ALLOSURF = $Xiil
+ALLOCAT = LEXCAT, ADD [allo eel1]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo eel2]
+
+%RULENAME: aut-ending
+%LEX-ENTRY:
+%LEXSURF: $Xout
+%LEXCAT = [scat OR n v v:tran v:intran]
+%ALLO:
+%ALLOSURF = $Xaut
+%ALLOCAT = LEXCAT, ADD [allo aut1]
+%ALLO:
+%ALLOSURF = LEXSURF
+%ALLOCAT = LEXCAT, ADD [allo aut2]
+
+RULENAME: ck-k ending
+LEX-ENTRY:
+LEXSURF = $Xck
+LEXCAT = [scat OR n v v:tran v:intran]
+ALLO:
+ALLOSURF = $Xk
+ALLOCAT = LEXCAT, ADD [allo k-ending]
+ALLO:
+ALLOSURF = LEXSURF
+ALLOCAT = LEXCAT, ADD [allo ck-ending]
+
+
+% default rule-  copy input to output
+RULENAME: default
+LEX-ENTRY:
+ALLO:
+

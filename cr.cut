@@ -1,0 +1,789 @@
+@UTF8
+@Window:	45_42_815_691_2862_2_3198_0_3198_0
+% *****************************************************
+% CONCATENATION RULES  FOR LW CORPUS
+% GW SEPT 2020
+% *****************************************************
+
+% ******************************************************
+% GENERAL STARTS
+% ******************************************************
+
+% This rule starts all words that have full form listings
+
+RULENAME: misc-start
+CTYPE: START
+if
+NEXTCAT = [scat OR adv anaph art aux case \
+    conj det intj suf:dir dis disj v n neg num \
+    prep pro pro:free v:intran v:mod v:tran pro:qn n:prop typ n:kin com qan v:prev qn www ] % v:infl, suf:tel and suf:foc removed
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {wat, bound-pro, dis-suf}
+
+
+% ************************
+% NOUN STARTS
+% ************************
+
+RULENAME: n-start
+CTYPE: START
+if
+NEXTCAT = [scat OR n n:prop adv]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {nonfut, case, phon, lk, suf-gen, suf-foc-n, topic, n-suf, p-encl, \
+ bound-pro, aux-root2, n-jarl, noun-num, n-trans}
+
+
+RULENAME: pro-start
+CTYPE: START
+if
+NEXTCAT = [scat OR pro pro:free pro:lw pro:qn]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {case, nonfut, namu, suf-gen, block-erg-dat, topic, n-suf, p-encl}
+
+RULENAME: qn-start
+CTYPE: START
+if
+NEXTCAT = [scat qn]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {qn-case}
+
+
+% ************************
+% VERB STARTS
+% ************************
+
+% start all verbs
+RULENAME: v-start
+CTYPE: START
+if
+NEXTCAT = [scat OR v v:tran v:intran]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {trans-suff, case-foc-v, v-tense, suf-gen, bat, v-prep} %v:aux removed by KC 20190116
+
+% start all preverbs
+
+RULENAME: prev-start
+CTYPE: START
+if
+NEXTCAT = [scat v:prev]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {p-encl-2}
+
+
+% start all auxiliary words
+RULENAME: aux-start
+CTYPE: START
+if
+NEXTCAT = [scat aux]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {aux-root1, aux-root2, aux-subj, aux-obj, dat-rla}
+
+
+RULENAME: det-start
+CTYPE: START
+if
+NEXTCAT = [scat det]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {det-pl, det-case}
+
+RULENAME: dis-start
+CTYPE: START
+if
+NEXTCAT = [scat dis]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {case, gen-suf}
+
+
+RULENAME: suf-start
+CTYPE: START
+if
+NEXTCAT = [scat OR suf case]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {lk, lk2}
+
+RULENAME: anaph-start
+CTYPE: START
+if
+NEXTCAT = [scat anaph]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {suf-gen, case, topic}
+% ************************
+% NUM 
+% ************************
+
+RULENAME: num-start
+CTYPE: START
+if
+NEXTCAT = [scat num]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {num-suf, num-case, num-dual}
+
+RULENAME: num-case
+CTYPE: -
+if
+STARTCAT  = [scat num]
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+RULENAME: num-dual
+CTYPE: -
+if
+STARTCAT  = [scat num]
+NEXTSURF = pala | -pala
+NEXTCAT = [scat aux]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% ************************
+% NEG START
+% ************************
+RULENAME: neg-start
+CTYPE: START
+if
+NEXTCAT = [scat neg]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {n-suf}
+
+% ************************
+% VERB SUFFIXING
+% ************************
+
+% NEXTCAT [v:infl], DEL [allo]
+
+RULENAME: trans-suff
+CTYPE: -
+if
+STARTCAT = [scat OR v v:tran]
+NEXTSURF = im | um | -im | -um
+NEXTCAT = [scat v:deriv]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {bat, prep-suf}
+
+RULENAME: n-trans
+CTYPE: -
+if
+STARTCAT = [scat n]
+NEXTSURF = im | -im
+NEXTCAT = [scat v:deriv]
+then
+RESULTCAT = ADDCAT [scat v:tran]
+RULEPACKAGE = {bat}
+
+RULENAME: case-foc-v
+CTYPE: -
+if
+STARTCAT = [scat v]
+NEXTCAT = [scat suf:foc]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+RULENAME: v-aux								
+CTYPE: -
+if
+STARTCAT = [scat OR v v:tran v:intran]
+NEXTCAT = [scat v:aux]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+RULENAME: v-tense
+CTYPE: -
+if
+STARTCAT = [scat OR v v:tran v:intran]
+NEXTCAT = [scat OR v:infl v:tense]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {bat}
+
+RULENAME: v-prep
+CTYPE: -
+if
+STARTCAT = [scat OR v v:tran v:intran]
+NEXTCAT = [scat OR prep suf:tel]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {v-tense} % e.g. sidan-ing
+
+RULENAME: prep-suf
+CTYPE: -
+if
+NEXTCAT = [scat prep]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% ************************
+% VERB SUFFIXING (WARLPIRI)
+% ************************
+
+
+% ************************
+% PRONOUN AUXILIARIES
+% ************************
+
+% future suffix {-rra}
+% a-rra, yu-rra, i-rra wi-rra, de-rra
+% nonfuture suffix {-m}
+% a-m, yu-m, i-m, wi-m, de-m
+
+RULENAME: nonfut
+CTYPE: -
+if
+STARTCAT = [scat OR pro pro:lw]
+NEXTCAT = [scat OR v:aux aux:lw]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% ************************
+% BOUND AND FREE PRONOUNS (WARLPIRI)
+% ************************
+
+% allows classic warlpiri bound pronoun, but not lw pronoun stems
+RULENAME: bound-pro
+CTYPE: -
+if
+NEXTCAT = [scat pro], ![pro lw]
+then
+RESULTCAT = STARTCAT 
+RULEPACKAGE = {p-encl, case} 
+
+RULENAME: free-pro
+CTYPE: -
+if
+NEXTCAT = [scat free:pro pro:free]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {case, suf-gen, p-encl}
+
+RULENAME: pro-aux
+CTYPE: -
+if
+STARTCAT = [scat pro]
+NEXTCAT = [scat aux]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+
+% ************************
+% NOMINAL CASE MARKINGS
+% ************************
+
+RULENAME: case
+CTYPE: -
+if
+STARTCAT = [scat OR n n:prop pro pro:qn dis pro:free \
+anaph num disj v:tense adv n free:pro]
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {lk2, case2, p-encl, suf-gen, topic, bound-pro, dis-suf}
+
+
+RULENAME: case2
+CTYPE: -
+if
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT 
+RULEPACKAGE = {case3}
+
+RULENAME: case3
+CTYPE: -
+if
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT 
+RULEPACKAGE = {}
+
+RULENAME: ergative-case
+CTYPE: -
+if
+NEXTCAT = [case erg]
+then
+RESULTCAT = STARTCAT, ADD [erg end]
+RULEPACKAGE = {}
+
+
+% topic
+
+RULENAME: suf-foc-n
+CTYPE: -
+if
+STARTCAT = [scat OR n anaph]
+NEXTCAT = [scat suf:foc]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+
+% ************************
+% OTHER KINDS OF SUFFIXING
+% ************************
+
+% general suffixing
+
+RULENAME: suf-gen
+CTYPE: -
+if
+NEXTCAT = [scat suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {case}
+
+
+% demonstrative plural {-rra}
+
+RULENAME: det-pl
+CTYPE: -
+if
+STARTCAT = [scat det]
+NEXTCAT = [scat OR case suf suf:foc]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% 2dual suffix, occurs on "yu" or anaph
+
+RULENAME: 2dual
+CTYPE: -
+if
+STARTCAT = [scat pro]
+NEXTCAT = [scat suf]
+then
+RESULTCAT = ADD [scat pro]
+RULEPACKAGE = {extra-suffix-ng}
+
+% lk 
+
+RULENAME: lk
+CTYPE: -
+if
+NEXTCAT = [scat suf]
+NEXTSURF = lk | -lk
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% lk occurring after another suffix
+
+
+RULENAME: lk2
+CTYPE: -
+if
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {extra-suffix-ng}
+
+% e.g. karnta-pawu-ng
+
+RULENAME: extra-suffix-ng
+CTYPE: -
+if
+NEXTCAT = [scat OR euph suf case:erg]
+then
+RESULTCAT = ADD [scat n] % added because ergative suffixes occur with nouns
+RULEPACKAGE = {}
+
+% topic second suffix
+
+RULENAME: extra-foc
+CTYPE: -
+if
+NEXTCAT = [scat suf:foc]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {}
+
+% -wat suffix (plural)
+
+RULENAME: wat
+CTYPE: -
+if
+STARTCAT = [scat OR n suf]
+NEXTSURF = wat | -wat
+NEXTCAT = [scat suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% phonotactics *infix*
+
+RULENAME: phon
+CTYPE: -
+if
+NEXTCAT = [scat euph]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% -bat suffix e.g. lickimbat
+
+RULENAME: bat
+CTYPE: -
+if
+NEXTCAT = [scat suf:iter]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {bat-im}
+
+% hit-im-bat-im
+
+RULENAME: bat-im
+CTYPE: -
+if
+NEXTSURF = im | um | -im | -um
+NEXTCAT = [scat v:deriv]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% -namu reflexive
+
+RULENAME: namu
+CTYPE: -
+if
+STARTCAT = [scat pro]
+NEXTSURF = namu | -namu
+NEXTCAT = [scat suf]
+then
+RESULTCAT = ADD [scat refl]
+RULEPACKAGE = {}
+
+RULENAME: juk
+CTYPE: -
+if
+STARTCAT = [scat det]
+NEXTSURF = -juk
+NEXTCAT = [scat suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% when "-juk" appears as a second suffix
+
+RULENAME: juk-2
+CTYPE: -
+if
+NEXTSURF = -juk
+NEXTCAT = [scat suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% num+suf 
+
+RULENAME: num-suf
+CTYPE: -
+if
+STARTCAT = [scat num]
+NEXTCAT = [scat OR suf suf:foc]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {gen-suf}
+
+
+% num+suf+suf
+
+RULENAME: gen-suf
+CTYPE: -
+if
+NEXTCAT = [scat suf]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {suf-case}
+
+% ************************
+% NOMINAL SUFFIXING (WARLPIRI)						
+% ************************
+
+
+RULENAME: suf-case
+CTYPE: -
+if
+NEXTCAT = [scat OR case suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% block ergative + dative combination
+
+RULENAME: block-erg-dat
+CTYPE: -
+if
+STARTCAT = [scat case]
+NEXTCAT = [scat case], ![block ku]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {topic, bound-pro, dis-suf, case-2, p-encl}
+
+RULENAME: case-2
+CTYPE: -
+if
+NEXTCAT = [scat OR case n], ![block OR dat-rla rli rlu]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {topic, bound-pro, dis-suf, p-encl} 
+
+RULENAME: det-case
+CTYPE: -
+if
+STARTCAT = [scat det]
+NEXTCAT = [scat case]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {det-case-2, topic, p-encl}
+
+RULENAME: det-case-2
+CTYPE: -
+if
+NEXTCAT = [scat OR case suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+RULENAME: n-suf
+CTYPE: -
+if
+NEXTCAT = [scat suf:n]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {topic, case, bound-pro, p-encl}
+
+% wiri-jarl, wiri-jarlu (big@1-very@1)
+RULENAME: n-jarl
+CTYPE: -
+if
+NEXTCAT = [scat n]
+NEXTSURF = -jarl | -jarlu | jarl | jarlu
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {lk, topic}
+
+% derivational enclitics - do not follow a p-encl; ju is not follow by other encl (except aux)
+
+RULENAME: no-encl
+CTYPE: -
+if
+NEXTCAT = [scat OR p-encl suf:dir], ![scat d-encl], ![block OR p-enclju p-encl-ju]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {p-encl}
+
+% ************************
+% AUX SUFFIXING 
+% ************************
+
+% aux-suf-1, aux-suf2, aux-suf3, dat-rla
+
+RULENAME: aux-root1
+CTYPE: -
+if
+NEXTCAT = [type root1]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {aux-root2, aux-subj, aux-obj, dat-rla}
+
+RULENAME: aux-root2
+CTYPE: -
+if
+NEXTCAT = [type root2]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {aux-subj, aux-obj, dat-rla}
+
+RULENAME: aux-subj
+CTYPE: -
+if
+NEXTCAT = [pro subj]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {aux-obj, dat-rla}
+
+
+RULENAME: aux-obj
+CTYPE: -
+if
+NEXTCAT = [pro obj]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {dat-rla}
+
+RULENAME: dat-rla
+CTYPE: -
+if
+NEXTCAT = [block dat-rla]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+
+
+
+% ************************
+% EXTRA SUFFIXING - NEED TO SPLIT UP 
+% ************************
+
+RULENAME: qn-case
+CTYPE: -
+if
+STARTCAT = [scat qn]
+NEXTCAT = [scat OR case suf]
+then
+RESULTCAT = STARTCAT
+if
+STARTCAT = [scat qn]
+NEXTSURF = lu | -lu
+NEXTCAT = [scat v:aux]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% bound pro on dis
+
+RULENAME: dis-suf
+CTYPE: -
+if
+NEXTCAT = [scat dis]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {bound-pro, p-encl}
+
+% adds case as a suf, but blocks specific surface "rla" when called
+
+RULENAME: aux-rla
+CTYPE: -
+if
+NEXTCAT = [scat case], ![block OR rla -rla]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {bound-pro}
+
+RULENAME: bin-vaux
+CTYPE: START
+if
+NEXTSURF = bin
+NEXTCAT = [scat v:aux]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {}
+
+% topic first suffix
+RULENAME: topic
+CTYPE: -
+if
+NEXTCAT = [scat suf:foc]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {bound-pro}
+
+% pure enclitics
+
+RULENAME: p-encl
+CTYPE: -
+if
+NEXTCAT = [scat p-encl]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+RULENAME: p-encl-2
+CTYPE: -
+if
+STARTCAT = [scat v:prev]
+NEXTCAT = [scat v:tran], ![block OR -p-nya p-nya]
+then
+RESULTCAT = ADDCAT [scat v:tran]
+RULEPACKAGE = {}
+
+
+
+% ************************
+% two-morph
+% ************************
+
+% "fatha-wan"
+
+RULENAME: noun-num
+CTYPE: -
+if
+STARTCAT = [scat n]
+NEXTCAT = [scat num]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {noun-num-suf}
+
+
+% ************************
+% three-morph
+% ************************
+
+% "fatha-wan-ing" / "fat-wun-pawu"
+
+RULENAME: noun-num-suf
+CTYPE: -
+if
+NEXTCAT = [scat OR case suf]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+% "waja" to be interpreted as "emph@1"
+
+RULENAME: wa-start
+CTYPE: START
+if
+NEXTSURF = waja
+NEXTCAT = [scat dis]
+then
+RESULTCAT = NEXTCAT
+RULEPACKAGE = {}
+
+
+
+% *************************
+% END RULE
+% *************************
+
+% ergative case END rule (since ergative markers always occur last)
+RULENAME: erg-end
+CTYPE: END
+if
+NEXTCAT = [erg end]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+
+% default END rule 
+
+RULENAME: all-end
+CTYPE: END
+if
+STARTCAT = ![scat x]
+then
+RESULTCAT = STARTCAT
+RULEPACKAGE = {}
+
+

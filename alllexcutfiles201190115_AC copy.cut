@@ -1,0 +1,4794 @@
+@UTF8
+@Window:	318_185_761_654_69789_1_70174_0_70174_0
+_ache	{[scat n]}
+_an	{[scat suf:tel]}	"down:loc"
+_anga	{[scat dis]}	"@1"
+_angka	{[scat dis]}	"@1"
+_ap	{[scat suf:tel]}	"up:asp"
+_at	{[scat suf:tel]}	"out"
+_away	{[scat prep]}
+_bat	{[scat suf]}	"iter"
+_boom	{[scat n]}	"car"
+_broom	{[scat n]}	"car"
+_bye	{[scat n]}	"sleep"
+_dan	{[scat suf:tel]}	"down"
+_ed	{[scat v:infl]}	"past"
+_eh	{[scat dis]}	"eh"
+_en	{[scat v:infl]}	"npst:en"
+_eni	{[scat v:infl]}	"npst:en"
+_er	{[scat v:infl]}	"er"
+_es	{[scat v:infl]}	"pl"
+_est	{[scat v:infl]}	"superl"
+_eye	{[scat n]}
+_frog	{[scat n]}
+_gka	{[scat case]}	"loc@1"
+_gku	{[scat case]}	"erg@1"
+_glass	{[scat n]}
+_goat	{[scat n]}
+_good	{[scat adv]}
+_ground	{[scat n]}
+_he	{[scat pro]}	"2sgS"
+_i	{[scat eup]}	"@1"
+_ij	{[scat suf:foc]}	"@1"
+_iji	{[scat suf:foc]}	"@1"
+_ik	{[scat case]}	"dat@1"
+_iki	{[scat case]}	"dat@1"
+_il	{[scat suf]}	"then@1"
+_ilk	{[scat suf]}	"then@1"
+_ilki	{[scat suf]}	"then@1"
+-im	{[scat v:deriv]}	"TR"
+%-imat	{[scat v:infl]}	"TR:tel"
+%-imbat	{[scat v:infl]}	"TR:iter"
+-imi	{[scat v:infl]}	"@1"
+_in	{[scat v:infl]}	"ing:prog"
+_ing	{[scat v:infl]}	"ing:prog"
+_inga	{[scat case]}	"loc@1"
+_ingi	{[scat case]}	"erg@1"
+_inja	{[scat v:infl]}	"infin@1"
+_inji	{[scat v:infl]}	"infin@1"
+_inya	{[scat v:infl]}	"@1"
+_irn	{[scat v:infl]}	"@1"
+_it	{[scat v:infl]}	"it:TR"
+_iya	{[scat det]}	"here@1"
+_j	{[scat suf:foc]}	"j@1"
+_ja	{[scat v:infl]}	"pst@1"
+_jak	{[scat case]}	"evit@1"
+_jala	{[scat dis]}	"emph@1"
+_jalangu	{[scat n]}	"@1"
+_jalawu	{[scat dis]}	"emph@1"
+_jalp	{[scat adv]}	"alone@1"
+_jana	{[scat v:aux]}	"3pl:S@1"
+_janga	{[scat case]}	"abl@1"
+_jangka	{[scat case]}	"abl@1"
+_jangkardu	{[scat adv]}	"against@1"
+_japu	{[scat n]}	"ball@1"
+_japu	{[scat n]}	"sports@1"
+_jarl	{[scat n]}	"very@1"
+_jarla	{[scat n]}	"very@1"
+_jarli	{[scat n]}	"very@1"
+_jarlu	{[scat n]}	"very@1"
+_jarnku	{[scat adv]}	"each@1"
+_jarntu	{[scat n]}	"dog@1"
+_jarra	{[scat suf]}	"dual@1"
+_jarri	{[scat v:infl]}	"incho@1@1"
+_jawu	{[scat v:infl]}	"pst@1"
+_jayi	{[scat v:infl]}	"incho@1@1"
+_ji	{[scat suf:foc]}	"@1"
+_jik	{[scat suf]}	"yet@1"
+_jiki	{[scat suf]}	"yet@1"
+_jing	{[scat n]}	"thing@1"
+_jinta	{[scat num]}	"one@1"
+_ju	{[scat suf:foc]}	"top@1"
+_juju	{[scat suf:foc]}	"@1"
+_juk	{[scat suf]}	"yet@1"
+_juku	{[scat suf]}	"yet@1"
+_jwing	{[scat n]}	"swing@1"
+_k	{[scat case]}	"dat@1"
+_ka	{[scat v:infl]}	"npst@1"
+_kalya	{[scat n]}	"promised_spouse@1"
+_kang	{[scat case]}	"poss@1"
+_kangka	{[scat n]}	"kangaroo"
+_kangkaru	{[scat n]}	"kangaroo"
+_kangu	{[scat n]}	"kangaroo"
+_kapardi	{[scat n:kin]}	"older_sister@1"
+_kari	{[scat suf]}	"other@1"
+_karnta	{[scat n]}	"woman@1"
+_karra	{[scat case]}	"all@1"
+_karri	{[scat v:infl]}	"npst@1"
+_katu	{[scat suf]}	"more@1"
+_kayi	{[scat suf]}	"other@1"
+_ki	{[scat case]}	"@1"
+_kijak	{[scat case]}	"evit@1"
+_kijaku	{[scat case]}	"evit@1"
+_kiji	{[scat v:tran]}	"throw@1"
+_kirl	{[scat case]}	"com@1"
+_kirlang	{[scat case]}	"poss@1"
+_kirlangu	{[scat case]}	"poss@1"
+_kirli	{[scat case]}	"com@1"
+_kirra	{[scat case]}	"com@1"
+_kirrirdimpayi	{[scat n]}	"tall@1"
+_knock	{[scat v:tran]}
+_ku	{[scat case]}	"dat@1"
+_kuja	{[scat dis]}	"thus@1"
+_kujak	{[scat case]}	"evit@1"
+_kujaku	{[scat case]}	"evit@1"
+_kurdu	{[scat n]}	"child@1"
+_kurl	{[scat case]}	"com@1"
+_kurlang	{[scat case]}	"poss@1"
+_kurlangu	{[scat case]}	"poss@1"
+_kurlarda	{[scat n]}	"spear@1"
+_kurlngu	{[scat case]}	"poss@1"
+_kurlu	{[scat case]}	"com@1"
+_Kurlurrngalinypa	{[scat n:prop]}	"@1"
+_kurra	{[scat case]}	"all@1"
+_kuurl	{[scat n]}	"school@1"
+_kuurlu	{[scat n]}	"school@1"
+_l	{[scat suf]}	"then@1"
+_la	{[scat v:aux]}	"3dl:S@1"
+_langa	{[scat prep]}	"langa:loc"
+_li	{[scat v:aux]}	"3pl:S@1"
+_line	{[scat n]}
+_lk	{[scat suf]}	"then@1"
+_lka	{[scat suf]}	"then@1"
+_lki	{[scat suf]}	"then@1"
+_lku	{[scat suf]}	"then@1"
+_ll	{[scat v:aux]}	"ll:fut"
+_lot	{[scat n]}
+_lpa	{[scat v:aux]}	"pstIMPF@1"
+_lu	{[scat v:aux]}	"3pl:S@1"
+_luwa	{[scat v:tran]}	"shoot@1"
+_m	{[scat v:aux]}	"m:pst"
+_ma	{[scat ?]}	"DELETE"
+_mani	{[scat v:tran]}	"TR@1"
+_manta	{[scat v:tran]}	"get-imPER@1"
+_manu	{[scat v:tran]}	"get_pst@1"
+_manyu	{[scat v]}	"fun@1"
+_marda	{[scat dis]}
+_matirn	{[scat v:tran]}	"move:in:line"
+_mayi	{[scat InT]}	"@1"
+_mayi	{[scat qn]}
+_me	{[scat pro]}	"me:1sg:O"
+_men	{[scat n]}	"man:pl"
+_mi	{[scat v:infl]}	"npst@1"
+_mipa	{[scat suf]}	"only@1"
+_mob	{[scat pro]}	"pl"
+_mp	{[scat suf:dir]}	"across@1"
+_mpa	{[scat suf:dir]}	"across@1"
+_murru	{[scat n]}	"sick@1"
+_n	{[scat v:infl]}
+_namu	{[scat suf]}	"reflex@1"
+_ng	{[scat case]}	"erg@1"
+_nga	{[scat case]}	"loc@1"
+_ngaju	{[scat prop]}	"1sg@1"
+_ngalpa	{[scat v:aux]}	"1pl:incl@1"
+_nganpa	{[scat v:aux]}	"1plEXCL@1"
+_nganta	{[scat dis]}	"reportedly@1"
+_ngarnti	{[scat suf:tel]}	"ready@1"
+_ngarri	{[scat v:tran]}	"tell@1"
+_ngi	{[scat case]}	"erg@1"
+_ngirli	{[scat case]}	"abl@1"
+_ngka	{[scat case]}	"loc@1"
+_ngki	{[scat case]}	"erg@1"
+_ngku	{[scat case]}	"erg@1"
+_ngu	{[scat case]}	"erg@1"
+_nguna	{[scat v:intran]}	"lie@1"
+_ngurlu	{[scat case]}	"@1"
+_ni	{[scat v:infl]}	"npst@1"
+_nine	{[scat num]}	"CARD"
+_nja	{[scat v:infl]}	"infin@1"
+_njak	{[scat v:infl]}	"inf@1:nom@1"
+_nji	{[scat v:infl]}	"infin@1"
+_nju	{[scat v:infl]}	"infin@1"
+_nkga	{[scat case]}	"loc@1"
+_npa	{[scat v:aux]}	"2sg:S@1"
+_npala	{[scat v:aux]}	"2dl:S@1"
+_nt	{[scat neg]}
+_nta	{[scat v:infl]}	"nta:imper@1"
+_ntar	{[scat v:infl]}	"imper@1"
+_ntawu	{[scat v:infl]}	"IMP@1"
+_nu	{[scat v:infl]}	"pst@1"
+_nungu	{[scat v:infl]}	"pst@1"
+_nungu	{[scat v:tran]}	"attack@1"
+_nurnu	{[scat v:infl]}	"pst@1"
+_nya	{[scat v:infl]}	"npst@1"
+_nyampu	{[scat det]}	"thishere@1"
+_nyan	{[scat suf]}	"3sg:reflex@1"
+_nyang	{[scat case]}	"poss@1"
+_nyangu	{[scat case]}	"poss@1"
+_nyanu	{[scat suf]}	"3sg:reflex@1"
+_nyanungu	{[scat pro]}	"3sg@1"
+_nyarra	{[scat v:aux]}	"2plobj@1"
+_nyayirn	{[scat n]}	"very@1"
+_nyayirni	{[scat n]}	"very@1"
+_nyi	{[scat v:infl]}	"npst@1"
+_nyina	{[scat v:intran]}	"sit@1"
+_off	{[scat prep]}
+_on	{[scat prep]}
+_one	{[scat num]}
+_ooh	{[scat dis]}
+_out	{[scat prep]}
+_pala	{[scat v:aux]}	"3dl:S@1"
+_palangu	{[scat v:aux]}	"3dl:O@1"
+_palyu	{[scat n]}	"goanna@1"
+_panti	{[scat v:tran]}	"pierce_npst@1"
+_pantu	{[scat v:tran]}	"pierce_pst@1"
+_panu	{[scat suf]}	"many@1"
+_pardi	{[scat v:intran]}	"fly@1"
+_pardu	{[scat suf]}	"dim@1"
+_parduu	{[scat suf]}	"dim@1"
+_parnka	{[scat v:intran]}	"run@1"
+_parnta	{[scat suf]}	"spouse@1"
+_patu	{[scat suf]}	"pl@1"
+_pawu	{[scat suf]}	"dim@1"
+_piji	{[scat suf:foc]}	"@1"
+_pina	{[scat adv]}	"back@1"
+_ping	{[scat suf]}	"assoc@1"
+_pingi	{[scat suf]}	"assoc@1"
+_pingki	{[scat suf]}	"assoc@1"
+_pinki	{[scat suf]}	"assoc@1"
+_pinyi	{[scat v:tran]}	"assault@1"
+_pinyin	{[scat v:tran]}	"assault@1"
+_piya	{[scat suf]}	"like@1"
+_puka	{[scat suf]}	"only@1"
+_pung	{[scat v:tran]}	"assault:pst@1"
+_pungu	{[scat v:tran]}	"assault:pst@1"
+_pura	{[scat suf]}	"towards@1"
+_purda	{[scat suf]}	"towards@1"
+_purdangka	{[scat n:kin]}	"same_gen@1"
+_purlka	{[scat n]}	"old_man@1"
+_purra	{[scat suf]}	"towards@1"
+_puru	{[scat adv]}	"while@1"
+_puta	{[scat neg]}	"@1"
+_puuly	{[scat v]}	"pull@1"
+_rdaka	{[scat n]}	"hand@1"
+_rduku	{[scat n]}	"chest@1"
+_rla	{[scat v:aux]}	"rla:dat@1"
+_rlan	{[scat suf]}	"also@1"
+_rlang	{[scat suf]}	"also@1"
+_rlangu	{[scat suf]}	"also@1"
+_rli	{[scat case]}	"erg@1"
+_rli	{[scat v:aux]}	"1dlInc:S@1"
+_rlipa	{[scat v:aux]}	"1plIncl:S@1"
+_rlu	{[scat case]}	"erg@1"
+_rlu	{[scat case]}	"rlu:erg@1"
+_rn	{[scat v:infl]}	"rn:npst@1"
+_rna	{[scat v:aux]}	"1sg:S@1"
+_rnalu	{[scat pro]}	"1plExcl:S@1"
+_rni	{[scat suf:dir]}	"hither@1"
+_rni	{[scat V:infl]}	"pres@1"
+_rnja	{[scat v:infl]}	"infin@1"
+_rnu	{[scat v:infl]}	"infin@1"
+_round	{[scat n]}
+_rra	{[scat suf:dir]}	"rra@1"
+_rrah	{[scat suf:dir]}	"thither@1"
+_rrawu	{[scat 	suf:dir]}	"thither@1"
+_rrayi	{[scat 	suf:dir]}	"thither@1"
+_rri	{[scat suf]}	"@1"
+_rru	{[scat suf]}	"@1"
+_rrumpa	{[scat suf:dir]}	"across@1"
+_s	{[scat v:infl]}	"pl"
+_said	{[scat n]}	"side"
+_school	{[scat n]}
+_sdan	{[scat suf:tel]}	"down:loc"
+_self	{[scat suf]}	"reflex"
+_side	{[scat n]}
+_station	{[scat n]}
+_swing	{[scat n]}
+_swingi	{[scat n]}
+_taim	{[scat n]}	"time"
+_taya	{[scat n]}
+_thing	{[scat n]}
+_time	{[scat n]}
+_tu	{[scat prep]}	"to"
+_u	{[scat euph]}	"@1"
+_uh	{[scat dis]}
+_uk	{[scat case]}	"dat@1"
+_ulk	{[scat suf]}	"then@1"
+_um	{[scat v:infl]}	"TR"
+_umm	{[scat dis]}
+_umu	{[scat v:infl]}	"@1"
+_un	{[scat v:infl]}	"npst@1"
+_ung	{[scat case]}	"erg@1"
+_ungu	{[scat case]}	"erg@1"
+_up	{[scat suf:tel]}	"up"
+_urn	{[scat v:infl]}	"npst@1"
+_urnu	{[scat v:infl]}	"npst@1"
+_waja	{[scat dis]}	"emph@1"
+_waji	{[scat dis]}	"emph@1"
+_wajili	{[scat adv]}	"fast@1"
+_walya	{[scat n]}	"ground@1"
+_wan	{[scat num]}	"one:nom"
+_wana	{[scat case]}	"perl@1"
+_wanarri	{[scat n]}	"thigh@1"
+_wanga	{[scat v:intran]}	"talk@1"
+_wangka	{[scat v:intran]}	"talk@1"
+_wangu	{[scat suf]}	"depriv@1"
+_wani	{[scat suf]}	"one"
+_wanti	{[scat v:intran]}	"fall@1"
+_wardingki	{[scat suf]}	"belong@1"
+_warnu	{[scat case]}	"abl@1"
+_warra	{[scat v]}	"around@1"
+_warru	{[scat v]}	"around@1"
+_warungka	{[scat n]}	"crazy@1"
+_wat	{[scat suf]}	"pl@1"
+_wati	{[scat suf]}	"pl@1"
+_watiya	{[scat n]}	"tree@1"
+_way	{[scat n]}
+_waya	{[scat n]}	"wire"
+_wilyp	{[scat v:tran]}	"remove@1"
+_wilypi	{[scat v:tran]}	"remove@1"
+_wire	{[scat n]}
+_wiri	{[scat n]}	"big@1"
+_wita	{[scat n]}	"small@1"
+_wiyarrpa	{[scat dis]}	"poor_thing@1"
+_wiyi	{[scat suf]}	"before@1"
+_xxx	{[scat W]}	""
+_ya	{[scat v:infl]}	"npst@1"
+_yalyu	{[scat n]}	"blood@1"
+_yangka	{[scat anaph]}	"that_one@1"
+_yanu	{[scat v:intran]}	"go_pst@1"
+_yi	{[scat v:infl]}	"npst@1"
+-an	{[scat suf:tel]}	"down:loc"
+-ap {[scat prep]}	"up"
+-at {[scat prep]} "out"
+-bat	{[scat suf:iter]}	"iter"
+-ed	{[scat v:infl]}	"pst"
+-ij	{[scat suf:foc]}	"top@1"
+-iji	{[scat suf:foc]}	"@1"
+-iji	{[scat suf:foc]}	"top@1"
+-ik	{[scat case]}	"dat@1"
+-iki	{[scat case]}	"dat@1"
+-il	{[scat suf]}	"then@1"
+-ilki	{[scat suf]}	"then@1"
+-in	{[scat v:infl]}	"ing:prog"
+-ing	{[scat case][case erg]}	"erg@1"
+-ing	{[scat v:infl]}	"ing:prog"
+-it	{[scat v:infl]}	"it:TR"
+-um	{[scat v:infl]}	"im:TR"
+-j	{[scat suf:foc]}	"top@1"
+j   {[scat suf:foc]}    "top@1"
+-jarra	{[scat suf]}	"dual@1"
+-ji	{[scat suf:foc]}	"top@1"
+-jinta	{[scat num]}	"one@1"
+-ju	{[scat suf:foc]}	"top@1"
+-juwu	{[scat suf:foc]}	"top@1"
+-k	{[scat case]}	"dat@1"
+-kang	{[scat case]}	"poss@1"
+-ki	{[scat case]}	"dat@1"
+-kirl	{[scat case]}	"com@1"
+-kirlang	{[scat case]}	"poss@1"
+-kirlangu	{[scat case]}	"poss@1"
+-kirli	{[scat case]}	"com@1"
+-kirra	{[scat case]}	"all@1"
+-kirra	{[scat case]}	"com@1"
+-kujak	{[scat case]}	"dat@1"
+-kujaku	{[scat case]}	"evi@1"
+-kurl	{[scat case]}	"com@1"
+-kurlangu	{[scat case]}	"poss@1"
+-kurlngu	{[scat case]}	"poss@1"
+-kurlu	{[scat case]}	"com@1"
+-kurra	{[scat case]}	"allative@1"
+-l	{[scat suf]}	"then@1"
+-lk	{[scat suf]}	"then@1"
+-lka	{[scat suf]}	"then@1"
+-lki	{[scat suf]}	"then@1"
+-lku	{[scat suf]}	"then@1"
+-ll	{[scat v:aux]}	"ll:fut"
+-m	{[scat v:aux]}	"m:NONFUT"
+-m	{[scat v:infl]}	"im:TR"
+-man	{[scat suf]}
+-murru {[scat n]}	"sore@1"
+-na	{[scat v:aux]}	"want"
+-namu	{[scat suf]}	"3sg:reflex@1"
+-ng	{[scat case][case erg]}	"erg@1"
+-nga	{[scat case]}	"loc@1"
+-ngi	{[scat case][case erg]}	"erg@1"
+-ngirli	{[scat case]}	"abl@1"
+-ngka	{[scat case]}	"loc@1"
+-ngki	{[scat case][case erg]}	"erg@1"
+-ngku	{[scat case][case erg]}	"erg@1"
+-ngu	{[scat case][case erg]}	"erg@1"
+-ngurlu	{[scat case]}	"abl@1"
+-nja	{[scat v:infl]}	"infin@1"
+-njak	{[scat v:infl]}	"inf@1:nom@1"
+-nji	{[scat v:infl]}	"infin@1"
+-nju	{[scat v:infl]}	"infin@1"
+-nkga	{[scat case]}	"loc@1"
+-nyan	{[scat suf]}	"reflex@1"
+-nyang	{[scat case]}	"poss@1"
+-nyanu	{[scat suf]}	"reflex@1"
+-on {[scat prep]}
+-one	{[scat suf]}
+-out	{[scat suf]}
+-pala	{[scat v:aux]}	"3dl:S@1"
+-pardu	{[scat suf]}	"dim@1"
+-parduu	{[scat suf]}	"dim@1"
+-parnta	{[scat suf]}	"spouse@1"
+-patu	{[scat suf]}	"pl@1"
+-pawu	{[scat suf]}	"dim@1"
+-piji	{[scat suf:foc]}	"top@1"
+-ping	{[scat suf]}	"assoc@1"
+-pingi	{[scat suf]}	"assoc@1"
+-pingki	{[scat suf]}	"assoc@1"
+-pinki	{[scat suf]}	"assoc@1"
+-puka	{[scat suf]}	"only@1"
+-purra	{[scat suf]}	"towards@1"
+-rla	{[scat case]} "loc@1"
+rla     {[scat case]}   "loc@1"
+-rla	{[scat v:aux]}	"rla:dat@1"
+-rlang	{[scat suf]}	"also@1"
+-rli	{[scat case][case erg]}	"erg@1"
+-rli	{[scat v:aux]}	"1dlInc:Subl@1"
+-rlu	{[scat case][case erg]}	"erg@1"
+-rn	{[scat v:infl]}	"rn:npst@1"
+-rna	{[scat v:aux]}	"1sg:S@1"
+-rni	{[scat suf:dir]}	"hither@1"
+-rra	{[scat v:aux]}	"fut"
+-rra	{[scat suf]}	"PL"
+rra		{[scat suf]}	"PL"
+-wana	{[scat case]}	"perl@1"
+-wangu	{[scat suf]}	"depriv@1"
+-wani	{[scat suf]}	"one"
+-wardingki	{[scat suf]}	"belong@1"
+-warnu	{[scat case]}	"abl@1"
+-wat	{[scat suf]}	"pl@1"
+-wita	{[scat n]}	"small@1"
+% hyphenated
+1	{[scat num]}	"one:card"
+2	{[scat num]}	"two:card"
+26	{[scat num]}
+3	{[scat num]}	"three:card"
+34	{[scat num]}
+4	{[scat num]}	"four"
+5	{[scat num]}	"five"
+6	{[scat num]}	"six"
+7	{[scat num]}	"seven"
+8	{[scat num]}	"eight"
+9	{[scat num]}	"nine"
+a	{[scat art]}	"indef"
+a	{[scat pro][pro lw]}	"a:1sg"
+aaa	{[scat dis]}	"ah"
+aaaa	{[scat dis]}	"ah"
+aaaah	{[scat dis]}	"ah"
+aaaang	{[scat dis]}	"ah"
+aaah	{[scat dis]}
+aaawww	{[scat dis]}
+aaaxxx	{[scat dis]}
+aaeheh	{[scat dis]}
+aah	{[scat dis]}
+aahh	{[scat dis]}
+aapa	{[scat n]}	"water@1"
+aay	{[scat dis]}
+ab	{[scat v:tran]}	"have"
+abit	{[scat v:tran]}	"have3sgObj"
+abn	{[scat v:aux]}	"1sg:Subpst"
+about	{[scat prep]}
+abaut   {[scat prep]}
+accident	{[scat n]}
+ache	{[scat n]}
+action	{[scat n]}
+activat	{[scat v:tran]}
+aeroplane	{[scat n]}
+aeroplani	{[scat n]}
+after	{[scat prep]}
+afternun    {[scat n]}  "afternoon"
+aftanun {[scat n]}  "afternoon"
+aftanuun    {[scat n]}  "afternoon"
+again	{[scat adv]}
+against	{[scat adv]}
+age	{[scat n]}
+ah	{[scat dis]}	"ah"
+aha	{[scat dis]}
+ahah	{[scat dis]}
+ahahah	{[scat dis]}
+ahahhh	{[scat dis]}
+ahh	{[scat dis]}
+ahhh	{[scat dis]}
+ahhhh	{[scat dis]}
+ahhhhh	{[scat dis]}
+ai	{[scat pro]}	"1sg:S"
+Ailian	{[scat n:prop]}
+Ainsley	{[scat n:prop]}
+Air	{[scat n:prop]}
+air	{[scat n]}
+airplane	{[scat n]}
+AJ	{[scat n:prop]}
+aja	{[scat suf]}	"emph@1"
+aju	{[scat pro]}	"1sg@1"
+aksiden {[scat n]}  "accident"
+Aka	{[scat n:prop]}	"skin@1"
+Akay	{[scat n:prop]}	"skin@1"
+akaya	{[scat n:prop]}	"@1"
+Akaya	{[scat n:prop]}	"skin@1"
+Akayaaa	{[scat n:prop]}	"skin@1"
+akayaj	{[scat n:prop]}
+Akayi	{[scat n:prop]}	"skin@1"
+al	{[scat pro:v]}	"1sg:Subv:aux:fut"
+al	{[scat pro]}	"1sg:Subaux:fut"
+Ala	{[scat n:prop]}	"@1"
+ala	{[scat qan]}	"all"
+alala	{[scat n:prop]}	"@1"
+Alice	{[scat n:prop]}
+alive	{[scat v:intran]}
+all	{[scat qan]}
+alda    {[scat qan]}    "all:the"
+alla	{[scat qan]}	"all"
+Allan	{[scat n:prop]}
+alo	{[scat dis]}
+Alo	{[scat dis]}	"hello"
+alone	{[scat adv]}
+along	{[scat prep]}
+already	{[scat adv]}
+alright	{[scat adv]}
+always	{[scat adv]}
+AM	{[scat n:prop]}
+am	{[scat pro:1sg]}	"I'm"
+am	{[scat pro]}	"1sg.S.NONFUT"
+Amam	{[scat n:prop]}
+Amish	{[scat n:prop]}
+amp	{[scat det]}	"thishere@1"
+ampi	{[scat n]}
+ampu	{[scat det]}	"thishere@1"
+an	{[scat conj]}	"an"
+an	{[scat suf:tel]}	"down"
+ana	{[scat v:aux]}	"1sg.S.want"
+anan	{[scat dis]}
+and	{[scat conj]}	"and"
+anda	{[scat dis]}
+Andoni	{[scat n:prop]}
+andre	{[scat n:prop]}
+anga	{[scat dis]}	"anga:tag@1"
+Angala	{[scat n:prop]}	"skin@1"
+Angelo	{[scat n:prop]}
+angka	{[scat dis]}	"angka:tag@1"
+ani	{[scat conj]}	"and@1"
+Ani	{[scat n:prop]}
+anis	{[scat dis]}
+ankul	{[scat n:kin]}
+anna	{[scat n:prop]}
+anotha	{[scat n]}
+another	{[scat n]}
+ans	{[scat conj]}
+ant	{[scat n]}
+angry   {[scat n]}
+Anthony	{[scat n:prop]}
+Anton	{[scat n:prop]}
+ants	{[scat n]}	"antpl"
+any	{[scat art]}
+anybody	{[scat n]}
+anyone	{[scat n]}
+anything	{[scat n]}
+anyway	{[scat disj]}	"anyway"
+anywhere	{[scat adv]}
+ap	{[scat suf:tel]}	"up:asp:tel"
+apa	{[scat n]}	"water@1"
+Apaju	{[scat n:kin]}	"fathersmother@1"
+Apawu	{[scat n:prop]}	"skin@1"
+Apaya	{[scat n:prop]}	"skin@1"
+apayi	{[scat n:prop]}	"skin@1"
+Apayili	{[scat n:prop]}
+Apayililu	{[scat n:prop]}	"skin@1"
+Apayilu	{[scat n:prop]}	"skin@1"
+Apayilulu	{[scat n:prop]}	"skin@1"
+Apayilyulu	{[scat n:prop]}	"skin@1"
+Apayiyi	{[scat n:prop]}	"skin@1"
+apo	{[scat n:prop]}	"skin@1"
+apple	{[scat n]}
+apu	{[scat n:prop]}	"skin@1"
+Apujayi	{[scat n:prop]}	"skin@1"
+Apuji	{[scat n:prop]}	"skin@1"
+apuju	{[scat n:kin]}	"fathersmother"
+Apulu	{[scat n:prop]}	"skin@1"
+Apurru	{[scat n:prop]}	"skin@1"
+are	{[scat v:intran]}
+area	{[scat n]}
+argument	{[scat n]}
+aright	{[scat dis]}
+army	{[scat n]}
+Arna	{[scat n:prop]}
+aroun	{[scat prep]}
+around	{[scat prep]}
+araun   {[scat prep]}   "around"
+arra	{[scat pro]}	"1sg:S:fut"
+arrow	{[scat n]}
+as	{[scat v:intran]}
+Ashwin	{[scat n:prop]}
+Ashwini	{[scat n:prop]}
+ask	{[scat v:tran]}
+ask	{[scat v:intran]}
+aski	{[scat v:intran]}	"ask"
+Aspring	{[scat n:prop]}
+Aston	{[scat n:prop]}
+at	{[scat suf:tel]}	"out"
+at	{[scat prep]}	"at"
+ati	{[scat suf:tel]}	"loc:out"
+atsaid	{[scat prep]}	"outside"
+atside	{[scat adv]}
+Audrey	{[scat n:prop]}
+August	{[scat n:prop]}
+aunty	{[scat n:kin]}
+awake	{[scat v:intran]}
+away	{[scat prep]}
+awei	{[scat prep]}
+ayi	{[scat dis]}
+ayooya	{[scat dis]}
+baaah	{[scat dis]}
+baah	{[scat dis]}
+bab	{[scat n]}	"baby"
+baba	{[scat n]}	"baby"
+babi	{[scat n]}
+babu	{[scat n]}
+Baby	{[scat n:prop]}
+baby	{[scat n]}	"baby"
+back	{[scat n]}	"back"
+backside	{[scat n]}
+bag	{[scat n]}
+bah	{[scat dis]}
+Baidon	{[scat n:prop]}
+baik	{[scat n]}	"bike"
+baind	{[scat v:tran]}	"find"
+bait	{[scat v:tran]}
+baiti	{[scat v:tran]}	"bite"
+baketball	{[scat n]}
+bal	{[scat n]}	"ball"
+Balgo	{[scat n:prop]}
+ball	{[scat n]}	"ball"
+balloon	{[scat n]}	"balloon"
+ballu	{[scat n]}	"ball"
+bambawu	{[scat n]}
+Band	{[scat n:prop]}
+ban     {[scat n]}  "band"
+bandage	{[scat n]}
+bandap	{[scat v:tran]}	"bangLOC:up"
+bandij	{[scat n]}
+bang	{[scat n]}
+bangbang	{[scat n]}
+bangle	{[scat n]}
+bank	{[scat n]}
+banker	{[scat n]}
+banket	{[scat n]}
+barb	{[scat n]}
+bark	{[scat v:intran]}
+barunga	{[scat n:prop]}
+basket	{[scat n]}
+basketball	{[scat n]}
+bast	{[scat v:tran]}	"bust"
+basti	{[scat v:tran]}	"bust"
+bat	{[scat n]}
+bat {[scat disj]}    "but"
+bat {[scat v:tran]} "bite"
+bat	{[scat suf:iter]}	"iter"
+bat	{[scat v:infl]}	"iter"
+Batchelor	{[scat n:prop]}
+bathers	{[scat n]}
+Batman	{[scat n:prop]}
+battery	{[scat n]}
+bay	{[scat n]}
+be	{[scat v:intran]}
+bear	{[scat n]}
+beat	{[scat v:tran]}
+because	{[scat conj]}
+bed	{[scat n]}
+beefi	{[scat n]}
+been	{[scat v:intran]}
+beep	{[scat n]}
+before	{[scat prep]}
+behind	{[scat prep]}
+beibi	{[scat n]}	"baby"
+believe	{[scat v:intran]}
+Belinda	{[scat n:prop]}
+bell	{[scat n]}
+ben	{[scat v:part]}	"been"
+bend	{[scat n]}
+Berta	{[scat n:prop]}
+betta	{[scat adv]}
+better	{[scat adv]}
+bi	{[scat dis]}
+bi	{[scat v:mod]}	"be"
+bib	{[scat n]}
+bibi	{[scat n]}
+Bibili	{[scat n:prop]}
+biby	{[scat n]}
+bidea	{[scat n]}
+bideo	{[scat n]}
+Bidin	{[scat n:prop]}
+bidio	{[scat n]}
+big	{[scat n]}
+biiiiiip	{[scat dis]}
+biiiiip	{[scat dis]}
+biip	{[scat dis]}
+bike	{[scat n]}
+bike	{[scat n]}	"bike"
+bikki	{[scat n]}
+bilikan	{[scat n]}
+Biliman	{[scat n:prop]}
+billy	{[scat n]}
+bim	{[scat v:aux]}	"PST"
+bin	{[scat n]}
+bin	{[scat v:aux]}	"PST"
+bingo	{[scat n]}
+binish	{[scat v:tran]}
+Bio	{[scat n:prop]}
+bip	{[scat n]}
+Birdin	{[scat n:prop]}
+birth	{[scat n]}
+birthday	{[scat n]}
+biscuit	{[scat n]}
+bit	{[scat n]}
+bit {[scat v:tran]} "bite"
+bite	{[scat v:tran]}
+BJ	{[scat n:prop]}
+black	{[scat n]} % create ARULES for blak ($-ck to $-k)
+blackboard	{[scat n]} 
+Blackie	{[scat n:prop]}
+blah	{[scat dis]}
+blame	{[scat v:tran]}
+blanker	{[scat n]}
+blanket	{[scat n]}	"blanket"
+bleed	{[scat v:intran]}
+bliid	{[scat v:intran]}	"bleed"
+block	{[scat n]}
+block	{[scat v:tran]}
+blood	{[scat n]}
+blow	{[scat v:tran]}
+blue	{[scat n]}
+blu     {[scat n]}  "blue"
+bo	{[scat prep]}	"dat"
+board	{[scat n]}
+boat	{[scat n]}
+Bobo	{[scat n:prop]}
+bog	{[scat n]}
+boi	{[scat n]}	"boy"
+boi_wan	{[scat n]}	"boy"
+boil	{[scat n]}
+boiwan	{[scat n]}	"boy"
+bone	{[scat n]}
+bonnet	{[scat n]}
+bonet   {[scat n]}
+book	{[scat n]}
+boom	{[scat n]}
+boom	{[scat n]}	"car"
+boomboom	{[scat n]}	"car"
+boomerang	{[scat n]}
+boot	{[scat n]}
+bor	{[scat prep]}	"for"
+both {[scat det]}
+bottle	{[scat n]}
+botul	{[scat n]}
+botulu	{[scat n]}
+bought	{[scat v:tran]}
+bounce	{[scat v:intran]}
+bowl	{[scat n]}
+box	{[scat n]}
+boy	{[scat n]}
+boyi	{[scat n]}	"boy"
+boys	{[scat n]}
+bra	{[scat n]}
+Brae	{[scat n:prop]}
+braedon	{[scat n:prop]}
+brain	{[scat n]}
+brains	{[scat n]}
+bread	{[scat n]}
+Breadon	{[scat n:prop]}
+break	{[scat v:tran]}
+breik   {[scat v:tran]} "break"
+breakdance	{[scat n]}
+breakfast	{[scat n]}
+brekfast	{[scat n]}
+bridge	{[scat n]}
+brij    {[scat n]}  "bridge"
+bright	{[scat n]}
+brim	{[scat prep]}	"for:3sgObj:him"
+bring	{[scat v:tran]}	"bring"
+bro	{[scat fst]}
+bro	{[scat n:kin]}
+brok	{[scat v:tran]}
+broke	{[scat v:tran]}
+broken	{[scat v:tran]}
+brom	{[scat n]}
+broom	{[scat n]}
+broom	{[scat n]}	"car"
+brotha	{[scat n]}
+brother	{[scat n]}
+bratha	{[scat n]}	"brother"
+brown	{[scat n]}
+brrrrm	{[scat dis]}
+bruck	{[scat n]}
+bubble	{[scat n]}
+bucket	{[scat n]}
+bucketi	{[scat n]}
+bugger	{[scat n]}
+bugi	{[scat v:intran]}	"wash"
+build	{[scat v:tran]}
+bullock	{[scat n]}
+bump	{[scat v:tran]}
+bamp    {[scat v:tran]}
+bumpi	{[scat v:tran]}
+bumpu	{[scat v:tran]}
+burn	{[scat v:tran]}
+bury	{[scat v:tran]}
+bus	{[scat n]}
+bush	{[scat n]}
+business	{[scat n]}
+bust	{[scat v:tran]}
+busy	{[scat adv]}
+but	{[scat dis]}
+butter	{[scat n]}
+butterfly	{[scat n]}
+buu	{[scat dis]}
+buy	{[scat v:tran]}
+by	{[scat prep]}
+bye	{[scat n]}
+bye	{[scat n]}	"sleep"
+byebye	{[scat n]}
+caan	{[scat v:mod]}
+cadelo	{[scat n:prop]}
+cage	{[scat n]}
+Cajawu	{[scat n:prop]}
+Cajjo	{[scat n:prop]}
+cajo	{[scat n:prop]}
+cake	{[scat n]}
+Caleb	{[scat n:prop]}
+call	{[scat v:tran]}
+cam	{[scat v:intran]}
+camat	{[scat v:intran]}
+came	{[scat v:intran]}
+camera	{[scat n]}
+Cameron	{[scat n:prop]}
+camp	{[scat n]}
+Can	{[scat v:intran]}
+can	{[scat v:mod]}
+can	{[scat v:mod]}	"can"
+kan {[scat v:mod]}  "can"
+cancey	{[scat n]}
+candle	{[scat n]}
+candok	{[scat n]}
+cane	{[scat n]}
+Canetoad	{[scat n:prop]}
+cant	{[scat v:mod]}
+canvassi	{[scat n]}
+car	{[scat n]}
+kaa {[scat n]}  "car"
+card	{[scat n]}
+cardi	{[scat n]}
+cards	{[scat n]}
+care	{[scat v:intran]}
+carmel	{[scat n:prop]}
+Carmelu	{[scat n:prop]}
+Carmulu	{[scat n:prop]}
+carry	{[scat v:tran]}
+cart	{[scat n]}
+Casso	{[scat n:prop]}
+cat	{[scat n]}
+cat	{[scat n]}	""
+catch	{[scat v:tran]}
+catfishi	{[scat n]}
+caught	{[scat v:tran]}
+cause	{[scat v:tran]}
+cave	{[scat n]}
+celebrat	{[scat v:intran]}
+cell	{[scat n]}
+centrelink	{[scat n:prop]}
+cents	{[scat n]}
+chair	{[scat n]}
+chaira	{[scat n]}
+chance	{[scat n]}
+chang	{[scat v:tran]}
+change	{[scat v:tran]}
+changi	{[scat v:tran]}
+chas	{[scat v:tran]}
+chase	{[scat v:tran]}
+chasi	{[scat v:tran]}
+check	{[scat v:tran]}
+cheek	{[scat n]}
+cheeky	{[scat n]}
+cheers	{[scat dis]}
+cherry	{[scat n]}
+chila	{[scat n:prop]}
+chili	{[scat n]}
+chip	{[scat n]}
+chips	{[scat n]}
+chocolate	{[scat n]}
+choof	{[scat n]}
+choose	{[scat v:tran]}
+chose	{[scat v:tran]}
+Christmas	{[scat n:prop]}
+chuck	{[scat v:tran]}
+circle	{[scat n]}
+clap	{[scat n]}
+Clari	{[scat n:prop]}
+Claris	{[scat n:prop]}
+Clarisi	{[scat n:prop]}
+class	{[scat n]}
+classroom	{[scat n]}
+Claus	{[scat n:prop]}
+clean	{[scat v:tran]}
+kliin   {[scat v:tran]} "clean"
+clear	{[scat n]}
+climb	{[scat v:tran]}
+clinic	{[scat n]}
+close	{[scat n]}
+clothe	{[scat n]}
+clothes	{[scat n]}
+clos    {[scat n]}  "clothes"
+coat	{[scat n]}
+cob	{[scat n]}
+coem	{[scat v:intran]}
+cold	{[scat n]}
+coli	{[scat n]}
+color	{[scat n]}
+colour	{[scat n]}
+com	{[scat v:intran]}
+coma	{[scat n]}
+comb	{[scat n]}
+Come	{[scat n:prop]}
+come	{[scat v:intran]}	"come"
+comfuter	{[scat n]}
+community	{[scat n]}
+computer	{[scat n]}
+connie	{[scat n:prop]}
+container	{[scat n]}
+cook	{[scat v:tran]}
+kuk     {[scat v:tran]} "cook"
+cool	{[scat n]}
+copy	{[scat v:tran]}
+copycat	{[scat n]}
+cordial	{[scat n]}
+Corey	{[scat n:prop]}
+corn	{[scat n]}
+Cornelia	{[scat n:prop]}
+corner	{[scat n]}
+Corni	{[scat n:prop]}
+Corniya	{[scat n:prop]}
+COS	{[scat n:prop]}
+coughs	{[scat dis]}
+could	{[scat v:mod]}
+couldn	{[scat v:mod:neg]}
+couldn't	{[scat v:mod:neg]}
+council	{[scat n]}
+CouncilGirl	{[scat n:prop]}
+count	{[scat v:tran]}
+counti	{[scat v:tran]}
+country	{[scat n]}
+court	{[scat n]}
+Courtney	{[scat n:prop]}
+cousin	{[scat n:kin]}
+cover	{[scat n]}
+crab	{[scat n]}
+cracker	{[scat n]}
+cratch	{[scat v:tran]}
+crawl	{[scat v:intran]}
+cream	{[scat n]}
+credit	{[scat n]}
+creek	{[scat n]}
+cries	{[scat v:intran]}
+crocodile	{[scat n]}
+krakadail	{[scat n]}	"crocodile"
+krakadil    {[scat n]}  "crocodile"
+crocodili	{[scat n]}
+crook	{[scat n]}
+crowbar	{[scat n]}
+Crowden	{[scat n:prop]}
+cry	{[scat v:intran]}
+cryin	{[scat v:intran]}
+CS	{[scat n:prop]}
+cubby	{[scat n]}
+cup	{[scat n]}
+cupboard	{[scat n]}
+cupu	{[scat n]}
+cuse	{[scat dis]}
+customer	{[scat n]}
+cut	{[scat v:tran]}
+Cuya	{[scat n:prop]}
+cyr	{[scat v:intran]}
+da	{[scat dis]}
+da	{[scat pro]}	"3pl:Sub_are"
+da	{[scat pro]}	"3pl:Subare"
+da  {[scat det]}    "the"
+Dad	{[scat n:prop]}
+dad	{[scat n]}
+Dada	{[scat n:prop]}
+dada	{[scat n]}
+dadad	{[scat n]}
+Dadadu	{[scat n:prop]}
+Dadaj	{[scat n:prop]}
+daddy	{[scat n]}
+Dadi	{[scat n:prop]}
+dadi	{[scat n]}
+dadum	{[scat n]}
+dah	{[scat dis]}
+dakada	{[scat n:prop]}	"Jakarra@1"
+Dakada	{[scat n:prop]}	"skin@1"
+dala	{[scat n]}
+dalala	{[scat n]}
+Dampa	{[scat n:prop]}
+damper	{[scat n]}
+Dan	{[scat n:prop]}
+dan	{[scat suf:tel]}	"down:loc"
+dan {[scat prep]} "down"
+danc	{[scat n]}
+dance	{[scat n]}
+dancer	{[scat n]}
+dandan	{[scat n:prop]}
+Dandani	{[scat n:prop]}
+Dandi	{[scat n:prop]}
+dar	{[scat pro]}	"3pl:Subare"
+dardi	{[scat n]}
+dark	{[scat n]}
+dart	{[scat n]}
+darwin	{[scat n:prop]}
+das	{[scat dis]}
+dat	{[scat det]}	"that"
+data	{[scat n]}
+date	{[scat n]}
+dats	{[scat comp]}
+daughter	{[scat n]}
+day	{[scat n]}
+de	{[scat pro][pro lw]}	"3PL.S"
+dei	{[scat pro][pro lw]}	"3PL.S"
+dead	{[scat n]}
+deal	{[scat v:tran]}
+dealer	{[scat n]}
+Deanna	{[scat n:prop]}
+Deanne	{[scat n:prop]}
+Debinawu	{[scat n:prop]}
+deddy	{[scat n]}
+dee	{[scat v:tran]}	"see"
+deep	{[scat n]}
+deer	{[scat n]}
+deh	{[scat dis]}
+dem	{[scat pro]}	"3PL.O"
+den	{[scat conj]}	"then"
+denarra	{[scat pro]}
+der	{[scat det]}	"there"
+Derrick	{[scat n:prop]}
+derself	{[scat pro]}	"3pl:reflex"
+deself	{[scat pro]}	"3pl:reflex"
+Desmond	{[scat n:prop]}
+dey	{[scat pro]}	"3pl:S"
+deya	{[scat det]}
+did	{[scat v:mod]}
+didn	{[scat v:intran]}
+didn	{[scat v:mod:neg]}	"didnt"
+didn't	{[scat v:mod:neg]}
+die	{[scat v:intran]}
+dieselu	{[scat n]}
+diff	{[scat fst]}
+differen	{[scat n]}
+different	{[scat n]}
+diffren	{[scat n]}
+dig	{[scat v:tran]}
+dijan	{[scat det]}	"thisone"
+dil	{[scat adv:time]}	"still"
+ding	{[scat n]}
+dingo	{[scat n]}
+dink	{[scat v:tran]}
+Dion	{[scat n:prop]}
+dirty	{[scat n]}
+dis	{[scat det]}	"this"
+disco	{[scat n]}
+dit	{[scat det]}
+dive	{[scat v:tran]}
+Dixon	{[scat n:prop]}
+dizzy	{[scat n]}
+djurlpu	{[scat n]}
+DL	{[scat n:prop]}
+do	{[scat v:tran]}	"do"
+do	{[scat v:aux]}	"dont:neg"
+do_n	{[scat v:aux]}	"dont:neg"
+do_nt	{[scat v:aux]}	"dont:neg"
+doctor	{[scat n]}
+doesnt	{[scat v:intran]}	"neg"
+doesnt	{[scat v:mod:neg]}	"neg"
+dog	{[scat n]}
+doggy	{[scat n]}
+dolar	{[scat n]}
+doldol	{[scat n]}
+doll	{[scat n]}
+dollar	{[scat n]}
+Don	{[scat n:prop]}
+don	{[scat v:aux]}	":neg"
+don	{[scat v:mod:neg]}	"dont:neg"
+don	{[scat v:tran]}	"dont:neg"
+donkey	{[scat n]}
+dont	{[scat v:aux]}	":neg"
+dont	{[scat v:intran]}
+do-nt	{[scat v:intran]} "do:NEG"
+dont	{[scat v:mod:neg]}	"dont:neg"
+doof	{[scat dis]}
+door	{[scat n]}	"door"
+duu     {[scat n]}  "door"
+dooru	{[scat n]}
+dooru	{[scat n]}	"door"
+doorway	{[scat n]}
+Dorothy	{[scat n:prop]}
+dot	{[scat n]}
+double	{[scat n]}
+Down	{[scat n:prop]}
+down	{[scat prep]}
+drag	{[scat v:tran]}
+draib	{[scat v:tran]}	"drive"
+draiv	{[scat v:tran]}	"drive"
+draiver	{[scat n]}	"driver"
+draw	{[scat v:tran]}
+dresed	{[scat n]}
+dress	{[scat n]}
+dressed	{[scat v:intran]}
+Drijan	{[scat n:prop]}
+drink	{[scat v:tran]}
+driv	{[scat v:tran]}
+driv:intran	{[scat v:tran]}
+drive	{[scat v:tran]}
+driver	{[scat n]}
+drivi	{[scat v:tran]}
+drop	{[scat n]}
+drum	{[scat n]}
+dram	{[scat n]}	"drum"
+drumi	{[scat n]}	"drum"
+drummer	{[scat n]}
+drunk	{[scat n]}
+drunken	{[scat n]}
+dry	{[scat n]}
+Duck	{[scat n:prop]}
+duck	{[scat n]}
+dump	{[scat v:tran]}
+dumpi	{[scat v:tran]}
+dumpu	{[scat v:tran]}
+dunno	{[scat v:intran]}
+dvd	{[scat n]}
+each	{[scat qan]}
+early	{[scat n]}
+ears	{[scat n]}
+easter	{[scat n:prop]}
+easy	{[scat n]}
+eat	{[scat v:tran]}
+iit {[scat v:tran]} "eat"
+Ebridi	{[scat n:prop]}
+ebrything	{[scat n]}
+ed	{[scat v:infl]}	"past"
+Eddie	{[scat n:prop]}
+Ee	{[scat n:prop]}
+eeeh	{[scat dis]}
+eeh	{[scat dis]}
+eehh	{[scat dis]}
+eepayi	{[scat n]}	"aeroplane"
+eeplane	{[scat n]}
+eeplane	{[scat n]}	"aeroplane"
+egg	{[scat n]}
+eh	{[scat dis]}
+ehe	{[scat dis]}
+eheheh	{[scat dis]}
+ehh	{[scat dis]}
+ehhh	{[scat dis]}
+ehhhh	{[scat dis]}
+ehhhhh	{[scat dis]}
+eight	{[scat num]}	"card"
+eighteen	{[scat num]}
+eighty	{[scat num]}
+ej	{[scat dis]}
+Elaine	{[scat n:prop]}
+Eldon	{[scat n:prop]}
+Eldridge	{[scat n:prop]}
+elephanawu	{[scat n]}
+elephant	{[scat n]}
+elephanti	{[scat n]}
+eleven	{[scat num]}	"card"
+Eli	{[scat n:prop]}
+Elma	{[scat n:prop]}
+else	{[scat n]}
+Elton	{[scat n:prop]}
+em	{[scat pro]}	"3pl"
+em	{[scat v:infl]}	"im:TR"
+-em	{[scat v:infl]}	"im:TR"
+en	{[scat v:infl]}
+en	{[scat v:infl]}	"npst:en"
+end	{[scat n]}
+Endrij	{[scat n:prop]}
+enemy	{[scat n]}
+English	{[scat n:prop]}
+eni	{[scat v:infl]}	"npst:en"
+er	{[scat pro]}	"3sg:O:fem"
+er	{[scat v:infl]}
+er	{[scat v:infl]}	"er"
+ermanburg	{[scat n:prop]}
+es	{[scat v:infl]}	"pl"
+est	{[scat v:infl]}	"superl"
+Ethan	{[scat n:prop]}
+Ev:intrane	{[scat n:prop]}
+eva	{[scat n:prop]}
+every	{[scat qan]}
+everybody	{[scat n]}
+everyone	{[scat n]}
+everything	{[scat n]}
+everyting	{[scat n]}
+everywhere	{[scat adv]}
+Evie	{[scat n:prop]}
+EW	{[scat n:prop]}
+except	{[scat conj]}
+excuse	{[scat n]}
+eye	{[scat n]}
+eyes	{[scat n]}
+f	{[scat ?]}
+fac	{[scat adv]}	"facing"
+fresh   {[scat n]}
+face	{[scat n]}
+facei	{[scat n]}
+fada	{[scat n]}
+faind	{[scat v:tran]}	"find"
+faja	{[scat n]}
+fak	{[scat v:tran]}
+fal	{[scat v:intran]} "fall"
+fal-dan {[scat v:intran]}   "fall:down"
+fall	{[scat v:intran]}
+family	{[scat n]}
+far	{[scat adv]}
+fam {[scat n]}  "farm"
+fart	{[scat n]}
+fast	{[scat adv]}
+fat	{[scat n]}
+father	{[scat n]}
+fatu	{[scat n]}
+faya	{[scat n]}	"fire"
+feed	{[scat v:tran]}
+feel	{[scat v:tran]}
+feet	{[scat n]}
+Felicity	{[scat n:prop]}
+Felix	{[scat n:prop]}
+fence	{[scat n]}
+fenci	{[scat n]}
+fenji	{[scat n]}
+fens	{[scat n]}	"fence"
+fense {[scat n]}	"fence"
+fibe	{[scat num]}	"card"
+fifteen	{[scat num]}
+fifty	{[scat num]}	"card"
+fight	{[scat n]}	"fight"
+fight	{[scat v:tran]}	"fight"
+fiks	{[scat v:tran]}	"fix"
+fil	{[scat v:tran]}
+fill	{[scat v:tran]}
+find	{[scat v:tran]}
+findi	{[scat v:tran]}
+finger	{[scat n]}
+finij	{[scat v:intran]}	"finish"
+finis	{[scat v:intran]}
+finish	{[scat v:intran]}
+finished	{[scat v:intran]}
+finsh	{[scat v:intran]}
+fire	{[scat n]}
+firs	{[scat num]}	"first"
+first	{[scat num]}	"first"
+fis	{[scat n]}
+fish	{[scat n]}
+fisk	{[scat v:tran]}
+fit	{[scat v:tran]}
+five	{[scat num]}
+fix	{[scat v:tran]}
+fixi	{[scat v:tran]}
+flat	{[scat n]}
+flat {[scat n]}
+flatten	{[scat v:infin]}
+floor	{[scat n]}
+flour	{[scat n]}
+flower	{[scat n]}
+fly	{[scat n]}	"fly"
+fly	{[scat v:intran]}	"fly"
+fo	{[scat prep]}	"for"
+follow	{[scat v:intran]}	"follow"
+food	{[scat n]}
+fuud    {[scat n]}
+foot	{[scat n]}
+football	{[scat n]}
+for	{[scat prep]}
+forc	{[scat v:tran]}
+force	{[scat v:tran]}
+forty	{[scat num]}	"card"
+found	{[scat v:tran]}
+four	{[scat num]}	"card"
+fourteen	{[scat num]}	"card"
+fravite	{[scat n]}
+free	{[scat n]}
+Friday	{[scat n:prop]}
+fridge	{[scat n]}
+friend	{[scat n]}
+fright	{[scat v:tran]}
+frighten	{[scat v:intran]}
+frightened	{[scat n]}
+Frite	{[scat n:prop]}
+frog	{[scat n]}
+frogfrog	{[scat n]}
+from	{[scat prep]}
+front	{[scat n]}
+fruit	{[scat n]}
+fuck	{[scat v:tran]}
+fucker	{[scat n]}
+fuel	{[scat n]}
+full	{[scat n]}
+ful     {[scat n]}  "full"
+fun	{[scat n]}
+funnel	{[scat n]}
+funny	{[scat n]}
+fut	{[scat v:tran]}
+game	{[scat n]}
+Gamon	{[scat n:prop]}
+Gamun	{[scat n:prop]}
+gana	{[scat v:intran]}	"goFUT"
+Gangan	{[scat n:prop]}
+gani	{[scat n]}
+ganny	{[scat n]}
+garra	{[scat v:mod]}	"fut"
+gat	{[scat n]}
+gate	{[scat n]}
+gave	{[scat v:tran]}
+gadin   {[scat n]}  "garden"
+ged	{[scat v:tran]}	"get"
+geit	{[scat n]}	"gate"
+gel	{[scat n]}	"girl"
+gen	{[scat adv]}	"alsoagain"
+gentlemen	{[scat n]}
+Geraldine	{[scat n:prop]}
+get	{[scat v:tran]}	"get"
+gett	{[scat v:tran]}	"get"
+gfront	{[scat n]}
+ghost	{[scat n]}
+gib	{[scat v:tran]}	"ditran:give"
+giddy	{[scat n]}
+giim	{[scat v:tran]}	"ditran:give"
+gi	{[scat v:tran]}	"ditran:give"
+gim	{[scat v:tran]}	"ditran:give"
+gimm	{[scat v:tran]}	"ditran:giveme"
+gimme	{[scat v:tran]}	"ditran:giveme"
+gin	{[scat adv]}	"alsoagain"
+Gina	{[scat n:prop]}
+girl	{[scat n]}
+girli	{[scat n]}	"girl"
+Girppin	{[scat n:prop]}
+git	{[scat v:tran]}	"get"
+gid {[scat v:tran]} "get"
+gita	{[scat n]}	"guitar"
+gitar	{[scat n]}	"guitar"
+gitaya	{[scat n]}
+giv	{[scat v:tran]}
+giv	{[scat v:tran]}	"ditran:give"
+give	{[scat v:tran]}	"ditran:give"
+glass	{[scat n]}
+Gloria	{[scat n:prop]}
+go	{[scat v:intran]}	"go"
+goal	{[scat n]}
+goanna	{[scat n]}
+goat	{[scat n]}
+god	{[scat n]}
+goen	{[scat v:intran]}
+gold	{[scat n]}
+golden	{[scat n]}
+gon	{[scat v:intran]}	"go"
+gone	{[scat v:intran]}	"go"
+gonna	{[scat v:intran]}	"go:ing:to"
+gona    {[scat v:intran]}   "going:to"
+good	{[scat n]}
+got	{[scat v:tran]}
+gott	{[scat v:tran]}
+gotta	{[scat v:mod]}
+GR	{[scat n:prop]}
+graaah	{[scat dis]}
+graah	{[scat dis]}
+graham	{[scat n:prop]}
+granddaughter	{[scat n]}
+grandfather	{[scat n:kin]}
+grandi	{[scat n]}
+grandmother	{[scat n:kin]}
+grandpa	{[scat n]}
+granny	{[scat n]}
+grass	{[scat n]}
+great	{[scat n]}
+green	{[scat n]}
+griin   {[scat n]}  "green"
+grey	{[scat n]}
+Griffin	{[scat n:prop]}
+Griffini	{[scat n:prop]}
+Grippin	{[scat n:prop]}
+Grippini	{[scat n:prop]}
+grmmm	{[scat dis]}
+ground	{[scat n]}
+growl	{[scat v:tran]}
+GRs	{[scat n:prop]}
+gu	{[scat case][case erg]}	"ngu:erg@1"
+guitar	{[scat n]}
+gum	{[scat n]}
+gun	{[scat n]}
+guni	{[scat n]}
+gut	{[scat n]}
+guwana	{[scat n]}
+gwan	{[scat v:intran]}
+Gwenneth	{[scat n:prop]}
+ha	{[scat dis]}
+hab	{[scat v:tran]}
+had	{[scat v:tran]}	"have"
+hafta	{[scat v:mod]}
+hahaha	{[scat dis]}
+hair	{[scat n]}
+half	{[scat n]}
+hallo	{[scat dis]}
+halls	{[scat n]}
+hamburger	{[scat n]}
+Hamish	{[scat n:prop]}
+Hamishi	{[scat n:prop]}
+han	{[scat n]}
+hand	{[scat n]}
+hang	{[scat v:intran]}
+hangi	{[scat v:intran]}
+happen	{[scat v:intran]}
+happened	{[scat vTR]}
+happy	{[scat n]}
+api		{[scat n]}	"happy"
+hard	{[scat n]}
+Harry	{[scat n:prop]}
+hat	{[scat n]}
+hav	{[scat v:tran]}
+have	{[scat v:tran]}
+he	{[scat pro]}	"3sg:S"
+he'll	{[scat pro:v:aux]}	"3sg:Subv:fut"
+he's	{[scat pro:v:aux]}	"3sg:Subv:pres"
+head	{[scat n]}
+headache	{[scat n]}
+hedeik  {[scat n]}
+hear	{[scat v:tran]}
+heart	{[scat n]}
+heavy	{[scat n]}
+heh	{[scat dis]}mor 
+hello	{[scat dis]}
+help	{[scat v:tran]}
+elp {[scat v:tran]} "help"
+helpi	{[scat v:tran]}
+her	{[scat pro]}	"3sg:poss"
+here	{[scat det]}
+Hermannsburg	{[scat n:prop]}
+herself	{[scat pro]}	"3sg:reflex"
+hes	{[scat pro]}	"3sg:poss"
+hey	{[scat dis]}
+hh	{[scat dis]}
+hhh	{[scat dis]}
+hhm	{[scat dis]}
+hi	{[scat dis]}
+hid	{[scat v:tran]}
+hide	{[scat v:intran]}
+aid {[scat v:intran]}   "hide"
+high	{[scat n]}
+Hill	{[scat n:prop]}
+hill	{[scat n]}
+him	{[scat pro]}	"3sg:O"
+hip	{[scat dis]}
+his	{[scat pro]}	"3sg:poss"
+hit	{[scat v:tran]}	"hit"
+iit {[scat v:tran]} "hit"
+it  {[scat v:tran]} "hit"
+hitt {[scat v:tran]}
+hm	{[scat dis]}
+ho	{[scat dis]}
+hold	{[scat v:tran]}
+hole	{[scat n]}
+Holland	{[scat n:prop]}
+home	{[scat n]}
+honey	{[scat n]}
+hop	{[scat v:intran]}
+hop-on {[scat v:intran]}	"hop+on"
+hopon {[scat v:intran]}	"hop+on"
+hopo	{[scat v:intran]}
+horse	{[scat n]}	"horse"
+hose	{[scat n]}
+hospil	{[scat n]}
+hospital	{[scat n]}
+hot	{[scat n]}
+house	{[scat n]}
+how	{[scat qn]}
+hou {[scat qn]} "how"
+hows	{[scat qn]}
+huh	{[scat dis]}
+hulk	{[scat n]}
+humbug	{[scat n]}
+hundred	{[scat num]}
+hungry	{[scat n]}
+hunt	{[scat v:tran]}
+hurry	{[scat adv]}
+hurt	{[scat n]}
+hus	{[scat n]}
+husban {[scat n]} 
+husband	{[scat n]}
+hasbin	{[scat n]}
+I	{[scat pro][pro lw]}	"i:1sg"
+i	{[scat pro][pro lw]}	"i:3sg"
+wi	{[scat pro][pro lw]}	"we:3PL"
+ice	{[scat n]}
+icecream	{[scat n]}
+ici	{[scat n]}
+Id	{[scat n:prop]}
+Idno	{[scat n:prop]}
+if	{[scat conj]}
+iimyu   {[scat n]}  "emu"
+iii	{[scat dis]}
+iiinya	{[scat det]}	"thatthere@1"
+iina	{[scat det]}	"thatthere@1"
+iinya	{[scat det]}	"thatthere@1"
+Iji	{[scat n:prop]}
+iji	{[scat suf:foc]}	"@1"
+Ijo	{[scat n:prop]}
+ik	{[scat case]}	"dat@1"
+iki	{[scat case]}	"dat@1"
+il	{[scat suf]}	"then@1"
+iljili	{[scat n]}	"fingernail@1"
+ilk	{[scat suf]}	"then@1"
+ilki	{[scat suf]}	"then@1"
+im 	{[scat v:deriv]}	"im:TR"
+im 	{[scat pro][pro lw]}	"3SG.O"
+imat	{[scat v:infl]}	"TR:tel"
+imi	{[scat v:infl]}	"@1"
+imself	{[scat pro]}	"3sg:reflex"
+in	{[scat prep]}
+in	{[scat v:infl]} "ing:prog"
+ina	{[scat v:aux]}	"3SG:S:desiderative"
+inarlingi	{[scat n]}	"echidna@1"
+inarra	{[scat det]}
+indit	{[scat dis]}	"tag"
+Indo	{[scat n:prop]}
+Indowu	{[scat n:prop]}
+Indu	{[scat n:prop]}
+ing	{[scat case][case erg]}	"erg@1"
+ing	{[scat v:infl]} "ing:prog"
+inga	{[scat case]}	"@1"
+inga	{[scat case]}	"nga:loc@1"
+Ingakapa	{[scat n:prop]}
+ingi	{[scat case][case erg]}	"erg@1"
+ingka	{[scat case]}	"loc@1"
+Ingka	{[scat n:prop]}
+Ingkapa	{[scat n:prop]}
+Ingkapak	{[scat n:prop]}
+Ingkapaka	{[scat n:prop]}
+Ini	{[scat n:prop]}
+init	{[scat TAG]}
+inja	{[scat v:infl]}	"infin@1"
+injaid	{[scat adv]}
+inji	{[scat v:infl]}	"infin@1"
+ink	{[scat n]}	"type.of.wire"
+insaid	{[scat adv]}	"inside"
+insid	{[scat adv]}	"inside"
+inside  {[scat n]}
+intit	{[scat dis]}
+iny	{[scat det]}	"thatthere@1"
+inya	{[scat det]}	"thatthere@1"
+inyaju	{[scat det]}	"thatthere@1"
+inyawu	{[scat det]}	"thatthere@1"
+inyi	{[scat v:infl]}	"npst@1"
+Iris	{[scat n:prop]}
+%irn	{[scat v:infl]}	"@1"
+is	{[scat pro]}	"3sg:poss"
+iself	{[scat pro]}	"3sg:reflex"
+isself	{[scat pro]}	"3sg:reflex"
+it	{[scat suf]}	"it:TR"
+itchy	{[scat n]}
+its	{[scat pro]}	"3sg:poss"
+iya	{[scat det]}	"here"
+iyili	{[scat n:prop]}
+Iyili	{[scat n:prop]}	"@1"
+jail	{[scat n]}
+jeil    {[scat n]}  "jail"
+jaili	{[scat n]}	"jail"
+jails	{[scat n]}
+jailu	{[scat n]}	"jail"
+jair	{[scat n]}	"chair"
+jaja	{[scat n:kin]}	"mothersmother@1"
+jajan	{[scat dis]}
+jaji	{[scat n:kin]}	"mothersmother@1"
+jajinya	{[scat n:kin]}	"fathersfather@1"
+jaju	{[scat n:kin]}	"mothersmother@1"
+jak	{[scat v:tran]}	"throw"
+Jaka	{[scat n]}	"bottom@1"
+jaka	{[scat n]}	"botton@1"
+Jakada	{[scat n:prop]}	"skin@1"
+Jakaja	{[scat n:prop]}	"skin@1"
+Jakamarra	{[scat n:prop]}	"skin@1"
+Jakamarraping	{[scat n:prop]}	"skin@1assoc"
+Jakara	{[scat n:prop]}	"skin@1"
+Jakarda	{[scat n:prop]}	"skin@1"
+jakarra	{[scat n:prop]}	"skin@1"
+Jakarrawu	{[scat n:prop]}	"skin@1"
+Jakaya	{[scat n:prop]}	"skin@1"
+Jake	{[scat n:prop]}
+jaku	{[scat case]}	"@1"
+jala	{[scat dis]}	"emph@1"
+-jala	{[scat suf]}	"emph@1"
+Jalaj	{[scat n:prop]}
+jalang	{[scat n]}	"today@1"
+jalangu	{[scat n]}	"today@1"
+Jalap	{[scat n:prop]}
+jalawu	{[scat dis]}	"emph@1"
+jalp	{[scat adv]}	"alone"
+jalpi	{[scat n]}	"alone"
+jalpu	{[scat n]}	"bird@1"
+Jaluj	{[scat n:prop]}
+jalya	{[scat n]}	"@1"
+Jama	{[scat n:prop]}
+jamana	{[scat n]}	"@1"
+Jamara	{[scat n:prop]}
+jami	{[scat n]}	"monster@1"
+jampardi	{[scat n]}	"@1"
+Jampijinpa	{[scat n:prop]}	"skin@1"
+Jampit	{[scat n:prop]}	"skin@1"
+Jampiyiti	{[scat n:prop]}	"skin@1"
+jampu	{[scat det]}	"thishere@1"
+jana	{[scat v:aux]}	"3plObj@1"
+jand	{[scat v:intran]}
+Jane	{[scat n:prop]}
+Janei	{[scat n:prop]}
+jang	{[scat case]}	"abl@1"
+jang	{[scat v:tran]} "change"
+janga	{[scat case]}	"abl@1"
+-janga  {[scat case]}   "abl@1"
+jangala	{[scat n:prop]}	"skin@1"
+jangayi	{[scat n]}
+jangka	{[scat case]}	"abl@1"
+jangkarda	{[scat adv]}	"against@1"
+jangkardu	{[scat adv]}	"against@1"
+Janjan	{[scat n:prop]}
+janjanpa	{[scat v]}	"takefrom@1"
+janku	{[scat suf]}	"each@1"
+janya	{[scat n:prop]}
+jap	{[scat n]}	"ball@1"
+japa	{[scat n]}	"dinner"
+Japal	{[scat n:prop]}	"skin@1"
+Japaljarri	{[scat n:prop]}	"skin@1"
+Japalyi	{[scat n:prop]}	"skin@1"
+Japanangka	{[scat n:prop]}	"skin@1"
+Japangardi	{[scat n:prop]}	"skin@1"
+Japayi	{[scat n:prop]}	"skin@1"
+japi	{[scat n]}	"ball@1"
+japu	{[scat n]}	"ball@1"
+jarda	{[scat v]}	"sleep@1"
+Jared	{[scat n:prop]}
+jarl	{[scat n]}	"very@1"
+-jarl	{[scat n]}	"very@1"
+jarla	{[scat n]}	"very@1"
+jarli	{[scat n]}	"very@1"
+jarlu	{[scat n]}	"very@1"
+-jarlu  {[scat n]}  "very@1"
+Jarman	{[scat n:prop]}
+jarn	{[scat v]}	"leaningout@1"
+jarna	{[scat v]}	"away@1"
+jarna	{[scat v]}	"onshoulders@1"
+jarnka	{[scat v:tran]}	"burn@1"
+jarnku	{[scat adv]}	"each@1"
+jarntu	{[scat n]}	"dog@1"
+jarnut	{[scat n]}	"dog@1"
+jarp	{[scat n]}	"sharp"
+jarra	{[scat suf]}	"dual@1"
+jarri	{[scat v:infl]}	"incho@1"
+-jarri  {[scat v:infl]} "incho@1"
+jarrija	{[scat v:intran]}	"incho:pst@1"
+jartit	{[scat n:prop]}	"Titus"
+jaru	{[scat n]}	"language@1"
+jarunju	{[scat adv]}	"fast?@1"
+Jarvis	{[scat n:prop]}
+jas	{[scat v:tran]}	"chase"
+jasi	{[scat v:tran]}	"chase"
+jat	{[scat v:tran]}	"shut"
+jawu	{[scat n]}	"jaw"
+jawuji	{[scat n:kin]}	"mothersfather"
+jawuju	{[scat n:kin]}	"mothersfather"
+jayi	{[scat v:intran]}	"incho@1@1"
+jayirta	{[scat n]}	"shade"
+je	{[scat dis]}
+jeal	{[scat v:tran]}
+jealoj	{[scat n]}
+jealouj	{[scat v:tran]}
+jealous	{[scat n]}
+jealousin	{[scat n]}
+jealuj	{[scat v:tran]}
+jee	{[scat v:tran]}	"see"
+Jeffrey	{[scat n:prop]}
+jeis	{[scat v:tran]}	"chase"
+jelouj	{[scat n]}
+jem	{[scat pro]}	"3plObj"
+jer	{[scat det]}	"there"
+Jerry	{[scat n:prop]}
+Jessiah	{[scat n:prop]}
+Jesus	{[scat n:prop]}
+Jewad	{[scat n:prop]}
+jey	{[scat pro]}	"3pl:S"
+ji	{[scat suf:foc]}	"top@1"
+jid	{[scat v:intran]}	"sit"
+jig	{[scat v:intran]}
+Jii	{[scat n:prop]}
+jiil	{[scat v:tran]}	"point@1"
+jiilin	{[scat n:prop]}
+jiilki	{[scat n]}
+jija	{[scat n]}	"sister"
+Jijaj	{[scat n:prop]}
+Jijaji	{[scat n:prop]}
+jijama	{[scat num]}	"two:CARD"
+jijan	{[scat det]}	"this"
+Jijan	{[scat n:prop]}
+Jiji	{[scat n:prop]}
+jiji	{[scat n]}
+Jijiji	{[scat n:prop]}
+Jijin	{[scat n:prop]}
+jik	{[scat suf]}	"yet@1"
+jika	{[scat num]}	"six:CARD@1"
+jikarra	{[scat n]}	"thorn@1"
+jiki	{[scat suf:tmprl]}	"yet@1"
+jiki	{[scat suf]}	"yet@1"
+jil	{[scat v:tran]}	"point@1"
+Jilaj	{[scat n:prop]}
+jilka	{[scat num]}	"six:CARD@1"
+jilkarla	{[scat n]}	"thorn@1"
+jimanta	{[scat n]}
+Jimara	{[scat n:prop]}
+Jina	{[scat n:prop]}
+jinake	{[scat n]}
+jinaki	{[scat n]}	"snake"
+Jinal	{[scat n:prop]}
+Jinala	{[scat n:prop]}
+Jinali	{[scat n:prop]}
+Jinan	{[scat n:prop]}
+jing	{[scat n]}	"thing@1"
+jing	{[scat v:intran]}	"sing"
+jingabat	{[scat v:intran]} "think"
+jingi	{[scat v:intran]}	"sing"
+jingle	{[scat n]}
+jinkabat {[scat v:intran]} "think"
+jinijini	{[scat n]}	"clothes@1"
+jinijini	{[scat v]}	"clothes@1"
+jinjinpa	{[scat v]}	"request@1"
+jint	{[scat num]}	"one:CARD@1"
+Jinta	{[scat n:prop]}
+jinta	{[scat num]}	"one:CARD@1"
+jinta-kari	{[scat num]}	"one:other"
+jinti	{[scat n]}	"vagina@1"
+jintilyka	{[scat n]}	"grasshopper@1"
+jirrama	{[scat num]}	"two@1"
+jirrama-kari    {[scat num]}    "two:other@1"
+jirri	{[scat n]}	"@1"
+jist	{[scat adv]}	"just"
+jit	{[scat v:intran]}	"sit"
+jiti	{[scat v:intran]}	"alight@1"
+jiya	{[scat n]}	"kangaroo@1"
+Joan	{[scat n:prop]}
+Joey	{[scat n:prop]}
+joey	{[scat n]}
+Jojo	{[scat n:prop]}
+Jonas	{[scat n:prop]}
+joot	{[scat v:tran]}	"shoot"
+jore	{[scat n]}	"sore"
+JoyJoy	{[scat n:prop]}
+JR	{[scat n:prop]}
+JS	{[scat n:prop]}
+ju	{[scat n]}	"head@1"
+ju	{[scat suf:foc]}	"topical@1"
+judge	{[scat n]}
+Judith	{[scat n:prop]}
+juja	{[scat adv]}	"thus@1"
+jujaji	{[scat n:prop]}	"Jesus"
+jujana	{[scat adv]}	"thus@1"
+juju	{[scat n]}	"spirit@1"
+juju	{[scat suf:foc]}	"top@1"
+juk	{[scat suf]}	"yet@1"
+-juk	{[scat suf]}	"yet@1"
+juku	{[scat suf]}	"yet@1"
+-juku	{[scat suf]}	"yet@1"
+jukul	{[scat suf:tmprl]}	"yet@1"
+Jukurdayi	{[scat n:prop]}	"@1"
+jukurra	{[scat n]}	"tomorrow@1"
+Juli	{[scat n:prop]}
+Julianne	{[scat n:prop]}
+Julie	{[scat n:prop]}
+julpu	{[scat n]}	"bird@1"
+jump	{[scat v:intran]}
+jamp    {[scat v:intran]}
+jumper	{[scat n]}
+jumpi	{[scat v:intran]}
+jumps	{[scat v:intran]}
+junga	{[scat n]}	"true@1"
+jungarni	{[scat adv]}	"true@1"
+Jungarrayi	{[scat n:prop]}	"skin@1"
+jungkupa	{[scat n]}	"mouse@1"
+jungunya	{[scat n]}	"mouse@1"
+jungunyp	{[scat n]}	"mouse@1"
+jungunypa	{[scat n]}	"mouse@1"
+jungupa	{[scat n]}	"mouse@1"
+junguypa	{[scat n]}	"mouse@1"
+Junior	{[scat n:prop]}
+junma	{[scat n]}	"knife"
+Jupiya	{[scat n:prop]}
+Jupu	{[scat n:prop]}	"skin@1"
+jupujupu	{[scat n]}	"@1"
+Jupurla	{[scat n:prop]}	"skin@1"
+Jupurru	{[scat n:prop]}	"skin@1"
+Jupurrurla	{[scat n:prop]}	"skin@1"
+Jurija	{[scat n:prop]}
+jurl	{[scat v:intran]}	"move@1"
+jurlpu	{[scat n]}	"bird@1"
+jurnta	{[scat v]}	"takeaway@1"
+jupu    {[scat n]}  "bird@1"
+jurrku	{[scat n]}	"pair@1"
+jurru	{[scat n]}	"head@1"
+jus	{[scat adv]}
+just	{[scat adv]}
+jut	{[scat v:tran]}	"shoot"
+juuju	{[scat n]}	"monster@1"
+juwing	{[scat n]}	"swing@1"
+juwinga	{[scat n]}	"swing@1"
+juwingjuwing	{[scat n]}	"swing@1"
+juwingjuwingi	{[scat n]}	"swing@1"
+juwinguwing	{[scat n]}	"swing@1"
+Juwiranpa	{[scat n:prop]}
+Juwit	{[scat n:prop]}
+juwu	{[scat suf:foc]}	"top@1"
+jwing	{[scat v]}	"swing@1"
+jwingjwing	{[scat v]}	"swing@1"
+jwing-jwing	{[scat v]}	"swing@1"
+k	{[scat case]}	"dat@1"
+K	{[scat n:prop]}
+ka	{[scat v:aux]}	"IMPF@1"
+kajamada	{[scat n:prop]}	"skin:Jakamarra@1"
+Kajelo	{[scat n:prop]}
+kaji	{[scat v:aux]}	"if@1"
+kajil	{[scat suf]}	"if@1pro:3pl@1"
+kajil	{[scat suf]}	"ifpro:3pl@1"
+kajin	{[scat n]}	"@1"
+Kajingarra	{[scat n:prop]}	"@1"
+Kajirdi	{[scat n:prop]}
+Kajjo	{[scat n:prop]}
+Kajo	{[scat n:prop]}
+kaka	{[scat n]}	"dirt@1"
+kakakaaaa	{[scat n]}	"dirt@1"
+kakarda	{[scat n]}	"neckthroat@1"
+kakarlarra	{[scat n]}	"suf:dir:high@1"
+kakarra	{[scat n]}	"suf:dir:east@1"
+kakarrara	{[scat n]}	"suf:dir:east@1"
+kakarrda	{[scat n]}	"neck@1"
+kakaya	{[scat suf:dir]}	"east@1"
+kaki	{[scat n:kin]}	"brother@1"
+kala	{[scat v:aux]}	"USIT@1"
+kalaka	{[scat v:aux]}	"if@1"
+kalanjirri	{[scat n]}	"lizard@1"
+kalku	{[scat v:intran]}	"facingspeaker@1"
+kalkurn	{[scat v:intran]}	"thisway@1"
+kalkurnu	{[scat suf:dir]}	"thisway@1"
+kalu	{[scat v:aux]}	"3pl:S@1"
+kalya	{[scat n]}	"promisedspouse@1"
+kalyu	{[scat n]}	"promisedspouse@1"
+kam	{[scat v:intran]}	"come"
+kamat   {[scat v:tran]} "come:at"
+kamina	{[scat n]}	"girl@1"
+kampa	{[scat adv]}	"front@1"
+kamparru	{[scat adv]}	"front@1"
+kampurra	{[scat adv]}	"front@1"
+kan	{[scat v:intran]}	"neg"
+kanari	{[scat n]}	"lizard@1"
+kang	{[scat case]}	"@1"
+kanga	{[scat n]}	"friend@1"
+kangar	{[scat n]}
+kangaroo	{[scat n]}
+kangka	{[scat n]}	"kangaroo"
+kangka	{[scat v:tran]}	"take@1:v:infl:imper@1"
+kangkaru	{[scat n]}	"kangaroo"
+kangku	{[scat v:tran]}	"take@1:2sg:O@1"
+kangu	{[scat n]}	"kangaroo"
+kangu	{[scat v:tran]}	"take@1:v:infl:pst@1"
+kaninjarni	{[scat n]}	"inside@1"
+kaninjarra	{[scat n]}	"inside@1"
+kanjingana	{[scat n]}	"inside@1"
+kanjunjarrawu	{[scat n]}	"under@1"
+kanka	{[scat suf:dir]}	"high@1"
+kankarl	{[scat n]}	"high@1"
+kankarla	{[scat suf:dir]}	"high@1"
+kankarlarra	{[scat n]}	"high@1"
+kankarlarra	{[scat adv]}	"up@1"
+kankarlu	{[scat suf:dir]}	"high@1"
+kanta	{[scat n]}	"bushcoconut@1"
+kanun	{[scat n]}	"below@1"
+kanunj	{[scat n]}	"below@1"
+kanunjarra	{[scat n]}	"low@1"
+kanunju	{[scat n]}	"below@1"
+kap	{[scat v:aux]}	"FUT@1"
+kapa	{[scat adv]}	"quick@1"
+kapam	{[scat adv]}	"quick@1"
+kapan	{[scat adv]}	"quick@1"
+Kapan	{[scat n:prop]}
+kapanku	{[scat adv]}	"quick@1"
+kapardi	{[scat n:kin]}	"oldersister@1"
+kapirdi	{[scat n:kin]}	"oldersister@1"
+Kapu	{[scat v:aux]}	"FUT:3sg"
+kapu	{[scat v:aux]}	"FUT@1"
+kapuk	{[scat n:kin]}	"eldersister@1"
+kapuku	{[scat n:kin]}	"eldersister@1"
+Kara	{[scat n:prop]}
+kardiya	{[scat n]}	"whiteperson@1"
+kari	{[scat suf]}	"other@1"
+karija	{[scat dis]}	"dontknow@1"
+Karim	{[scat n:prop]}
+Karina	{[scat n:prop]}
+karla	{[scat v:aux]}	"impf:dat@1"
+karlangu	{[scat n]}	"spear@1"
+karlarla	{[scat n]}	"ten@1"
+karlarra	{[scat n]}	"suf:dir:west@1"
+karli	{[scat n]}	"boomerang@1"
+karlkurn	{[scat v:intran]}	"facingthisway@1"
+karna	{[scat n]}	"bamboo:spear@1"
+karnardi	{[scat n]}
+karnarla	{[scat v:aux]}
+karnarri	{[scat n]}
+karnkarla	{[scat suf]}	"high@1"
+karnta	{[scat n]}	"woman@1"
+karra	{[scat case]}	"@1"
+karri	{[scat v:intran]}	"stand@1"
+kartak	{[scat num]}	"ten:CARD@1"
+karti	{[scat v:tran]}	"squash@1"
+Kartika	{[scat n:prop]}	"@1"
+kartirdi	{[scat n]}	"tooth@1"
+Karu	{[scat n:prop]}
+Kasso	{[scat n:prop]}
+kat	{[scat v:tran]}	"press@1"
+kata	{[scat n]}	"head@1"
+kate	{[scat n]}	"gate"
+Katfishi	{[scat n:prop]}
+katherine	{[scat n:prop]}
+kati	{[scat n]}
+katirdi	{[scat n]}	"tooth@1"
+katirn	{[scat v:tran]}	"presson@1"
+katu	{[scat suf]}	"more@1"
+kawarrawarra	{[scat n]}	"camel@1"
+kawartawarta	{[scat n]}	"camel@1"
+Kawina	{[scat n:prop]}
+Kaya	{[scat n:prop]}
+kayi	{[scat suf]}	"other@1"
+kayinga	{[scat n]}	"friend@1"
+Keanu	{[scat n:prop]}
+Kee	{[scat n:prop]}
+keep	{[scat v:tran]}
+kiip    {[scat v:tran]} "keep"
+KEI	{[scat n:prop]}
+keija	{[scat n:prop]}
+Keijaaaa	{[scat n:prop]}
+Keijan	{[scat n:prop]}
+keijani	{[scat n:prop]}
+keirad	{[scat n:prop]}
+Keiran	{[scat n:prop]}
+keisha	{[scat n:prop]}
+Keishan	{[scat n:prop]}
+Keishani	{[scat n:prop]}
+Keithan	{[scat n:prop]}
+key	{[scat n]}
+keyi	{[scat n]}
+ki	{[scat case]}	"@1"
+ki	{[scat case]}	"dat@1"
+Ki	{[scat n:prop]}
+Kiarith	{[scat n:prop]}
+Kibi	{[scat n:prop]}
+kick	{[scat v:tran]}	"kick"
+kid	{[scat n]}
+Kieja	{[scat n:prop]}
+Kieriad	{[scat n:prop]}
+Kieshan	{[scat n:prop]}
+kiilin	{[scat n:prop]}
+kij	{[scat v:tran]}	"throw@1"
+Kija	{[scat n:prop]}
+kijak	{[scat case]}	"@1"
+kijaku	{[scat case]}	"@1"
+Kijan	{[scat n:prop]}
+Kijani	{[scat n:prop]}
+Kiji	{[scat n:prop]}
+kiji	{[scat v:tran]}	"throw@1"
+Kijijiji	{[scat n:prop]}
+Kijin	{[scat n:prop]}
+Kijini	{[scat n:prop]}
+kijirn	{[scat v:tran]}	"throw@1"
+Kijo	{[scat n:prop]}
+Kiki	{[scat n:prop]}
+kiki	{[scat v:tran]}	"kick"
+kil	{[scat adv]}	"hard@1"
+kil	{[scat v:tran]}	"hit"
+kila	{[scat n]}	"cow"
+kilawiyi	{[scat n:prop]}	"@1"
+kilji	{[scat adv]}	"hard@1"
+killer	{[scat n]}	"cow"
+kim	{[scat v:tran]}	"ditran:give"
+kimberley	{[scat n:prop]}
+Kimberlyi	{[scat n:prop]}
+kimbi	{[scat n]}	"nappy"
+Kimini	{[scat n:prop]}
+Kina	{[scat n:prop]}
+kind	{[scat n]}
+king	{[scat n]}
+KingBrown	{[scat n:prop]}
+KingKong	{[scat n:prop]}
+kingo	{[scat n]}
+Kinya	{[scat n:prop]}
+kip	{[scat v:tran]}	"ditran:give"
+Kira	{[scat n:prop]}
+kirda	{[scat n:kin]}	"father@1"
+kirdarna	{[scat n:kin]}	"father@1"
+kirdi	{[scat n]}	"round@1"
+Kirid	{[scat n:prop]}
+kirl	{[scat case]}	"com@1"
+kirlangu	{[scat case]}	"poss@1"
+kirli	{[scat case]}	"com@1"
+kirra	{[scat case]}	"all@1"
+kirrirdimpayi	{[scat n]}	"tall@1"
+kiss	{[scat v:tran]}
+kita	{[scat n]}	"guitar"
+Kiwa	{[scat n:prop]}
+Klaus	{[scat n:prop]}
+KM	{[scat n:prop]}
+knife	{[scat n]}
+knock	{[scat v:tran]}
+know	{[scat v:intran]}
+nou     {[scat v:intran]}   "know"
+koala	{[scat n]}
+kopi	{[scat v:tran]}
+Kordi	{[scat n:prop]}
+Koryu	{[scat n:prop]}
+krack	{[scat v:tran]}
+krai	{[scat v:intran]}	"cry"
+krip	{[scat v:intran]}
+kruurl	{[scat n]}	"school@1"
+ku	{[scat case]}	"dat@1"
+-ku	{[scat case]}	"dat@1"
+kuj	{[scat suf]}	"thus@1"
+kuja	{[scat dis]}	"thus@1"
+kujak	{[scat case]}	"@1"
+kujaku	{[scat case]}	"@1"
+kujang	{[scat suf]}	"thus@1"
+kujangurla	{[scat adv]}	"now@1"
+kujarra	{[scat num]}	"two@1"
+kujawu	{[scat suf]}	"thus@1"
+kuju	{[scat v:tran]}	"throw:pst@1"
+kuk	{[scat n]}	"monster@1"
+kuka	{[scat n]}	"meat@1"
+kuku	{[scat n]}	"monster@1"
+kukurlu	{[scat n]}	"monster:erg@1"
+kukurnu	{[scat n:kin]}	"littlebrother@1"
+kula	{[scat neg]}	"@1"
+kuli	{[scat n]}	"anger@1"
+kulinypa	{[scat n]}	"fight@1"
+kulku	{[scat n]}	"middle@1"
+kulkurru	{[scat n]}	"middle@1"
+kulpari	{[scat adv]}	"return@1"
+kulu	{[scat n]}	"anger@1"
+Kumpilka	{[scat n:prop]}
+Kumunjayi	{[scat n:prop]}
+kumunjayi	{[scat n]}	"noname@1"
+kuna	{[scat n]}	"faeces@1"
+kunjuru	{[scat n]}	"smoke@1"
+kuntu	{[scat n]}	"ten@1"
+kuranjin	{[scat n]}	"@1"
+Kurdi	{[scat n:prop]}
+kurdili	{[scat n]}	"child@1"
+kurdu	{[scat n]}	"child@1"
+kurdu-kurdu	{[scat n]}	"children@1"
+kurl	{[scat case]}	"@1"
+kurlang	{[scat case]}	"@1"
+kurlangu	{[scat case]}	"poss@1"
+kurlarda	{[scat n]}	"spear@1"
+kurlardu	{[scat n]}
+kurlarra	{[scat n]}	"loc:south@1"
+kurlngu	{[scat case]}	"poss@1"
+kurlu	{[scat case]}	"com@1"
+Kurlurrngalinypa	{[scat n:prop]}	"@1"
+kurn	{[scat n]}	"ten@1"
+kurnka	{[scat n]}	"support@1"
+kurnta	{[scat n]}	"shame@1"
+kurntu	{[scat n]}	"ten@1"
+kurra	{[scat case]}	"all@1"
+kuruwarri	{[scat n]}	"dreaming@1"
+kuta	{[scat n]}	"doglouse@1"
+kutu	{[scat n]}	"close@1"
+kuuku	{[scat n]}	"monster@1"
+kuurl	{[scat n]}	"school@1"
+kuurlu	{[scat n]}	"school@1"
+kuya	{[scat n:prop]}
+kuyu	{[scat n]}	"meat@1"
+L	{[scat n:prop]}
+la	{[scat v:aux]}	"3dl:S@1"
+lada	{[scat n]}	"ladder"
+ladder	{[scat n]}
+lader	{[scat n]}	"ladder"
+ladies	{[scat n]}
+laf	{[scat v:intran]}	"laugh"
+laighing {[scat v:intran]}
+laitning	{[scat n]}	"lightning"
+Lajaman	{[scat n:prop]}
+lajamanu	{[scat n:prop]}
+Lajo	{[scat n:prop]}
+laju	{[scat n]}	"grub@1"
+lala	{[scat n]}	"blood@1"
+lalyu	{[scat n]}	"blood@1"
+lampu	{[scat n]}	"milkbreast@1"
+lampurn	{[scat n]}	"milkbreast@1"
+lampurnu	{[scat n]}	"milkbreast@1"
+Langa	{[scat n:prop]}
+langa	{[scat n]}	"ear@1"
+langa	{[scat prep]}	"langa:loc"
+lani	{[scat n]}	"scared@1"
+lantarni	{[scat v]}
+lap	{[scat n]}
+lapda	{[scat v:mod]}	"must:Kriol"
+lapdarl	{[scat v:mod]}	"must:Kriol"
+Laship	{[scat n:prop]}
+last	{[scat n]}
+late	{[scat adv]}
+laugh	{[scat v:intran]}
+laughs	{[scat v:intran]}
+lawa	{[scat neg]}	"@1"
+lawawu	{[scat neg]}	"@1"
+lawyer	{[scat n]}
+lay	{[scat v:intran]}
+lazi	{[scat n]}
+leab	{[scat v:tran]}
+lead	{[scat v:tran]}
+leader	{[scat n]}
+Leah	{[scat n:prop]}
+lean	{[scat v:tran]}
+Leanna	{[scat n:prop]}
+learn	{[scat v:tran]}
+leav	{[scat v]}
+leave	{[scat v]}
+liiv    {[scat v]} "leave"
+liib    {[scat v]}  "leave"
+leben	{[scat num]}	"eleven:CARD"
+lectric	{[scat n]}
+leda	{[scat n]}	"ladder"
+left	{[scat v:tran]}
+leg	{[scat n]}
+Leilani	{[scat n:prop]}
+Lejon	{[scat n:prop]}
+les	{[scat v:mod]}
+Leslie	{[scat n:prop]}
+Leston	{[scat n:prop]}
+let	{[scat v:mod]}
+lets	{[scat v:mod]}
+letter	{[scat n]}
+level	{[scat n]}
+li	{[scat v:aux]}	"3pl:S@1"
+Liam	{[scat n:prop]}
+lick	{[scat v:tran]}
+licki	{[scat v:tran]}
+lid	{[scat n]}
+liddy	{[scat n:prop]}
+lift	{[scat v:tran]}
+lifta	{[scat n]}	"ladder"
+light	{[scat n]}
+lighter	{[scat n]}
+lightning	{[scat n]}
+lightningi	{[scat n]}
+lijen	{[scat v:intran]}
+lik	{[scat v:tran]}
+like	{[scat v:tran]}
+likes	{[scat v:tran]}
+lil	{[scat n]}
+Lily	{[scat n:prop]}
+Lina	{[scat n:prop]}
+Linda	{[scat n:prop]}
+line	{[scat n]}
+linya	{[scat n]}	"@1"
+lion	{[scat n]}
+lip	{[scat n]}
+lips	{[scat n]}
+lipstick	{[scat n]}
+lirra	{[scat n]}	"mouth@1"
+lirri	{[scat n]}	"mouth@1"
+Lisa	{[scat n:prop]}
+lisen	{[scat v:tran]}	"listen"
+Lishi	{[scat n:prop]}
+listen	{[scat v:tran]}
+little	{[scat n]}
+lidl	{[scat n]}	"little"
+liv	{[scat v:intran]}
+live	{[scat v:intran]}
+Liwa	{[scat n:prop]}
+LJ	{[scat n:prop]}
+lk	{[scat suf]}	"then@1"
+lka	{[scat suf]}	"then@1"
+lki	{[scat suf]}	"then@1"
+lku	{[scat suf]}	"then@1"
+ll	{[scat v:aux]}	"ll:fut"
+Lni	{[scat n:prop]}
+lock	{[scat v:tran]}
+lakt    {[scat v:tran]} "lock:PST"
+lok	{[scat v:tran]}
+loli	{[scat n]}
+lolipop	{[scat n]}
+lone	{[scat n]}
+long	{[scat n]}
+Look	{[scat v:tran]}
+look	{[scat v:tran]}	"look"
+loook	{[scat v:tran]}
+lord	{[scat n]}
+Lorrain	{[scat n:prop]}
+Lorraine	{[scat n:prop]}
+Lorrainei	{[scat n:prop]}
+lose	{[scat v:tran]}
+lost	{[scat v:tran]}
+lot	{[scat n]}
+lot	{[scat qan]}
+lot	{[scat qan]}	"lot"
+lota	{[scat qan]}
+lotta	{[scat qan]}
+loud	{[scat n]}
+Louis	{[scat n:prop]}
+lover	{[scat n]}
+low	{[scat n]}
+lpa	{[scat v:aux]}	"pstIMPF@1"
+LR	{[scat n:prop]}
+lu	{[scat v:aux]}	"3pl:S@1"
+lucky	{[scat n]}
+luk	{[scat v:tran]}	"look"
+luki	{[scat v:tran]}	"look"
+lump	{[scat n]}
+lunch	{[scat n]}
+lungkarda	{[scat n]}	"bluetongue@1"
+Lungkarda	{[scat n]}	"goanna@1"
+lutu	{[scat n]}	"louse@1"
+luwa	{[scat v:tran]}	"shoot@1"
+LYn	{[scat n:prop]}
+Lyndal	{[scat n:prop]}
+M	{[scat n:prop]}
+m	{[scat v:aux]}	"m:NONFUT" % CHANGED FROM "m:pst"
+ma	{[scat dis]}	"Gurindji"
+ma	{[scat v:tran]}	"get@1"
+maa	{[scat dis]}
+maaaam	{[scat n]}	"mum"
+maarnta	{[scat n]}	"bus@1"
+macala	{[scat n:prop]}
+machine	{[scat n]}
+mad	{[scat n]}
+mada	{[scat n]}	"mother"
+mait	{[scat v:mod]}	"might"
+mait-bi	{[scat v:mod]}	"mightbe"
+maitbi	{[scat v:mod]}	"mightbe"
+maiti	{[scat v:mod]}	"mightbe"
+maja	{[scat n]}	"mother"
+maji	{[scat n]}	"bad@1"
+maju	{[scat n]}	"bad@1"
+Mak	{[scat n:prop]}
+mak	{[scat v:tran]}	"make"
+makari	{[scat n:kin]}	"mothersparent@1"
+makarinja	{[scat n]}	"@1"
+make	{[scat v:tran]}
+maki	{[scat v:tran]}	"make"
+makiti	{[scat n]}	"gun@1"
+Makwell	{[scat n:prop]}
+Mala	{[scat n:prop]}
+mala	{[scat n]}
+maliki	{[scat n]}	"dog@1"
+malju	{[scat n]}	"boy@1"
+malya	{[scat n]}
+malyu	{[scat n]}
+mam	{[scat n]}	"mother"
+mama	{[scat n]}	"mother"
+mamai	{[scat n]}	"mother"
+mamam	{[scat n]}	"mother"
+mamami	{[scat n]}	"mother"
+maman	{[scat n]}	"mother"
+mamanu	{[scat n]}	"mother"
+Mamawu	{[scat n:prop]}
+mamawu	{[scat n]}	"mother"
+mami	{[scat n]}	"mummy"
+mamiiii	{[scat n]}	"mother"
+mamiyi	{[scat n]}	"mummy"
+mampawu	{[scat n]}
+mamu	{[scat n]}	"mother"
+man {[scat n]}
+mani {[scat n]}	"man@1"
+manan	{[scat n]}	"play@1"
+manangkarra	{[scat n]}	"bush@1"
+mangarri	{[scat n]}	"food@1"
+mangarta	{[scat num]}	"eight:CARD@1"
+mangkarri	{[scat n]}	"food@1"
+mangkurdu	{[scat n]}	"cloud@1"
+mango	{[scat n]}
+maninjaku	{[scat v:tran]}	"get+v:infl:nom@1"
+maniyi	{[scat n]}	"money"
+mankurdu	{[scat n]}	"cloud@1"
+manparrpa	{[scat n]}
+manta	{[scat v:tran]}	"get@1:imper@1"
+Manuel	{[scat n:prop]}
+many	{[scat qan]}
+manyu	{[scat v]}	"fun@1"
+manyuman	{[scat n]}	"play@1"
+mapa	{[scat v:tran]}	"touch@1"
+mapinyi	{[scat v:tran]}	"hit@1"
+mapirri	{[scat n]}	"together@1"
+mard	{[scat v:tran]}	"hold@1"
+marda	{[scat dis]}	"maybe@1"
+Marda	{[scat n:prop]}
+marda	{[scat v:tran]}	"hold@1"
+Mardi	{[scat n:prop]}
+mardukuja	{[scat n]}	"woman@1"
+Maria	{[scat n:prop]}
+Marja	{[scat n:prop]}
+mark	{[scat n]}
+marla	{[scat n]}
+marlkirdi	{[scat n:prop]}	"@1"
+marlpa	{[scat n]}	"company@1"
+marlu	{[scat n]}	"kangaroo@1"
+marna	{[scat n]}	"grass@1"
+marnangkarra	{[scat n]}	"bush@1"
+marnga	{[scat n]}
+marnkurdu	{[scat num]}	"three@1"
+marnkurrpa	{[scat num]}	"three:CARD@1"
+marnpi	{[scat v:tran]}	"touch@1"
+marnpu	{[scat v:tran]}	"touch@1"
+marnta	{[scat n]}	"bus@1"
+marpi	{[scat v:tran]}	"touch@1"
+marra	{[scat v:tran]}
+married	{[scat n]}
+marrpa	{[scat v:tran]}
+marrupinyi	{[scat v:tran]}	"hit@1"
+Marsha	{[scat n:prop]}
+master	{[scat n]}
+mata	{[scat n]}	"tired@1"
+match	{[scat n]}
+matha	{[scat n]}	"mother"
+mather	{[scat n]}	"mother"
+Mathew	{[scat n:prop]}
+matirn	{[scat v:tran]}	"move:in:line"
+matr	{[scat v:tran]}	"HIT@1"
+matras	{[scat n]}	"bed"
+mattress	{[scat n]}	"bed"
+Maxwell	{[scat n:prop]}
+may	{[scat dis]}	"interr@1"
+maya	{[scat v:intran]}	"continue@1"
+mayal	{[scat n]}	"stupid@1"
+maybe	{[scat dis]}
+miatbi  {[scat dis]}    "maybe"
+meibi   {[scat dis]}
+mayi	{[scat qn]}	"@1"
+mayika	{[scat n:prop]}
+mayima	{[scat n:prop]}
+mayol	{[scat n]}	"stupid@1"
+me	{[scat pro]}	"1sg:O"
+mi	{[scat pro]}	"1sg:O"
+mean	{[scat n]}
+meat	{[scat n]}
+medicine	{[scat n]}
+Meek	{[scat n:prop]}
+meeka	{[scat n:prop]}
+Meekah	{[scat n:prop]}
+meet	{[scat v:tran]}
+meeting	{[scat n]}
+Megan	{[scat n:prop]}
+meik	{[scat v:tran]}	"make"
+meiki	{[scat v:tran]}	"make"
+Melbourne	{[scat n:prop]}
+melon	{[scat n]}
+men	{[scat n]}	"man:pl"
+men	{[scat n]}	"pl"
+merry	{[scat n]}
+mess	{[scat n]}
+mhm	{[scat dis]}
+mi	{[scat v:infl]}	"npst@1"
+Michael	{[scat n:prop]}
+michaela	{[scat n:prop]}
+Michelle	{[scat n:prop]}
+Michi	{[scat n:prop]}
+mick	{[scat n:prop]}
+Mickey	{[scat n:prop]}
+Micky	{[scat n:prop]}
+microphone	{[scat n]}
+middle	{[scat n]}
+might	{[scat v:mod]}
+mile	{[scat n]}
+milki	{[scat n]}
+milo	{[scat n]}
+milpa	{[scat n]}	"eye@1"
+milpapurlu	{[scat n]}	"wideeye@1"
+milya	{[scat v:tran]}	"know@1"
+milyapi	{[scat v:tran]}	"know@1"
+milyapu	{[scat n]}	"wideeye@1"
+mimayi	{[scat n]}	"jealousy@1"
+mimiyi	{[scat n]}	"mother"
+Mina	{[scat n:prop]}
+mina	{[scat n]}	"nest@1"
+Minara	{[scat n:prop]}
+Minayi	{[scat n:prop]}
+mind	{[scat n]}
+mine	{[scat pro]}	"1sg:poss"
+minute	{[scat n]}
+mipa	{[scat suf]}	"only@1"
+Mirdi	{[scat n:prop]}
+mirnta	{[scat n]}	"snotflu@1"
+mirntirdi	{[scat n:kin]}	"grandchild@1"
+Mirrirdi	{[scat n:prop]}	"@1"
+missi	{[scat v:tran]}
+Mitchell	{[scat n:prop]}
+mix	{[scat v:tran]}
+Miya	{[scat n:prop]}
+miya	{[scat n:prop]}	"dogsname@1"
+miyalu	{[scat n]}	"stomach@1"
+Mizi	{[scat n:prop]}
+ML	{[scat n:prop]}
+mm	{[scat dis]}
+mmaaa	{[scat dis]}
+mmm	{[scat dis]}	"mmm"
+mmma	{[scat dis]}
+mmmh	{[scat dis]}
+mmmm	{[scat dis]}
+mob	{[scat n]}
+mobile	{[scat n]}
+modika	{[scat n]}
+Mona	{[scat n:prop]}
+monday	{[scat n:prop]}
+moneky	{[scat n]}
+money	{[scat n]}
+Mongrel	{[scat n]}
+monkey	{[scat n]}
+month	{[scat n]}
+Monya	{[scat n:prop]}
+moob	{[scat v:tran]}	"move"
+moon	{[scat n]}
+mop	{[scat n]}
+more	{[scat n]}
+mother	{[scat n]}
+moto	{[scat n]}	"motor"
+moto_baik	{[scat n]}	"motorbike"
+motobaik	{[scat n]}	"motorbike"
+motor	{[scat n]}
+motor-bike {[scat n]}
+motorbike	{[scat n]}
+mov	{[scat v:tran]}
+move	{[scat v:tran]}
+muv	{[scat v]}	"move"
+movie	{[scat n]}
+mp	{[scat suf:dir]}	"across@1"
+mpa	{[scat suf:dir]}	"across@1"
+mr	{[scat n:prop]}
+mu	{[scat n]}	"sick@1"
+much	{[scat qan]}
+muchi	{[scat qan]}
+muck	{[scat n]}
+mud	{[scat n]}
+Muffy	{[scat n:prop]}
+muja	{[scat n]}	"knife@1"
+muju	{[scat n]}
+mukart	{[scat n]}	"hat@1"
+mukarti	{[scat n]}	"hat@1"
+muku	{[scat n]}	"all@1"
+mukulu	{[scat n]}	"all@1v:aux:3pl:S@1"
+mulyu	{[scat n]}	"nose@1"
+mum	{[scat n]}
+mumaya	{[scat n]}	"mother"
+mumi	{[scat n]}	"mother"
+mumiyi	{[scat n]}
+mummy	{[scat n]}
+mumu	{[scat n]}	"mother"
+Mumum	{[scat n:prop]}
+muna	{[scat dis]}	"wait@1"
+munga	{[scat n]}	"night@1"
+Muriya	{[scat n:prop]}
+murlukunpa	{[scat n]}
+murna	{[scat dis]}	"wait@1"
+murnma	{[scat dis]}	"wait@1"
+murntu	{[scat num]}	"four:CARD@1"
+murru	{[scat n]}	"sick@1"
+murru-murru	{[scat n]}	"sick@1"
+murturna	{[scat n]}	"oldwoman@1"
+muscle	{[scat n]}
+muurlpa	{[scat adv]}	"carefully@1"
+MW	{[scat n:prop]}
+my	{[scat pro]}	"1sg:poss"
+myself	{[scat pro]}	"1sg:reflex"
+na	{[scat dis]}	"foc:now"
+nau {[scat dis]}
+naa	{[scat neg]}
+naaaampu	{[scat det]}	"thishere@1"
+naapa	{[scat n]}	"water@1"
+nadia	{[scat n:prop]}
+nadiya	{[scat n:prop]}
+nah	{[scat neg]}
+nail	{[scat n]}
+naila	{[scat n:prop]}
+naili	{[scat n]}
+nailu	{[scat n]}
+nait	{[scat n]}	"night"
+nait_taim	{[scat n]}	"night_time"
+naittaim	{[scat n]}	"nighttime"
+naja	{[scat n]}	"another"
+nakamarra	{[scat n:prop]}	"skin@1"
+nakarra	{[scat n:prop]}	"skin@1"
+nake	{[scat n]}	"snake"
+naki	{[scat n]}	"snake"
+nala	{[scat n:prop]}
+nali	{[scat n:prop]}	"@1"
+nalij	{[scat n]}	"tea@1"
+nalija	{[scat n]}	"tea@1"
+nama	{[scat n]}	"ant@1"
+name	{[scat n]}
+names	{[scat n]}	"nameis"
+nami	{[scat n]}
+namiji	{[scat n]}
+namp	{[scat det]}	"thishere@1"
+nampijinpa	{[scat n:prop]}	"skin@1"
+nampit	{[scat n:prop]}
+nampu	{[scat det]}	"thishere@1"
+namu	{[scat suf]}	"reflex@1"
+nan	{[scat dis]}
+nana	{[scat dis]}	"@1"
+nana	{[scat pro:qn]}	"who@1"
+nana	{[scat prop:qn]}	"who@1"
+nanan	{[scat n:prop]}
+nanana	{[scat dis]}
+nanga	{[scat dis]}
+nangala	{[scat n:prop]}
+nangala	{[scat n:prop]}	"skin@1"
+nangalawu	{[scat n:prop]}	"skin@1"
+nangi	{[scat n:prop]}	"@1"
+nanginarra	{[scat n:prop]}
+nanginarra	{[scat n:prop]}	"@1"
+nanginarra	{[scat n:prop]}	"skin@1"
+nangla	{[scat n:prop]}	"skin@1"
+nani	{[scat dis]}
+nani	{[scat n:prop]}	"@1"
+nantnwu	{[scat n]}	"horse@1"
+nantuwu	{[scat n]}	"horse@1"
+nanukut	{[scat n]}
+nanya	{[scat n]}	"food@1"
+nap	{[scat n:prop]}	"skin@1"
+napa	{[scat n]}	"water@1"
+napajaayi	{[scat n:prop]}	"skin@1"
+napajay	{[scat n:prop]}	"skin@1"
+napajayi	{[scat n:prop]}
+napaljarri	{[scat n:prop]}	"skin@1"
+napan	{[scat n:kin]}
+napanangka	{[scat n:prop]}	"skin@1"
+napangardi	{[scat n:prop]}	"skin@1"
+napangayi	{[scat n:prop]}	"skin@1"
+nappy	{[scat n]}
+napu	{[scat n:prop]}	"skin@1"
+napurru	{[scat n:prop]}	"skin@1"
+nat	{[scat neg]}	"not"
+nati	{[scat neg]}	"not"
+naught	{[scat n]}
+naughty	{[scat n]}
+nawu	{[scat neg]}
+nawul	{[scat neg]}
+nay	{[scat neg]}
+naya	{[scat n:prop]}
+nayungu	{[scat fst]}	"@1"
+neat	{[scat n]}
+neba	{[scat neg]}	"never"
+neban	{[scat neg]}	"never"
+neber	{[scat adv]}	"never"
+nebern	{[scat neg]}
+ned	{[scat n:prop]}
+need	{[scat v:tran]}
+needle	{[scat n]}
+neh	{[scat neg]}
+neisha	{[scat n:prop]}
+nelita	{[scat n:prop]}
+neljon	{[scat n:prop]}
+neljoni	{[scat n:prop]}
+nelson	{[scat n:prop]}
+nem	{[scat neg]}
+nemo	{[scat n:prop]}
+neo	{[scat n:prop]}
+nepo	{[scat n:prop]}
+nes	{[scat n]}	"nest"
+nest	{[scat n]}
+nest {[scat v:intran]}
+nesti	{[scat n]}
+net	{[scat n]}
+never	{[scat n]}
+nevern	{[scat neg]}
+nevo	{[scat n:prop]}
+new	{[scat n]}
+newone	{[scat v:tran]}
+nex	{[scat n]}
+next	{[scat adv]}
+next	{[scat num:ord]}
+next	{[scat ORD]}
+ng	{[scat case][case erg]}	"erg@1"
+nga	{[scat case]}	"loc@1"
+nga	{[scat v:intran]}	"relate@1:v:infl:imper@1"
+ngaj	{[scat pro]}	"1sg@1"
+ngajarra	{[scat pro]}	"1dlExcl@1"
+ngaju	{[scat pro]}	"1sg:free@1"
+ngajulu	{[scat pro]}	"1sg@1"
+ngaka	{[scat adv]}	"later@1"
+ngaku	{[scat n]}	"fruit@1"
+ngakurru	{[scat n]}	"fruit@1"
+ngali	{[scat pro]}	"1dl:Incl:O@1"
+ngalijarra	{[scat pro]}	"1dl:Excl:S@1"
+ngalipa	{[scat pro]}	"1pl:Incl:S@1"
+ngalpa	{[scat pro]}	"1pl:Incl:O@1"
+ngalu	{[scat n]}	"honey@1"
+ngamajina	{[scat n]}
+ngamirni	{[scat n:kin]}	"mothersbrother@1"
+ngampu	{[scat det]}	"thishere@1"
+ngampurrpa	{[scat v]}	"want@1"
+ngan	{[scat dis]}	"@1"
+ngana	{[scat qn]}	"@1"
+nganakurlangu	{[scat prop]}
+nganayi	{[scat n]}	"you:know@1"
+nganay  {[scat n]}  "you:know@1"
+nganga	{[scat dis]}
+ngangka	{[scat dis]}
+nganimpa	{[scat pro]}	"1plExcl:S@1"
+nganja	{[scat v:tran]}	"eat:v:infl:imper@1"
+nganpa	{[scat pro]}	"1pl:Excl:O@1"
+nganta	{[scat adv]}	"reported@1"
+ngantaa	{[scat adv]}	"reported@1"
+nganyi	{[scat n]}	"thingo@1"
+ngapa	{[scat n]}	"water@1"
+ngapuju	{[scat n:kin]}	"fathersmother@1"
+ngarlarri	{[scat v:intran]}	"laugh@1"
+ngarlu	{[scat n]}	"honey@1"
+ngarni	{[scat v:tran]}	"eat@1"
+ngarnti	{[scat suf]}	"ready@1"
+ngarntirni	{[scat ntr]}	"build@1"
+ngarra	{[scat dis]}	"emph@1"
+ngarrarna	{[scat n]}
+ngarri	{[scat v:tran]}	"tell@1"
+ngarru	{[scat v:intran]}	"relate@1:v:infl:imper@1"
+ngati	{[scat n]}	"mother@1"
+ngatin	{[scat n]}	"mother@1"
+ngawarra	{[scat n]}	"flood@1"
+ngawu	{[scat n]}	"bad@1"
+ngawu	{[scat n:kin]}	"daughter@1"
+ngawurru	{[scat n:kin]}	"daughter@1"
+ngayi	{[scat dis]}
+ngayili	{[scat dis]}
+ngi	{[scat case][case erg]}	"erg@1"
+ngipiri	{[scat n]}	"egg@1"
+ngirli	{[scat case]}	"abl@1"
+ngirnti	{[scat n]}	"@1"
+ngirnti	{[scat n]} "@1"
+ngjau	{[scat pro]}	"1sg@1"
+ngka	{[scat case]}	"loc@1"
+ngki	{[scat case][case erg]}	"erg@1"
+ngki	{[scat case][case erg]}	"ngki:erg@1"
+ngku	{[scat case][case erg]}	"erg@1"
+ngu	{[scat n]}	"good@1"
+ngu	{[scat case][case erg]}	"erg@1"
+nguju	{[scat n]}	"good@1"
+ngula	{[scat anaph]}	"whowhich@1"
+ngulajangka	{[scat dis]}	"afterthat@1"
+ngularra	{[scat anaph]}	"whowhich@1-pl@1"
+ngulaya	{[scat n]}
+ngulya	{[scat n]}	"burrow@1"
+nguna	{[scat v:intran]}	"lie@1"
+nguna	{[scat v:intran]}	"sleep@1"
+ngurlu	{[scat case]}	"abl@1"
+ngurlu	{[scat n]}	"seed@1"
+ngurnti	{[scat n]}	"light@1"
+ngurra	{[scat n]}	"home@1"
+ngurrara	{[scat n]}	"home@1"
+ngurrju	{[scat n]}	"good@1"
+ngurrpala	{[scat n]}	"urine@1"
+ngurru	{[scat n]}	"good@1"
+ngurruju	{[scat n]}	"good@1"
+nhm	{[scat dis]}
+ni	{[scat v:infl]}	"npst@1"
+nia	{[scat n:prop]}
+nibo	{[scat n:prop]}
+nice	{[scat n]}
+nicola	{[scat n:prop]}
+night	{[scat n]}
+nait-taim   {[scat n]}  "nighttime"
+nighti	{[scat n]}	"night"
+nighttime	{[scat n]}
+nimiya	{[scat n:prop]}	"@1"
+nina	{[scat n:prop]}
+nine	{[scat num]}	"CARD"
+night-taim	{[scat n]}	"nighttime"
+nineteen	{[scat num]}
+nini	{[scat n]}	"bilby@1"
+nipi	{[scat n]}	"egg@1"
+nipika	{[scat n:prop]}
+niya	{[scat pro:qn]}	"what@1"
+niya	{[scat qn]}	"what@1"
+nJ	{[scat n:prop]}
+nja	{[scat v:infl]}	"infin@1"
+njak	{[scat v:infl]}	"inf@1:nom@1"
+nji	{[scat v:infl]}	"infin@1"
+nju	{[scat v:infl]}	"infin@1"
+nkga	{[scat case]}	"@1"
+nkga	{[scat case]}	"loc@1"
+nn	{[scat dis]}
+nnana	{[scat dis]}	"emph"
+nnn	{[scat dis]}
+nnnh	{[scat dis]}
+nnnn	{[scat dis]}
+no	{[scat neg]}	"no"
+nods	{[scat v:intran]}
+noise	{[scat n]}
+noisy	{[scat n]}
+nomo	{[scat neg]}	"Kriol"
+none	{[scat neg]}
+noodle	{[scat n]}
+noodles	{[scat n]}
+noone	{[scat n]}
+nooooo	{[scat neg]}
+noressa	{[scat n:prop]}
+norija	{[scat n:prop]}
+nose	{[scat n]}	"nose"
+not	{[scat neg]}
+notha	{[scat n]}	"another"
+nother	{[scat n]}	"other"
+nothing	{[scat n]}
+now	{[scat adv]}
+nowhere	{[scat n]}
+npa	{[scat aux][pro subj]}	"2sg:S@1"
+-npa {[scat aux][pro subj]} "2sg:S@1"
+npala	{[scat v:aux]}	"2dl:S@1"
+nt	{[scat neg]}
+nta	{[scat v:tense]}	"nta:imper@1"
+ntar	{[scat v:infl]}	"imper@1"
+ntawu	{[scat v:infl]}	"IMP@1"
+nu	{[scat neg]}
+nu	{[scat v:infl]}	"pst@1"
+nugarrayi	{[scat n:prop]}	"skin@1"
+nugla	{[scat anaph]}	"whowhich@1"
+number	{[scat n]}
+numer	{[scat n]}	"number"
+nunarraryi	{[scat n:prop]}	"skin@1"
+nunarrayi	{[scat n:prop]}	"skin@1"
+nunayi	{[scat n:prop]}	"skin@1"
+nunga	{[scat n:prop]}	"skin@1"
+nungarayi	{[scat n:prop]}	"skin@1"
+nungarraryi	{[scat n:prop]}	"skin@1"
+nungarray	{[scat n:prop]}	"skin@1"
+nungarrayi	{[scat n:prop]}	"skin@1"
+nungka	{[scat n:prop]}	"skin@1"
+nungkarrayi	{[scat n:prop]}	"skin@1"
+nungu	{[scat v:infl]}	"pst@1"
+nungu	{[scat v:tran]}	"attack@1"
+nuniya	{[scat n:prop]}
+nunukut	{[scat n]}
+nup	{[scat neg]}
+nupala	{[scat n]}	"urine@1"
+nurija	{[scat n:prop]}
+nurisa	{[scat n:prop]}
+nurissa	{[scat n:prop]}
+nurnu	{[scat v:infl]}	"pst@1"
+nutella	{[scat n]}
+nuunpa	{[scat n]}
+nya	{[scat det]}	"there@1"
+nya	{[scat v:infl]}	"npst@1"
+nya	{[scat v:tran]}	"see@1"
+nyaa	{[scat n]}
+nyajangu	{[scat pro:qn]}	"howmany@1"
+nyajangu	{[scat qn]}	"howmany@1"
+nyaju	{[scat n]}
+nyalali	{[scat n]}	"girl@1"
+nyalyan	{[scat n]}
+nyam	{[scat det]}	"thishere@1"
+nyamp	{[scat det]}	"thishere@1"
+nyampawu	{[scat det]}	"thishere@1"
+nyampu	{[scat det]}	"thishere@1"
+nyampupu	{[scat det]}	"this@1"
+nyampurrpa	{[scat n]}	"want@1"
+nyamu	{[scat suf]}	"reflex@1"
+nyan	{[scat pro]}	"reflex@1"
+nyana	{[scat dis]}	"emph@1"
+nyang	{[scat case]}	"poss@1"
+nyanga	{[scat dis]}	"emph@1"
+nyangka	{[scat v:tran]}	"look@1v:infl:ngka:imper@1"
+nyangu	{[scat case]}	"@1"
+nyangu	{[scat case]}	"poss@1"
+nyangu	{[scat n]}	"look@1v:infl:pst@1"
+nyangu	{[scat v:tran]}	"look@1v:infl:pst@1"
+nyangungu	{[scat pro]}	"3sg@1"
+nyangurla	{[scat pro:qn]}	"when@1"
+nyangurla	{[scat qn]}	"when@1"
+nyanja	{[scat v:tran]}	"eat@1v:infl:infin@1"
+nyanu	{[scat suf]}	"reflex@1"
+nyanung	{[scat pro]}	"3sg:free@1"
+nyanung	{[scat pro]}	"3sg@1"
+nyanungu	{[scat pro]}	"3sg@1"
+nyanungu {[scat pro]}	"3sg@1"
+nyanunu	{[scat pro]}	"3sg@1"
+nyanya	{[scat n]}	"food@1"
+nyanyi	{[scat v:tran]}	"look@1v:infl:npst@1"
+nyarpara	{[scat qn]}	"where@1"
+nyarra	{[scat v:aux]}	"2plobj@1"
+nyarrapara	{[scat qn]}	"where@1"
+nyarrapra	{[scat qn]}	"where@1"
+nyarrpa	{[scat qn]}	"how@1"
+nyarrpara	{[scat qn]}	"where@1"
+nyayirn	{[scat n]}	"really@1"
+nyayirn	{[scat n]}	"very@1"
+-nyayirn {[scat suf]}    "very@1"
+-nyayirni   {[scat suf]}    "very@1"
+nyayirni	{[scat n]}	"very@1"
+nyi	{[scat v:infl]}	"npst@1"
+nyija	{[scat n]}
+nyina	{[scat v:intran]}	"sit@1"
+nyinjirri	{[scat n]}
+nyinya	{[scat pro:qn]}	"what@1"
+nyinya	{[scat qn]}	"what@1"
+nyiya	{[scat qn]}	"what@1"
+nympu	{[scat det]}	"thishere@1"
+nyu	{[scat adv]}	"finished@1"
+nyula	{[scat pro]}	"2plIncl@1"
+nyun	{[scat pro]}	"2sg@1"
+nyuntu	{[scat pro]}	"2sg@1"
+nyurnju	{[scat v:tran]}	"kiss@1"
+nyurnu	{[scat n]}	"sick@1"
+nyurrpala	{[scat n]}	"urine@1"
+nyurru	{[scat adv]}	"finished@1"
+nyurrula	{[scat pro]}	"2plIncl@1"
+oclock	{[scat n]}
+of	{[scat prep]}
+off	{[scat prep]}
+office	{[scat n]}
+Oh	{[scat dis]}
+oh	{[scat dis]}	"oh"
+oi	{[scat eup]}
+oi	{[scat euph]}
+oil	{[scat n]}
+oju	{[scat n]}	"horse"
+uus	{[scat n]}	"horse"
+ok	{[scat dis]}
+ol	{[scat n]}	"hole"
+old	{[scat n]}	"old"
+old	{[scat v:tran]}	"hold"
+ole	{[scat n]}	"hole"
+olgaman	{[scat n]}	"oldwoman"
+olgamani	{[scat n]}	"oldwoman"
+oli	{[scat n]}	"loli"
+olman	{[scat n]}
+olmani	{[scat n]}
+on	{[scat prep]}
+on	{[scat suf:tel]}	"on:loc"
+once	{[scat num]}
+one	{[scat num]}	"CARD"
+one-man {[scat n]}
+only	{[scat adv]}
+ooh	{[scat dis]}
+ooi	{[scat dis]}
+oooh	{[scat dis]}	"oh"
+ooooh	{[scat dis]}
+oops	{[scat dis]}
+op	{[scat v:intran]}	"hop"
+open	{[scat v:tran]}
+or	{[scat conj]}
+orange	{[scat n]}
+order	{[scat v:tran]}
+orj	{[scat n]}	"horse"
+orju	{[scat n]}	"horse"
+ors	{[scat n]}	"horse"
+orse	{[scat n]}	"horse"
+orsu	{[scat n]}	"horse"
+ospidl	{[scat n]}
+ospil	{[scat n]}
+ospital	{[scat n]}
+ospitl	{[scat n]}
+other	{[scat n]}
+ouch	{[scat dis]}
+our	{[scat pro]}	"1pl:poss"
+our	{[scat prop]}	"1pl:poss"
+ouse	{[scat n]}	"house"
+out	{[scat prep]}
+aut	{[scat prep]}   "out"
+outing	{[scat n]}
+outisde	{[scat prep]}
+outside	{[scat prep]}
+oval	{[scat n]}
+ovalu	{[scat n]}
+over	{[scat prep]}
+oba {[scat prep]}   "over"
+overload	{[scat n]}
+owl	{[scat n]}
+own	{[scat v:tran]}
+owner	{[scat n]}
+ouna	{[scat n]}	"owner"
+seim	{[scat n]}	"same"
+pa	{[scat v:aux]}	"pastIMPF@1"
+Paaka	{[scat n:prop]}	"@1"
+paarr	{[scat v:intran]}	"fly@1"
+pad	{[scat n]}
+pada	{[scat n]}	"wait@1"
+page	{[scat n]}
+paid	{[scat v:tran]}
+pain	{[scat n]}
+pein	{[scat n]}
+paind	{[scat v:tran]}	"find"
+paint	{[scat n]}
+paint	{[scat v:tran]}
+pair	{[scat n]}
+paj	{[scat v:tran]}	"cut@1"
+paji	{[scat v:tran]}	"cut@1"
+pajingel	{[scat n]}	"bike@1"
+pajingeli	{[scat n]}	"bike@1"
+pajingi	{[scat n]}	"bike@1"
+pajinging	{[scat n]}	"bike@1"
+pajingirl	{[scat n]}	"bike@1"
+pajingirli	{[scat n]}	"bike@1"
+pajingkirli	{[scat n]}	"bike@1"
+pajirli	{[scat n]}	"bike@1"
+paju	{[scat v:tran]}	"cut:pst@1"
+pak	{[scat v:tran]}	"fuck"
+Paka	{[scat n:prop]}	"@1"
+paka	{[scat v:tran]}	"hit@1"
+pakaka	{[scat v:tran:imp]}	"hit@1"
+pakap	{[scat v:intran]}
+Pakarada	{[scat n:prop]}	"@1"
+Pakarda	{[scat n:prop]}	"@1"
+pakarni	{[scat v:tran]}	"strike@1"
+Pakarra	{[scat n:prop]}
+Pakarrarda	{[scat n:prop]}	"@1"
+pakin	{[scat n]}
+Pakrrarda	{[scat n:prop]}	"@1"
+Paku	{[scat n:prop]}
+pal	{[scat v:intran]}	"fall"
+Pala	{[scat n:prop]}
+pala	{[scat v:aux]}	"3dl:S@1"
+palangu	{[scat v:aux]}	"3dl:O@1"
+Palawu	{[scat n:prop]}
+palawu	{[scat v:aux]}	"3dl:S@1"
+pald	{[scat v:intran]}	"fall"
+paldan	{[scat v:intran]}	"fall"
+pali	{[scat v:intran]}	"die@1"
+palk	{[scat v:intran]}	"exist@1"
+palka	{[scat v:intran]}	"exist@1"
+palkipi	{[scat n]}	"hit@1"
+palku	{[scat v:intran]}	"exist@1"
+palkupi	{[scat v:tran]}	"assault@1"
+palyu	{[scat n]}	"goanna@1"
+pama	{[scat n]}	"alcohol@1"
+Pamaji	{[scat n:prop]}
+pamarrpa	{[scat n]}	"hill@1"
+Pamela	{[scat n:prop]}
+pampa	{[scat n]}	"blind@1"
+Pampa	{[scat n:prop]}
+pampam	{[scat dis]}
+Pamparru	{[scat n:prop]}
+pampi	{[scat dis]}
+Pampij	{[scat n:prop]}
+pan	{[scat dis]}
+panadol	{[scat n]}
+Panaja	{[scat n:prop]}
+pandij	{[scat n]}
+pangi	{[scat v:tran]}	"dig:npst@1"
+pangi	{[scat v:tran]}	"dig@1"
+pangki	{[scat n]}	"orange@1"
+pangkipangki	{[scat n]}	"orange@1"
+pangkipanta	{[scat n]}	"orange@1"
+pangkiparnta	{[scat n]}	"orange@1"
+pangkirri	{[scat v]}	"gash@1"
+pangu	{[scat v:tran]}	"dig:pst@1"
+pangu	{[scat v:tran]}	"dig@1"
+paniya	{[scat n]}	"eye@1"
+panku	{[scat n]}
+pant	{[scat v:tran]}	"pierce@1"
+panta	{[scat n]}
+panti	{[scat v:tran]}	"pierce@1"
+pantirn	{[scat v:tran]}	"pierce@1"
+pantu	{[scat v:tran]}	"pierce:pst@1"
+pantu	{[scat v:tran]}	"piercepst@1"
+panturn	{[scat v]}	"pierce:pst@1"
+panu	{[scat n]}	"many@1"
+panu	{[scat suf]}	"many@1"
+pap	{[scat n]}	"pup"
+Papa	{[scat n:prop]}
+papa	{[scat n]}	"father"
+papap	{[scat n]}	"pup"
+papapa	{[scat n]}	"pup"
+papapap	{[scat n]}	"pup"
+papapi	{[scat n]}	"pup"
+papapu	{[scat n]}	"pup"
+papardi	{[scat n:kin]}	"olderbrother@1"
+papau	{[scat n]}	"pup"
+papawu	{[scat n]}	"pup"
+Papayi	{[scat n:prop]}
+paper	{[scat n]}
+peipa   {[scat n]}  "paper"
+paprdi	{[scat n:kin]}	"olderbrother@1"
+papu	{[scat n]}	"pup"
+parachute	{[scat n]}
+Parda	{[scat v:intran]}	"wait@1"
+parda	{[scat v:tran]}
+pardi	{[scat v:intran]}	"fly@1"
+pardi	{[scat v:intran]}	"move@1"
+pardija	{[scat v:intran]}	"move@1"
+pardijarra	{[scat v:intran]}	"move@1"
+pardu	{[scat case]}	"dim@1"
+pardu	{[scat suf]}	"dim@1"
+parduu	{[scat suf]}	"dim@1"
+park	{[scat n]}
+paak    {[scat n]}  "park"
+pak     {[scat n]}  "park"
+parlpirrpa	{[scat v]}	"split@1"
+parlu	{[scat v:tran]}	"find@1"
+parlupu	{[scat v:tran]}	"find:pst@1"
+parnk	{[scat v:intran]}	"run@1"
+parnka	{[scat v:intran]}	"run@1"
+parnkajala	{[scat n]}	"meeting+sure"
+parnta	{[scat n:kin]}	"spouse@1"
+parnta	{[scat n]}	"friend@1"
+parnta	{[scat suf]}	"spouse@1"
+parnti	{[scat v:tran]}	"pierce@1"
+parntu	{[scat v:tran]}	"pierce:pst@1"
+parra	{[scat n]}	"day@1"
+parranypa	{[scat n]}	"chancemeeting@1"
+part	{[scat n]}
+party	{[scat n]}
+pass	{[scat v:intran]}
+past	{[scat adv]}
+pat	{[scat n]}
+pata	{[scat n]}
+patch	{[scat n]}
+patu	{[scat suf]}	"pl@1"
+paut	{[scat suf]}	"pl@1"
+pawij	{[scat suf]}	"dim@1"
+pawu	{[scat case]}	"dim@1"
+pawu	{[scat suf]}	"dim@1"
+pay	{[scat v:tran]}	"buy"
+Payangardi	{[scat n:prop]}	"skin@1"
+payday	{[scat n]}
+payi	{[scat v:tran]}	"buy"
+payinti	{[scat v:tran]}	"find"
+payu	{[scat v:intran]}	"ask@1"
+peanut	{[scat n]}
+pencil	{[scat n]}
+person	{[scat n]}
+petticoat	{[scat n]}
+phone	{[scat n]}
+photo	{[scat n]}
+pi	{[scat v:tran]}	"assault@1"
+pick	{[scat v:tran]}
+picnic	{[scat n]}
+picture	{[scat n]}
+Piddy	{[scat n:prop]}
+piece	{[scat n]}
+Pija	{[scat n:prop]}	"@1"
+pija	{[scat n]}
+Pijalu	{[scat n:prop]}	"@1"
+piji	{[scat suf:foc]}	"top@1"
+piji	{[scat v:tran]}	"steal@1"
+pijidi	{[scat n]}	"strong@1"
+Pijidi	{[scat n:prop]}	"@1"
+Pijiji	{[scat n:prop]}	"@1"
+pijiji	{[scat v:tran]}	"steal@1"
+piks	{[scat v:tran]}	"fix"
+pila	{[scat n]}	"pillow"
+Pilaya	{[scat n:prop]}	"@1"
+Pili	{[scat n:prop]}
+piliji	{[scat n]}	"addiction@1"
+Piliman	{[scat n:prop]}
+pilji	{[scat n]}	"addiction@1"
+pilkardi	{[scat n]}	"snake@1"
+pilt	{[scat v:tran]}	"hit"
+Pimi	{[scat n:kin]}	"fatherssister@1"
+Pimirdi	{[scat n:kin]}	"fatherssister@1"
+pin	{[scat n]}
+pina	{[scat n]}	"knowledgable@1"
+pina	{[scat adv]}	"back@1"
+pinana	{[scat n]}
+pinarri	{[scat n]}	"yesterday@1"
+pinbal	{[scat n]}
+pinch	{[scat v:tran]}
+pind	{[scat n]}
+ping	{[scat n]}
+ping	{[scat suf]}	"assoc@1"
+pinga	{[scat n]}
+pingi	{[scat suf]}	"assoc@1"
+pingk	{[scat n]}
+pingki	{[scat suf]}	"assoc@1"
+pinij	{[scat v:intran]}	"finish"
+pinish	{[scat n]}
+pinja	{[scat n]}	"fence"
+pinjap	{[scat n]}
+pink	{[scat n]}
+pinki	{[scat suf]}	"assoc@1"
+pinki	{[scat suf]}	"associate@1"
+pinpa	{[scat n]}
+pinpaju	{[scat n]}	"grasshopper@1"
+pins	{[scat n]}	"fence"
+pinyi	{[scat n]}
+pinyi	{[scat v:tran]}	"assault@1"
+pinyin	{[scat v:tran]}	"assault@1"
+pipa	{[scat n]}	"paper"
+Pirdi	{[scat n:prop]}
+pirdilypa	{[scat n]}	"tree@1"
+pirli	{[scat n]}	"rock@1"
+Pirli	{[scat n]}	"rockhill@1"
+Pirlipirli	{[scat n:prop]}
+pirnki	{[scat n]}	"cave@1"
+pirnkirrpa	{[scat n]}	"feather@1"
+fether  {[scat n]}  "feather"
+fetha   {[scat n]}  "feather"
+pirrarni	{[scat n]}	"yesterday@1"
+pirriya	{[scat n]}	"cold@1"
+pirrjirdi	{[scat n]}	"strong@1"
+pirrka	{[scat n]}	"ten@1"
+pita	{[scat n]}
+pittr	{[scat v:tran]}	"hit@1"
+piya	{[scat suf]}	"like@1"
+-piya	{[scat suf]}	"like@1"
+piyipa	{[scat n]}
+pizza	{[scat n]}
+PJ	{[scat n:prop]}
+place	{[scat n]}
+pleis	{[scat n]}	"place"
+plane	{[scat n]}	"plane"
+plant	{[scat v:tran]}
+plash	{[scat v:intran]}	"splash"
+plastic	{[scat n]}
+plate	{[scat n]}
+plawa	{[scat n]}	"flower"
+play	{[scat v:intran]}	"play"
+play	{[scat v:tran]}
+player	{[scat n]}
+playground	{[scat n]}
+pleigraun   {[scat n]}  "playground"
+please	{[scat n]}
+plei	{[scat v:intran]}	"play"
+plenty	{[scat n]}
+Plicity	{[scat n:prop]}
+plug	{[scat n]}
+plum	{[scat n]}
+po	{[scat case]}	"for"
+pocket	{[scat n]}
+point	{[scat v:tran]}
+pok	{[scat v:tran]}	"poke"
+pole	{[scat n]}
+police	{[scat n]}
+policeman	{[scat n]}
+polisman    {[scat n]}  "policeman"
+policemani {[scat n]} "policeman"
+policemen	{[scat n]}
+policestation	{[scat n]}
+poliji	{[scat n]}
+polis	{[scat n]}
+pollow	{[scat v:tran]}	"follow"
+Pond	{[scat n:prop]}
+pone	{[scat n]}	"phone"
+ponja	{[scat n]}
+poo	{[scat n]}	"spoon"
+pool	{[scat n]}
+poon	{[scat n]}	"spoon"
+poopbal	{[scat n]}	"football"
+pop	{[scat n]}
+por	{[scat prep]}	"for"
+porridge	{[scat n]}
+post	{[scat n]}
+pot	{[scat n]}
+poto	{[scat n]}
+Potter	{[scat n:prop]}
+potulu	{[scat n]}	"bottle"
+power	{[scat n]}
+powidge	{[scat n]}
+praise	{[scat n]}
+pranj	{[scat n]}
+pre	{[scat n]}
+precious	{[scat n]}
+Prepri	{[scat n:prop]}
+prepri	{[scat n:prop]}	"Jeffrey"
+Prepry	{[scat n:prop]}
+press	{[scat v:tran]}
+prick	{[scat n]}
+prija	{[scat n]}	"freezer"
+Priscilla	{[scat n:prop]}
+prison	{[scat n]}
+prisoner	{[scat n]}
+priti	{[scat n]}	"pretty"
+prok	{[scat n]}	"frog"
+prokprok	{[scat n]}
+promise	{[scat n]}
+proper	{[scat n]}
+properly	{[scat adv]}
+propkpropk	{[scat n]}
+propmise	{[scat n]}
+propper	{[scat n]}
+propperly	{[scat adv]}
+pu	{[scat v:tran]}	"find@1"
+puch	{[scat v:tran]}	"punch"
+panj    {[scat v:tran]} "punch"
+pud	{[scat v:tran]}	"put"
+puj	{[scat v:tran]}	"push"
+pujicat	{[scat n]}
+pujicati	{[scat n]}
+puju	{[scat v:tran]}	"push"
+puk	{[scat v:tran]}	"poke"
+puka	{[scat suf]}	"only@1"
+puki	{[scat v:tran]}	"poke"
+puku	{[scat n]}	"book"
+puku	{[scat v:tran]}	"poke"
+pul	{[scat v:tran]}	"pull"
+pula	{[scat adv]}	"complete"
+pulap	{[scat adv]}	"complete"
+pulapi	{[scat adv]}	"complete"
+pulik	{[scat n]}
+pull	{[scat v:tran]}
+pullu	{[scat v:tran]}
+pulu	{[scat v:tran]}
+puluk	{[scat n]}
+puluki	{[scat n]}	"cow"
+puluku	{[scat n]}
+pulunku	{[scat n]}	"@1"
+pulya	{[scat adv]}	"soft@1"
+pump	{[scat n]}
+pump	{[scat v:tran]}
+pumpi	{[scat v:tran]}
+pumpkin	{[scat n]}
+punch	{[scat v:tran]}
+punj    {[scat v:tran]} "punch"
+punchi	{[scat v:tran]}	"punch"
+pung	{[scat v:tran]}	"assault:pst@1"
+pungu	{[scat v:tran]}	"assault:pst@1"
+punku	{[scat n]}	"bad@1"
+punta	{[scat v:tran]}	"steal@1"
+puntarn	{[scat v:tran]}	"take_from@1"
+puntarn	{[scat v:tran]}	"takefrom@1"
+pupa	{[scat n]}	"@1"
+pupu	{[scat n]}	"pressdown@1"
+pupumu	{[scat n]}	"pressdown@1"
+pur	{[scat v:tran]}	"follow@1"
+pura	{[scat suf]}	"towards@1"
+pura	{[scat v:tran]}	"follow@1"
+puraji	{[scat n:kin]}	"2sg:assoc@1"
+purda	{[scat suf]}	"towards@1"
+purda	{[scat suf]}	"want@1"
+-purda  {[scat suf]}    "want@1"
+Purda	{[scat v]}	"hear@1"
+purdangirli	{[scat n]}	"behind@1"
+purdangka	{[scat n:kin]}	"samegen@1"
+purla	{[scat v:intran]}	"shout@1"
+purl    {[scat v]}   "shout@1"
+purlapa	{[scat n]}	"ceremony@1"
+purlapurla	{[scat n]}	"bird:kite@1"
+purlka	{[scat n]}	"maleelder@1"
+purlka	{[scat n]}	"oldman@1"
+purlku	{[scat n]}	"cosy@1"
+purple	{[scat n]}
+%purr	{[scat v:tran]}	"cook@1"
+purra	{[scat suf]}	"towards@1"
+purra	{[scat v:tran]}	"cook@1"
+puru	{[scat adv]}	"while@1"
+push	{[scat v:tran]}
+pusher	{[scat n]}
+pushi	{[scat v:tran]}
+pushu	{[scat v:tran]}
+pussy	{[scat n]}
+pussycat	{[scat n]}
+put	{[scat n]}
+put	{[scat v:tran]}
+putt {[scat v:tran]}
+puta	{[scat adv]}	"unsuccess@1"
+puta	{[scat neg]}	"NEG@1"
+putu	{[scat n]}	"boot"
+puturl	{[scat n]}	"back@1"
+puturlu	{[scat n]}	"back@1"
+puul	{[scat v]}	"hold@1"
+puuly	{[scat v]}	"hold@1"
+puuly	{[scat v]}	"pull@1"
+puya	{[scat n]}	"soft@1"
+puyla	{[scat n]}	"soft@1"
+Puyulpa	{[scat n:prop]}	"@1"
+puzzle	{[scat n]}
+queen	{[scat n]}
+Queensland	{[scat n:prop]}
+queez	{[scat v:tran]}
+queeze	{[scat v:tran]}
+queezi	{[scat v:tran]}
+Quentin	{[scat n:prop]}
+quiet	{[scat n]}
+kwaiet  {[scat n]}  "quiet"
+Quintin	{[scat n:prop]}
+rac	{[scat v:intran]}
+rac	{[scat v:tran]}
+Rafal	{[scat n:prop]}
+raid	{[scat v:tran]}	"ride"
+rain	{[scat v:intran]}	"rain"
+rake	{[scat n]}
+ramarra	{[scat n]}	"dizzy@1"
+rambak	{[scat n]}	"light@1"
+rampak	{[scat n]}	"light@1"
+ramparlpa	{[scat v]}	"accident@1"
+ramparrpa	{[scat n]}	"accident@1"
+Ranger	{[scat n:prop]}
+rangkarra	{[scat n]}	"daybreak@1"
+Rankin	{[scat n:prop]}
+rarralykaji	{[scat n]}	"car@1"
+rarralykaj  {[scat n]}  "car@1"
+rat	{[scat n]}
+raun	{[scat prep]}	"around"
+RBT	{[scat n:prop]}
+rdak	{[scat fst]}
+rdaka	{[scat n]}	"hand@1"
+rdaku	{[scat n]}	"hole@1"
+rdilyki	{[scat v]}	"broken@1"
+rduku	{[scat n]}	"chest@1"
+rdukurduk	{[scat n]}	"chest@1"
+rdukurduku	{[scat n]}	"chest@1"
+reach	{[scat v:tran]}
+read	{[scat v:tran]}
+reader	{[scat n]}
+ready	{[scat adv]}]
+redi    {[scat n]}
+Reagan	{[scat n:prop]}
+reagen	{[scat n:prop]}
+really	{[scat adv]}
+reason	{[scat n]}
+record	{[scat v:tran]}
+recorder	{[scat n]}
+recordi	{[scat v]}
+red	{[scat n]}
+regan	{[scat n:prop]}
+reindeer	{[scat n]}
+remember	{[scat v:intran]}
+Renata	{[scat n:prop]}
+Renita	{[scat n:prop]}
+report	{[scat n]}
+Rhonda	{[scat n:prop]}
+Riba	{[scat n:prop]}
+ribbishi	{[scat n]}
+Ribona	{[scat n:prop]}
+Ricarda	{[scat n:prop]}
+Ricardo	{[scat n:prop]}
+Rico	{[scat n:prop]}
+rid	{[scat v:tran]}	"ride"
+ride	{[scat n]}
+ride	{[scat v:tran]}
+raid    {[scat n]}
+rifelu	{[scat n]}
+rifle	{[scat n]}
+raiful  {[scat n]}  "rifle"
+rifulu	{[scat n]}
+right	{[scat adv]}
+rait    {[scat adv]}    "right"
+rait    {[scat v]}  "write"
+righto	{[scat dis]}
+riit	{[scat v:tran]}	"read"
+riiti	{[scat v:tran]}	"read"
+riken	{[scat dis]}
+ring	{[scat n]}
+rilaks	{[scat v:intran]}	"relax"
+ring	{[scat v:tran]}
+RingerSoak	{[scat n:prop]}
+ripple	{[scat n]}
+Rita	{[scat n:prop]}
+river	{[scat n]}
+Rivi	{[scat n:prop]}
+rla	{[scat v:aux]}	"dat:3sgObj@1"
+rla	{[scat v:aux]}	"rla:dat@1"
+rlan	{[scat suf]}	"also@1"
+rlang	{[scat suf]}	"also@1"
+rlangu	{[scat suf]}	"also@1"
+rli	{[scat case][case erg]}	"erg@1"
+rli	{[scat case][case erg]}	"rli:erg@1"
+rli	{[scat v:aux]}	"1dlInc:S@1"
+rlipa	{[scat v:aux]}	"1plIncl:S@1"
+rlu	{[scat case][case erg]}	"erg@1"
+%rn	{[scat v:infl]}	"rn:npst@1"
+rna	{[scat v:aux]}	"1sg:S@1"
+rnalu	{[scat pro]}	"1plExcl:S@1"
+rnalu	{[scat v:aux]}	"1plExcl:S@1"
+rni	{[scat suf:dir]}	"hither@1"
+rni	{[scat v:infl]}	"pres@1"
+rnja	{[scat v:infl]}	"infin@1"
+rnu	{[scat v:infl]}	"infin@1"
+road	{[scat n]}
+ROB	{[scat n:prop]}
+rob	{[scat v:tran]}
+rock	{[scat n]}
+Rockhole	{[scat n:prop]}
+roll	{[scat n]}
+roller	{[scat n]}
+roof	{[scat n]}
+room	{[scat n]}
+rope	{[scat n]}
+Roper	{[scat n:prop]}
+ropu	{[scat n]}
+Roseanne	{[scat n:prop]}
+rosemary	{[scat n]}
+Ross	{[scat n:prop]}
+rough	{[scat n]}
+roun	{[scat n]}
+round	{[scat n]}
+rra	{[scat suf:dir]}	"fut"
+rrah	{[scat suf:dir]}	"thither@1"
+rrawu	{[scat 	suf:dir]}	"thither@1"
+rrawu	{[scat  suf:dir]}	"thither@1"
+rrayi	{[scat 	suf:dir]}	"thither@1"
+rrayi	{[scat  suf:dir]}	"thither@1"
+rri	{[scat suf]}	"@1"
+rrra	{[scat dis]}
+rrrra	{[scat dis]}
+rru {[scat suf]} "DUAL"
+rrumpa	{[scat suf:dir]}	"across@1"
+rubb	{[scat v:tran]}
+rubber	{[scat n]}
+rubbish	{[scat n]}
+rubbishi	{[scat n]}
+run	{[scat n]}
+runa {[scat v:intran]} "run"
+run	{[scat v:intran]}	"run"
+ran	{[scat v:intran]}	"run:PST"
+runaway	{[scat n]}
+runn	{[scat v:intran]}
+runypi	{[scat v:tran]}	"takeoff@1"
+runypu	{[scat v:tran]}	"takeoff@1"
+rurrpa	{[scat v]}	"@1"
+rurrunypi	{[scat v:tran]}	"takeoff@1"
+rurrunypu	{[scat v:tran]}	"takeoff@1"
+rush	{[scat v:intran]}
+s	{[scat v:infl]}	"pl"
+-s	{[scat suf]}	"pl"
+sad	{[scat n]}
+safe	{[scat n]}
+said	{[scat n]}	"side"
+said	{[scat v:intran]}
+salty	{[scat n]}
+Sambo	{[scat n:prop]}
+same	{[scat n]}
+sandal	{[scat n]}
+Santa	{[scat n:prop]}
+Sara	{[scat n:prop]}
+SaraMia	{[scat n:prop]}
+satan	{[scat n]}
+sausage	{[scat n]}
+sav	{[scat v:tran]}
+save	{[scat v:tran]}
+saved	{[scat v:tran]}
+say	{[scat v:intran]}
+says	{[scat v:intran]}
+scary	{[scat n]}
+school	{[scat n]}
+scooter	{[scat n]}
+scratch	{[scat v:tran]}
+scream	{[scat v:intran]}
+screams	{[scat v:intran]}
+scuse	{[scat dis]}
+sdan	{[scat suf:tel]}	"down:loc"
+seal	{[scat n]}
+seali	{[scat n]}	"seal"
+seat	{[scat n]}
+second	{[scat num]}	"ORD"
+seddy	{[scat dis]}
+see	{[scat v:tran]}
+sii {[scat v:tran]} "see"
+self	{[scat suf]}	"reflex"
+send	{[scat v:tran]}
+sent	{[scat v:tran]}
+setty	{[scat dis]}
+seven	{[scat num]}	"CARD"
+seventeen	{[scat num]}
+Sevi	{[scat n:prop]}
+sexy	{[scat n]}
+SHA	{[scat n:prop]}
+shak	{[scat v:tran]}	"shake"
+shake	{[scat v:tran]}
+shampoo	{[scat n]}
+shane	{[scat n:prop]}
+Shanei	{[scat n:prop]}
+shangai	{[scat n]}	"slingshot"
+shangayi	{[scat n]}  "slingshot"
+shanghai	{[scat n]}	"slingshot"
+shar	{[scat v:tran]}
+share	{[scat v:tran]}
+shark	{[scat n]}
+Sharon	{[scat n:prop]}
+sharp	{[scat n]}
+shat	{[scat ?]}
+shat	{[scat v:tran]}
+Shaun	{[scat n:prop]}
+she	{[scat pro]}	"3sg:S"
+sheet	{[scat n]}
+Sheldon	{[scat n:prop]}
+Sheldoni	{[scat n:prop]}
+shell	{[scat n]}
+shew	{[scat dis]}
+shh	{[scat dis]}
+shift	{[scat v:tran]}
+shin	{[scat n]}
+shin	{[scat v:tran]} "shine"
+shir	{[scat n]}
+shirt	{[scat n]}
+shirti	{[scat n]}
+shit	{[scat dis]}
+shock	{[scat n]}
+shoe	{[scat n]}
+shoot	{[scat v:tran]}
+shooti	{[scat v:tran]}	"shoot"
+shop	{[scat n]}
+shap    {[scat n]}  "shop"
+shap    {[scat v]}  "shop"
+shore	{[scat n]}
+shorts	{[scat n]}
+shorty	{[scat n]}
+shot	{[scat v:tran]}
+should	{[scat v:mod]}
+shoulda	{[scat v:mod]}
+shout	{[scat v:intran]}
+shaut   {[scat v:intran]}   "shout"
+shovel	{[scat n]}
+show	{[scat v:tran]}
+shower	{[scat n]}
+shrek	{[scat n:prop]}
+shush	{[scat dis]}	"be:quiet"
+shut	{[scat v:tran]}
+shuts	{[scat v:tran]}
+Siah	{[scat n:prop]}
+sick	{[scat n]}
+sid	{[scat v:intran]}	"sit"
+side	{[scat n]}
+side	{[scat n]}	"side"
+side-way {[scat n]}
+sideway	{[scat n]}
+sideways	{[scat adv]}
+sigara	{[scat n]}
+sign	{[scat n]}
+silas	{[scat n:prop]}
+sill	{[scat adv:time]}	"still"
+silly	{[scat n]}
+silver	{[scat n]}
+Simaira	{[scat n:prop]}
+sing	{[scat v:intran]}
+sing    {[scat v:tran]}
+singat	{[scat v:intran]}	"singout"
+single	{[scat n]}
+singlet	{[scat n]}
+sings	{[scat v:intran]}
+sink	{[scat n]}
+sister	{[scat n]}
+sit	{[scat v:intran]}
+sitt	{[scat v:intran]}
+Siv:intran	{[scat n:prop]}
+Sivi	{[scat n:prop]}
+six	{[scat num]}	"CARD"
+sixs	{[scat num]}	"CARD"
+sixteen	{[scat num]}
+size	{[scat n]}
+skate	{[scat v:intran]}
+skid	{[scat v:tran]}
+skim	{[scat v:intran]}
+skin	{[scat n]}
+skinny	{[scat n]}
+skirt	{[scat n]}
+skitt	{[scat v:intran]}	"skid"
+slam	{[scat v:tran]}
+slap	{[scat v:tran]}
+sleep	{[scat n]}
+sliip   {[scat n]}  "sleep"
+sleep	{[scat v:intran]}
+sleepy	{[scat n]}
+sliip	{[scat v:intran]}	"sleep"
+slip	{[scat v:intran]}	
+slip	{[scat v:tran]}
+small	{[scat n]}
+smell	{[scat n]}
+smil	{[scat v:intran]}	"smile"
+smile	{[scat n]}
+smoke	{[scat n]}
+smoker	{[scat n]}
+snak	{[scat n]}
+snake	{[scat n]}
+snake {[scat n]}
+snaki	{[scat n]}
+snap	{[scat v:tran]}	"break"
+sneak	{[scat v:intran]}
+sniik   {[scat v]}
+sneik	{[scat n]}	"snake"
+sneiki	{[scat n]}	"snake"
+snow	{[scat n]}
+so	{[scat conj]}
+soap	{[scat n]}
+sock	{[scat n]}
+socks	{[scat n]}
+soft	{[scat n]}
+softball	{[scat n]}
+solid	{[scat n]}
+some	{[scat qan]}
+somebody	{[scat n]}
+someone	{[scat n]}
+something	{[scat qan]}
+sometime	{[scat adv]}
+somewhere	{[scat qan]}
+son	{[scat n]}
+san {[scat n]}  "son"
+song	{[scat n]}
+soon	{[scat adv]}
+Sopie	{[scat n:prop]}
+sore	{[scat n]}
+sorrow	{[scat n]}
+sorry	{[scat n]}
+soun	{[scat n]}
+sound	{[scat n]}
+soup	{[scat n]}
+SP	{[scat n:prop]}
+spaghetti	{[scat n]}
+spare	{[scat n]}
+spark	{[scat n]}
+spear {[scat n]}
+specially	{[scat n]}
+spider	{[scat n]}
+spiderman	{[scat n]}
+spill	{[scat v:tran]}
+spoi	{[scat v:tran]}
+spoil	{[scat v:tran]}
+spoon	{[scat n]}
+sports	{[scat n]}
+sposed	{[scat n]}
+Spring	{[scat n:prop]}
+spring	{[scat n]}
+Springs	{[scat n:prop]}
+sprite	{[scat n]}
+squeal	{[scat v:intran]}
+squeals	{[scat v:intran]}
+squeez	{[scat v:tran]}
+squeezi	{[scat v:tran]}
+SR	{[scat n:prop]}
+sree	{[scat num]}	"three:CARD"
+ssss	{[scat dis]}
+stail	{[scat n]}	"style"
+stairs	{[scat n]}	"pl"
+stairsi	{[scat n]}	"stairs"
+Stand	{[scat n]}
+stand	{[scat v:intran]}
+Stanley	{[scat n:prop]}
+star	{[scat n]}
+stakyaad	{[scat n]}	"stockyard"
+stare	{[scat v:intran]}
+start	{[scat n]}
+starter	{[scat n]}
+statement	{[scat n]}
+station	{[scat n]}
+stashun {[scat n]}  "station"
+stay	{[scat n]}
+steal	{[scat v:tran]}
+steel	{[scat n]}
+step	{[scat n]}
+Steve	{[scat n:prop]}
+Steven	{[scat n:prop]}
+sthreaten	{[scat v:tran]}	"threaten"
+stick	{[scat n]}
+sticker	{[scat n]}
+stiil	{[scat v:tran]}	"steal"
+stiil	{[scat n]}	"steel"
+stil	{[scat adv]}
+still	{[scat adv]}
+sting	{[scat v:tran]}
+stinkin	{[scat n]}
+stock	{[scat n]}
+stole	{[scat v:tran]}
+stone	{[scat n]}
+stong	{[scat n]}	"thongs"
+stony	{[scat n]}
+stop	{[scat n]}
+stap    {[scat n]}
+stopp	{[scat v:intran]}
+stop	{[scat v:intran]}
+story	{[scat n]}
+storya	{[scat n]}
+stove	{[scat n]}
+straight	{[scat n]}
+straighti	{[scat n]}
+straik	{[scat v:tran]}	"strike"
+streaten	{[scat v:tran]}	"threaten"
+strik	{[scat v:tran]}	"strike"
+strike	{[scat v:tran]}
+striki	{[scat v:tran]}
+striki	{[scat v:tran]}	"strike"
+string	{[scat n]}
+stripe	{[scat n]}
+stripey	{[scat n]}
+strong	{[scat n]}
+Stuart	{[scat n:prop]}
+stuck	{[scat n]}
+style	{[scat n]}
+suck	{[scat v:tran]}
+sugar	{[scat n]}
+sulky	{[scat n]}
+sun	{[scat n]}
+sunday	{[scat n:prop]}
+suni	{[scat n]}	"sun"
+superboy	{[scat n]}
+superman	{[scat n]}
+supper	{[scat n]}
+swap	{[scat v:tran]}
+swear	{[scat v:tran]}
+sweet	{[scat n]}
+sweetheart	{[scat n]}
+swim	{[scat v:intran]}
+swing	{[scat	v:intran]}
+swing	{[scat	v:tran]}
+swing	{[scat n]}
+swing-swing	{[scat n]}
+swingi	{[scat n]}
+swinging	{[scat n]}
+swingswing	{[scat n]}
+swingswingi	{[scat n]}
+swollen {[scat n]}
+swollow	{[scat v:tran]}
+sydney	{[scat n:prop]}
+t	{[scat ?]}
+ta	{[scat dis]}
+table	{[scat n]}
+tabulu	{[scat n]}
+tada	{[scat dis]}
+tadad	{[scat dis]}
+tadpole	{[scat n]}
+tai	{[scat v:tran]}	"tie"
+tie {[scat v:tran]}
+tail	{[scat n]}
+taili	{[scat n]}
+tailu	{[scat n]}
+taim	{[scat n]}	"time"
+tak	{[scat v:tran]}	"take"
+take	{[scat v:tran]}
+taki	{[scat v:tran]}	"take"
+talk	{[scat v:intran]}
+tall	{[scat n]}
+Tameeka	{[scat n:prop]}
+Tampa	{[scat n:prop]}
+tand	{[scat v:intran]}
+tangle	{[scat n]}
+tangle	{[scat v:tran]}
+Tanya	{[scat n:prop]}
+tap	{[scat n]}
+taps	{[scat n]}
+Tara	{[scat n:prop]}
+tardi	{[scat n:kin]}	"father"
+Tardi	{[scat n:prop]}
+tardu	{[scat n:kin]}	"father"
+Tardu	{[scat n:prop]}
+tarnnga	{[scat adv]}	"longtime@1"
+tarrnga	{[scat adv]}	"longtime@1"
+tarti	{[scat n:kin]}	"father"
+tarrki  {[scat n]}  "turkey"
+Tarti	{[scat n:prop]}
+tartij	{[scat n:kin]}	"father"
+tata	{[scat dis]}
+taya	{[scat n]}	"tyre"
+tea	{[scat n]}
+teabag	{[scat n]}
+team	{[scat n]}
+teas	{[scat n]}
+tease	{[scat v:tran]}
+teas	{[scat v:tran]}
+teddy	{[scat n]}
+tegan	{[scat n:prop]}
+teik	{[scat v:tran]}	"take"
+teiki	{[scat v:tran]}	"take"
+telebision	{[scat n]}
+telephone	{[scat n]}
+televison	{[scat n]}
+tell	{[scat v:intran]}
+telphone	{[scat n]}
+tempurature	{[scat n]}
+ten	{[scat num]}	"CARD"
+tent	{[scat n]}
+tiinaja {[scat n]}  "teenager"
+test	{[scat v:tran]}	"test"
+th	{[scat dis]}
+thank	{[scat dis]}
+thanks	{[scat dis]}
+that	{[scat det]}
+thats	{[scat dem]}
+the	{[scat art]}	"def"
+their	{[scat pro]}	"3pl:poss"
+them	{[scat pro]}	"3pl:O"
+then	{[scat conj]}
+there	{[scat det]}
+therri	{[scat det]}
+these	{[scat det]}
+they	{[scat pro]}	"3pl:S"
+thing	{[scat n]}
+thing	{[scat n]}	"thing"
+think	{[scat v:intran]}
+thirsty	{[scat n]}
+thuusti	{[scat n]}	"thirsty"
+thirteen	{[scat num]}	"CARD"
+thirty	{[scat num]}
+this	{[scat det]}
+those	{[scat det]}
+thought	{[scat v:intran]}
+thousand	{[scat num]}
+three	{[scat num]}	"CARD"
+threee	{[scat num]}	"CARD"
+through	{[scat prep]}
+throw	{[scat v:tran]}
+throws	{[scat v:tran]}
+tidy	{[scat n]}
+tie	{[scat v:tran]}
+tied	{[scat v:intran]}	"tired"
+tight	{[scat n]}
+tija	{[scat n]}	"teacher"
+Tijuj	{[scat n:prop]}
+tik	{[scat v:tran]}	"take"
+tikim	{[scat v:tran]}
+time	{[scat n]}
+timina	{[scat n]}	"horse@1"
+Timini	{[scat n:prop]}
+Timothy	{[scat n:prop]}
+Tina	{[scat n:prop]}
+ting	{[scat n]}	"thing"
+tip	{[scat v:tran]}	"hit"
+tipi	{[scat v:tran]}	"tip"
+Tipo	{[scat n:prop]}
+tire {[scat n]}
+tired	{[scat n]}
+tissue	{[scat n]}
+Tituj	{[scat n:prop]}
+titus	{[scat n:prop]}
+Titusi	{[scat n:prop]}
+to	{[scat prep]}
+to	{[scat prep]}	"to"
+toad	{[scat n]}
+toast	{[scat n]}
+together	{[scat n]}
+toilet	{[scat n]}
+tok	{[scat v:intran]}	"talk"
+tol	{[scat v:intran]}
+tongue	{[scat n]}
+too	{[scat n]}
+toomuch	{[scat conj]}
+top	{[scat n]}
+torch	{[scat n]}
+taj     {[scat v]}  "touch"
+touch	{[scat n]}
+touch	{[scat v:tran]}
+tow	{[scat v:tran]}
+towel	{[scat n]}
+tower	{[scat n]}
+town	{[scat n]}
+towu	{[scat v:tran]}
+toy	{[scat n]}
+toyota	{[scat n]}
+toys	{[scat n]}
+trai	{[scat v:intran]}	"try"
+traiin	{[scat v:intran]}	"trying"
+traiina	{[scat v:intran]}	"trying:to"
+trailor	{[scat n]}
+trampoline	{[scat n]}
+trancribed	{[scat v:tran]}
+tranition	{[scat n]}
+trap	{[scat n]}
+triit   {[scat v]}  "treat"
+tree	{[scat n]}
+trick	{[scat v:tran]}
+trip	{[scat v:tran]}
+trose	{[scat n:prop]}
+troujers	{[scat n]}
+trouser	{[scat n]}
+trousers	{[scat n]}
+truck	{[scat n]}
+try	{[scat v:intran]}
+tryin	{[scat v:intran]}
+tryina	{[scat v:intran]}
+tu	{[scat prep]}	"to"
+tuesday	{[scat n:prop]}
+tumaj	{[scat conj]}	"because"
+turda	{[scat n:kin]}	"daughter"
+Turkey	{[scat n:prop]}
+turkey	{[scat n]}
+turlikaj	{[scat n]}	"thunder@1"
+turlkaji	{[scat n]}	"thunder@1"
+turlurlkaj	{[scat n]}	"thunder@1"
+turlurlkaji	{[scat n]}	"thunder@1"
+turlurlykaji	{[scat n]}	"thunder@1"
+turn	{[scat v:intran]}
+turnu	{[scat v:intran]}
+tutu	{[scat n]}
+tuulka	{[scat n]}	"thunder@1"
+tuurl	{[scat n]}	"thunder@1"
+tuurnu	{[scat v]}	"group@1"
+twelve	{[scat num]}	"CARD"
+twenty	{[scat num]}	"CARD"
+twenty-fifth	{[scat num]}
+twins	{[scat n]}
+two	{[scat num]}
+two	{[scat num]}	"CARD"
+tyre	{[scat n]}
+u	{[scat eup]}
+u	{[scat eup]}	"@1"
+ugh	{[scat dis]}
+Ugu	{[scat n:prop]}
+uh	{[scat dis]}
+uhh	{[scat dis]}
+uhoh	{[scat dis]}
+uju	{[scat n]}
+uk	{[scat case]}	"@1"
+uka	{[scat v:infl]}	"imper@1"
+ula	{[scat anaph]}	"@1"
+ulang	{[scat anaph]}	"@1"
+ulanga	{[scat anaph]}	"@1"
+ulk	{[scat suf]}	"then@1"
+um	{[scat dis]}
+um	{[scat v:infl]}	"im:tran"
+uma	{[scat n]}	"money@1"
+umaya	{[scat n]}	"money@1"
+umm	{[scat dis]}
+umu	{[scat v:infl]}	"@1"
+un	{[scat v:infl]}	"npst@1"
+Uncle	{[scat n:prop]}
+uncle	{[scat n]}
+under	{[scat prep]}
+underneath	{[scat prep]}
+andaniith   {[scat prep]}   "underneath"
+underpants	{[scat n]}
+underwaer	{[scat n]}
+underwear	{[scat n]}
+undo	{[scat v:tran]}
+ung	{[scat case][case erg]}	"ng:erg@1"
+ungka	{[scat v:infl]}	"imper@1"
+ungry	{[scat n]}
+ungu	{[scat case]}	"@1"
+ungy	{[scat n]}
+unkulu	{[scat v:infl]}	"@1"
+up	{[scat prep]}
+-up {[scat prep]}
+up	{[scat suf:tel]}	"up:loc"
+-up	{[scat suf:tel]}	"up:loc"
+Upiyi	{[scat n:prop]}
+upside	{[scat prep]}
+urduju	{[scat n]}	"true@1"
+urn	{[scat v:infl]}	"npst@1"
+urnu	{[scat v:infl]}	"npst@1"
+us	{[scat pro]}	"1pl:O"
+us	{[scat v:tran]}	"use"
+use	{[scat v:tran]}
+used	{[scat v:tran]}
+useless	{[scat n]}
+utu	{[scat n]}	"louse@1"
+uuh	{[scat dis]}
+uuju	{[scat n]}	"horse"
+uusu	{[scat n]}	"horse"
+uuuh	{[scat dis]}
+valerie	{[scat n:prop]}
+vegetibul   {[scat n]}  "vegetable"
+very	{[scat n]}
+vide	{[scat n]}
+video	{[scat n]}
+vis	{[scat n]}	"fish"
+vomit	{[scat v:intran]}
+wa	{[scat dis]}
+waa	{[scat dis]}
+waaa	{[scat dis]}
+waaaa	{[scat dis]}
+waaapa	{[scat n]}	"affect@1"
+waap	{[scat n]}	"affect@1"
+waapa	{[scat n]}	"affect@1"
+waara	{[scat n]}	"affect@1"
+waarpa	{[scat n]}	"affect@1"
+waarrpa	{[scat n]}	"affect@1"
+wabe	{[scat n:prop]}	"wave"
+wah	{[scat dis]}
+wait	{[scat v:tran]}
+waitya	{[scat n]}	"tree@1"
+waj	{[scat dis]}	"emph@1"
+waj {[scat v:tran]} "watch"
+waja	{[scat dis]}	"emph@1"
+-waja    {[scat suf]}    "emph@1"
+wajaming	{[scat dis]}	"emph@1"
+wajarla	{[scat dis]}	"emph@1"
+wajawaja	{[scat n]}	"ceremony@1"
+waji	{[scat adv]}	"fast@1"
+waji	{[scat dis]}	"emph@1"
+wajiili	{[scat adv]}	"fast@1"
+wajili	{[scat adv]}	"fast@1"
+wajilipi	{[scat adv]}	"fast@1"
+wajilipinyi	{[scat v:tran]}	"chase@1"
+wajilipinyi	{[scat vt]}	"chase@1"
+wajilipu	{[scat adv]}	"fast@1"
+wajilirri	{[scat adv]}	"fast@1"
+wak	{[scat v:intran]}	"wake"
+wake	{[scat v:intran]}
+waku	{[scat neg]}	"@1"
+Wakuljal	{[scat n:prop]}	"@1"
+wakuljal	{[scat n]}	"@1"
+Wakulkuta	{[scat n:prop]}
+Wakulkuta	{[scat n:prop]}	"@1"
+wali	{[scat dis]}
+walk	{[scat v:intran]}
+walkabout	{[scat n]}
+walku	{[scat neg]}	"@1"
+walkuja	{[scat n]}	"@1"
+walkurru	{[scat n]}	"axe@1"
+wall	{[scat n]}
+wallet	{[scat n]}
+walpa	{[scat n]}	"dizzy@1"
+walpali	{[scat n]}	"whiteman@1"
+walpalypa	{[scat n]}	"dizzy@1"
+walya	{[scat n]}	"ground@1"
+walyiri	{[scat n]}	"sand@1"
+walyka	{[scat n]}	"cold@1"
+walypali	{[scat n]}	"whiteman@1"
+Wampana	{[scat n:prop]}
+wan	{[scat num]}	"one"
+wun {[scat num]}    "one"
+-wun    {[scat suf]}    "one:nom"
+-wan	{[scat suf]}	"one:nom"
+wana	{[scat case]}	"near:PERL@1"
+wana	{[scat case]}	"perl"
+wana    {[scat v:intran]}   "want:to"
+wanarri	{[scat n]}	"thigh@1"
+wanduk	{[scat n]}	"blackwhite@1"
+wang	{[scat suf]}	"without@1"
+wanga	{[scat v:intran]}	"talk@1"
+wangaka	{[scat v:intran]}	"@1"
+Wangarla	{[scat n:prop]}	"@1"
+wangarla	{[scat n]}	"bird:crow@1"
+wangk	{[scat v:intran]}	"talk@1"
+wangka	{[scat v:intran]}	"talk@1"
+wangka	{[scat n]}	"type:of:dance"
+wangkami	{[scat v:intran]}	"speak@1"
+wangkaya	{[scat v:intran]}
+wangu	{[scat suf]}	"depriv@1"
+wangu	{[scat suf]}	"without:PRIv@1"
+wani	{[scat art]}	"indef"
+wani	{[scat suf]}	"one"
+wanim	{[scat v:intran]}	"want"
+waninja	{[scat n]}	"throat@1"
+wanka	{[scat n]}	"raw@1"
+wankaru	{[scat n]}	"raw@1"
+wann	{[scat v:intran]}	"want"
+wanna	{[scat v:intran]}	"want"
+want	{[scat v:intran]}	"want"
+wanta	{[scat v:intran]}	"want"
+wanti	{[scat v:intran]}	"fall@1"
+wantik	{[scat n]}	"wide@1"
+wantimi {[scat v:intran]} "fall@1"
+wapa	{[scat v:intran]}	"walk@1"
+Wapal	{[scat n:prop]}
+wapal	{[scat v]}	"tosee@1"
+wapaly	{[scat v]}	"tosee@1"
+wapalya	{[scat v]}	"tosee@1"
+wapan	{[scat v]}	"tosee@1"
+waparlk	{[scat n]}	"unaware@1"
+wapirra	{[scat n]}	"god@1"
+wapirri	{[scat n]}	"god@1"
+wapunypa	{[scat n]}	"old@1"
+wara	{[scat dis]}	"@1"
+wararrda	{[scat dis]}
+wararrji {[scat n]} "snake:vine@1"
+warayi	{[scat dis]}	"@1"
+wardapi	{[scat n]}	"goanna@1"
+wardilyka	{[scat n]}	"bushturkey@1"
+wardilyki	{[scat n]}	"bushturkey@1"
+wardingki	{[scat suf]}	"belong@1"
+wardingki	{[scat suf]}	"belonging@1"
+wardinyi	{[scat suf]}	"happy@1"
+wardiylka	{[scat n]}	"bushturkey@1"
+warla	{[scat n]}
+warlalja	{[scat n:kin]}	"family@1"
+warlapaju	{[scat v:intran]}	"stop@1"
+warlku	{[scat n]}	"axe@1"
+warlkurru	{[scat n]}	"axe@1"
+warlpaju	{[scat v:intran]}	"stop@1"
+Warlpiri	{[scat n:prop]}
+warlpiri	{[scat n]}	"@1"
+warlu	{[scat n]}	"fire@1"
+warlun	{[scat n]}	"fire@1"
+warm	{[scat n]}
+warna	{[scat n]}	"snake@1"
+warnapari	{[scat n]}	"dog@1"
+warnu	{[scat case]}	"abl@1"
+warnu	{[scat case]}	"from:abl@1"
+warra	{[scat v]}	"around@1"
+warrada	{[scat adv]}	"@1"
+warraja	{[scat n]}	"@1"
+warraly	{[scat n]}	"tree@1"
+warrara	{[scat dis]}
+warri	{[scat v:tran]}	"search@1"
+warringiyi	{[scat n:kin]}	"fathersfather@1"
+warriwarri	{[scat n]}	"@1"
+warrka	{[scat v:intran]}	"climb@1"
+warrki	{[scat n]}	"work"
+warrpa	{[scat n]}	"clothes@1"
+warru	{[scat v]}	"around@1"
+waru	{[scat v:tran]}	"tie:pst@1"
+warungka	{[scat n]}	"crazy@1"
+Warungka	{[scat n:kin]}	"crazy:avoid@1"
+was	{[scat v:intran]}
+wash	{[scat v:tran]}
+wast	{[scat v:tran]}
+waster	{[scat n]}
+wat	{[scat suf]}	"pl@1"
+watch	{[scat v:tran]}
+water	{[scat n]}
+Wati	{[scat n]}	"man@1"
+wati	{[scat suf]}	"pl@1"
+-wati   {[scat suf]}    "pl@1"
+watiji	{[scat suf]}	"pl@1"
+watiya	{[scat n]}	"tree@1"
+Wave	{[scat n:prop]}
+wave	{[scat v:intran]}
+wawa	{[scat neg]}	"@1"
+Wawa	{[scat neg]}	"no"
+wawarra	{[scat n]}
+wawawa	{[scat n]}
+wawirri	{[scat n]}	"kangaroo@1"
+Wawuji	{[scat n:kin]}	"fathersmother"
+way	{[scat n]}
+waya	{[scat n]}	"wire"
+wayi	{[scat n]}
+we	{[scat pro]}	"1pl:S"
+weak	{[scat n]}
+wear	{[scat v:tran]}
+Wednesday	{[scat n:prop]}
+week	{[scat n]}
+weetbik	{[scat n]}
+weetbix	{[scat n]}
+wehre	{[scat pro:qn]}
+wehre	{[scat qn]}
+wei	{[scat prep]}	"away"
+weik	{[scat v:intran]}	"wake"
+weit	{[scat v:intran]}	"wait"
+wel	{[scat dis]}
+well	{[scat adv]}	"well"
+wen	{[scat qn]}	"when"
+went	{[scat v:intran]}
+were	{[scat v:intran]}
+wet	{[scat n]}
+weti	{[scat n]}
+wha	{[scat dis]}
+what	{[scat pro:qn]}	"what"
+what	{[scat qn]}	"what"
+Whataya	{[scat n:prop]}
+wheel	{[scat n]}
+wheetbik	{[scat n]}
+when	{[scat qn]}
+where	{[scat qn]}
+wheres	{[scat qn]}
+which	{[scat qn]}
+while	{[scat conj]}
+wail    {[scat conj]} "while"
+whispers	{[scat v:intran]}
+white	{[scat n]}
+White	{[scat n:prop]}
+who	{[scat qn]}
+whole	{[scat n]}
+whos	{[scat pro:qn]}
+why	{[scat qn]}
+wife	{[scat n]}
+waif	{[scat n]}	"wife"
+wifei	{[scat n]}
+wifi	{[scat n]}
+wiji	{[scat n]}	"sore@1"
+wijin	{[scat v:tran]}	"pour@1"
+wijini	{[scat n]}	"sore@1"
+wild	{[scat n]}
+wilinyji	{[scat n]}	"hunting@1"
+will	{[scat v:aux]}
+wil     {[scat pro]}    "3PL:FUT"
+wilrinji	{[scat n]}	"hunting@1"
+wilyji	{[scat v]}	"remove@1"
+wilyp	{[scat v:tran]}	"remove@1"
+wilyp	{[scat v]}	"remove@1"
+wilypi	{[scat v:tran]}	"remove@1"
+win	{[scat v:tran]}
+wina	{[scat n]}	"winner"
+window	{[scat n]}
+wingki	{[scat n]}	"misbehaving@1"
+wini	{[scat n]}	"burntarea@1"
+winji	{[scat v:tran]}	"pour@1"
+winjirn	{[scat v:tran]}	"pour@1"
+winner	{[scat n]}
+wip	{[scat v:tran]}
+wipe	{[scat v:tran]}	"wipe"
+wirdin	{[scat n]}	"police@1"
+wirdinkaji	{[scat n]}	"police@1"
+wire	{[scat n]}
+wiri	{[scat n]}	"big@1"
+wirlin	{[scat n]}	"hunting@1"
+wirlinyi	{[scat n]}	"hunting@1"
+wirlinyji	{[scat n]}	"hunting@1"
+wirliya	{[scat n]}	"foot@1"
+wirnji	{[scat v:tran]}	"pour@1"
+wirnjirn	{[scat v:tran]}	"pour@1"
+wirnki	{[scat n]}	"naughty@1"
+wirnkirrpa	{[scat n]}	"naughty@1"
+wirnpa	{[scat n]}	"lightning@1"
+wirnti	{[scat v:intran]}	"dance@1"
+wirntim	{[scat v:intran]}	"dance@1"
+wirntimi	{[scat v:intran]}	"dance@1"	
+Wirri	{[scat n:prop]}	"@1"
+wirrija	{[scat n]}	"boy@1"
+Wirritiya	{[scat n:prop]}	"@1"
+wirriya	{[scat n]}	"boy@1"
+wit	{[scat v:tran]}
+wita	{[scat n]}	"small@1"
+with	{[scat prep]}
+witness	{[scat n]}
+wiya	{[scat dis]}
+wiyarr	{[scat n]}	"affect@1"
+Wiyarrpa	{[scat dis]}	"affect@1"
+wiyarrpa	{[scat dis]}	"affect@1"
+wiyi	{[scat suf]}	"before@1"
+wiyi	{[scat suf]}	"prior@1"
+wiyik	{[scat n]}	"week"
+wiyiki	{[scat n]}	"week"
+wiyil	{[scat n]}	"wheel"
+wiyili	{[scat n]}	"wheel"
+wiyilu	{[scat n]}	"wheel"
+wiyli	{[scat n]}	"wheel"
+wo	{[scat v:aux]}	"neg"
+woh	{[scat dis]}
+wok	{[scat v:intran]}	"walk"
+woman	{[scat n]}
+womani	{[scat n]}
+women	{[scat n]}
+won	{[scat v:intran]}
+wonder	{[scat v:intran]}
+wont	{[scat neg]}
+woo	{[scat dis]}
+woof	{[scat dis]}
+word	{[scat n]}
+work	{[scat v:intran]}	"work"
+worker	{[scat n]}
+world	{[scat n]}
+worm	{[scat n]}
+worry	{[scat v:intran]}
+wrap	{[scat v:tran]}
+wrapped	{[scat v:tran]}
+wreck	{[scat v:tran]}
+wres	{[scat v:tran]}
+wrestleing	{[scat v:tran]}
+wrestler	{[scat n]}
+writ	{[scat v:tran]}
+write	{[scat v:tran]}
+writi	{[scat n]}
+wrong	{[scat n]}	"neg"
+wu	{[scat dis]}
+wu	{[scat v]}	"around@1"
+Wulaign	{[scat n:prop]}
+wuly	{[scat v]}	"hide@1"
+wumara	{[scat n]}	"money@1"
+wumaya	{[scat n]}	"money@1"
+wumura	{[scat n]}	"money@1"
+wungu	{[scat n]}	"friend@1"
+wuraji	{[scat n]}	"evening@1"
+wurdu	{[scat n]}	"true@1"
+wurliya	{[scat n]}	"foot@1"
+wurn	{[scat v]}	"low@1"
+wurna	{[scat n]}	"journey@1"
+wurnpa	{[scat n]}	"lightning@1"
+wurntu	{[scat n]}	"far@1"
+wurnturu	{[scat n]}	"far@1"
+wurra	{[scat dis]}	"wait@1"
+wurrpulu	{[scat v]}	"hide@1"
+wurru	{[scat v]}	"around@1"
+wurruly	{[scat v]}	"hide@1"
+wurrurn	{[scat v]}	"low@1"
+wuruly	{[scat v]}	"hide@1"
+wurulylpa	{[scat v]}	"hide@1"
+ww	{[scat W]}
+www	{[scat W]}	"www"
+wwww	{[scat W]}
+wwwwww	{[scat W]}
+wwwx	{[scat W]}
+wwwxx	{[scat W]}
+xx	{[scat W]}
+xxx	{[scat W]}
+xxx	{[scat W]}	"xxx"
+xxxw	{[scat W]}
+xxxx	{[scat W]}
+xxxxx	{[scat W]}
+xxxxxx	{[scat W]}
+ya	{[scat v:infl]}	"npst@1"
+ya	{[scat v:intran]}	"go@1"
+yaa	{[scat v:intran]}	"go@1"
+yaaka	{[scat dis]}
+yaaly	{[scat v]}	"horizontal@1"
+yaalypa	{[scat v]}	"horizontal@1"
+yaarl	{[scat v]}	"horizontal@1"
+yaarlpa	{[scat v]}	"horizontal@1"
+yah	{[scat dis]}
+yak	{[scat dis]}
+yaka	{[scat dis]}
+yakaa	{[scat dis]}
+yakara	{[scat dis]}
+yakarda	{[scat dis]}
+yakarra	{[scat dis]}
+Yakarra	{[scat dis]}	"yakarra"
+yakarrayi	{[scat dis]}
+Yakaya	{[scat dis]}	"yakaya"
+yakayi	{[scat dis]}
+yakrra	{[scat dis]}
+yakuj	{[scat n]}	"bag@1"
+yakuju	{[scat n]}	"bag@1"
+yala	{[scat n]}
+yali	{[scat det]}	"thatthere@1"
+yalju	{[scat n]}	"blood@1"
+yalku	{[scat v:tran]}	"bite@1"
+yalumpa	{[scat det]}	"thatthere@1"
+yalumpu	{[scat det]}	"thatthere@1"
+yalyu	{[scat n]}	"blood@1"
+yama	{[scat n]}	"shade@1"
+Yami	{[scat n:prop]}	"@1"
+yampi	{[scat v:tran]}	"leaveit@1"
+yampiya	{[scat v:tran]}	"leaveit@1"
+Yampiyiti	{[scat n:prop]}	"skin@1"
+yampu	{[scat det]}	"thishere@1"
+yanga	{[scat anaph]}
+yangka	{[scat anaph]}	"thatone@1"
+yangkurlu	{[scat n]}	"burrow@1"
+yani	{[scat v:intran]}	"go@1"
+yanirni	{[scat v:intran]}	"come+DIR@1"
+yanja	{[scat v:intran]}	"go@1"
+yanjilpiri	{[scat n]}	"star@1"
+yanjilypiri	{[scat n]}	"star@1"
+yanjlipiri	{[scat n]}	"star@1"
+yanju	{[scat v:intran]}	"go@1"
+yankga	{[scat anaph]}	"@1"
+yankirri	{[scat n]}	"emu@1"
+yanta	{[scat v:intran]}	"go@1"
+yantaa	{[scat v:intran]}	"go@1"
+yantiji	{[scat v:intran]}	"go@1"
+yantiri	{[scat n]}	"fat@1"
+yanu	{[scat v:intran]}	"gopst@1"
+yapa	{[scat n]}	"person@1"
+Yapuju	{[scat n:kin]}	"fathersmother@1"
+Yarapinta	{[scat n:prop]}
+yard	{[scat n]}
+yarda	{[scat adv]}	"again@1"
+yardi	{[scat n]}
+yarla	{[scat n]}	"potato@1"
+yarli	{[scat v:tran]}	"soak@1"
+yarlki	{[scat v:tran]}	"bite@1"
+yarlku	{[scat v:tran]}	"bite:pst@1"
+yarlpa	{[scat v]}	"along:ground@1"
+yarlu	{[scat n]}	"outside@1"
+yarnunjuk	{[scat n]}	"hungry@1"
+yarnunjuku	{[scat n]}	"hungry@1"
+yarrku	{[scat n]}
+yarrkuju	{[scat n]}
+yarti	{[scat n]}	"yard"
+yartiwaj	{[scat n]}	"camerapicture@1"
+yartiwaji	{[scat n]}	"camerapicture@1"
+yaruj	{[scat adv]}	"quick@1"
+yaruju	{[scat adv]}	"fast@1"
+yatijarni	{[scat suf:dir]}	"north@1"
+yatijarra	{[scat suf:dir]}	"north@1"
+yaurju	{[scat adv]}	"fast@1"
+yawu	{[scat n]}	"fish@1"
+yay	{[scat dis]}
+yayi	{[scat dis]}
+yeah	{[scat dis]}
+year	{[scat n]}
+yeeeh	{[scat dis]}
+yeh	{[scat dis]}	"yeh:aff"
+yellow	{[scat n]}
+yellowi	{[scat n]}
+yells	{[scat v:intran]}
+yep	{[scat dis]}
+yes	{[scat dis]}
+yesterday	{[scat n]}
+yesterdayi	{[scat n]}
+yet	{[scat adv]}
+yi	{[scat conj]}	"inorderto@1"
+yi	{[scat v:infl]}	"npst@1"
+yija	{[scat conj]}	"also@1"
+yijala	{[scat conj]}	"also@1"
+yily	{[scat v:tran]}	"send@1"
+yilya	{[scat v:tran]}	"send@1"
+yimi	{[scat n]}	"story@1"
+yinarlingi	{[scat n]}	"echidna@1"
+yingirri	{[scat pro:qn]}	"which@1"
+yingirri	{[scat prop:qn]}	"which@1"
+yinki	{[scat n]}
+yintuwu	{[scat n]}
+yinya	{[scat det]}	"thatthere@1"
+yinyi	{[scat v:tran]}	"give@1"
+yirdi	{[scat n]}	"name@1"
+yirdiyi	{[scat n]}	"name@1"
+yirnmi	{[scat n]}	"cooked@1"
+yirra	{[scat n]}	"lonely@1"
+yirraru	{[scat n]}	"lonely@1"
+yirri	{[scat n]}	"hunt@1"
+yiy	{[scat dis]}
+yo	{[scat dis]}
+you	{[scat pro]}	"2sg"
+young	{[scat n]}
+your	{[scat pro]}	"2:poss"
+yours	{[scat pro]}
+yours	{[scat pro]}	"2:poss"
+youself	{[scat pro]}	"2sg:reflex"
+yuself	{[scat pro]}	"2sg:reflex"
+youve	{[scat pro]}	"2sg:part"
+youve	{[scat pro]}	"2SG"
+yu	{[scat pro][pro lw]}	"2sg"
+yu-mob	{[scat pro][pro lw]}	"2PL"
+yuji	{[scat v:tran]}
+yujirni	{[scat v:tran]}
+yujuku	{[scat n]}	"shelter@1"
+Yujuwala	{[scat n:prop]}	"@1"
+yuka	{[scat n]}	"grass@1"
+yukanti	{[scat n]}	"small@1"
+yukuru	{[scat n]}	"green@1"
+yula	{[scat v:intran]}	"cry@1"
+yulaja	{[scat v:intran]}	"cry@1"
+yulka	{[scat v:tran]}	"love@1"
+yulparrara	{[scat suf:dir]}	"south@1"
+yulparrirra	{[scat suf:dir]}	"south@1"
+yulpayi	{[scat n]}	"creek@1"
+yultu	{[scat pro]}	"2dl"
+yultu	{[scat prop]}	"2dl"
+yumob	{[scat pro]}	"2pl"
+yumurnunjulu	{[scat n]}	"potato@1"
+Yumurrpa	{[scat n:prop]}
+yuna	{[scat pro:v:aux]}	"2sg:v:aux:want"
+yuna	{[scat pro]}	"2sg:want"
+yungka	{[scat v:tran]}	"give@1"
+yungkurnu	{[scat n]}	"police@1"
+yungu	{[scat conj]}	"in:order:to"
+yunpa	{[scat v:tran]}	"sing@1"
+yunta	{[scat n]}	"shelter@1"
+yunyinya	{[scat n]}
+yuparli	{[scat n]}	"banana@1"
+Yupuka	{[scat n:prop]}
+yurnta	{[scat n]}	"shelter@1"
+yurntalpa	{[scat n:kin]}	"daughter@1"
+Yurntumu	{[scat n:prop]}
+Yurnutmu	{[scat n:prop]}
+yurrkurnu	{[scat n]}	"policeman@1"
+yuu	{[scat pro]}	"2sg:S"
+yuwa	{[scat dis]}	"hello@1"
+yuwawu	{[scat dis]}	"yes@1"
+yuwayi	{[scat dis]}	"yes@1"
+yuwurrku	{[scat n]}	"bush@1"
+Zach	{[scat n:prop]}
+Zoe	{[scat n:prop]}
+zzz	{[scat dis]}
+% \\\\\ WARLPIRI SECTION \\\\\\
+yulka	{[scat v]}	"love"
+manyu	{[scat v]}	"fun"
+janjanpa	{[scat v]}	"takefrom"
+jinijini	{[scat v]}	"clothes"
+panturn	{[scat v]}	"pierce:pst"
+purda	{[scat v]}	"hear"
+rdilyki	{[scat v]}	"broken"
+weti	{[scat v]}	"eng"
+towu-		{[scat v]}	"tow"
+-matirn	{[scat v:tran]}	"move:in:line"
+-kiji	{[scat v:tran][class v2-root]}	"throw"
+-knock	{[scat v:tran]}
+-luwa	{[scat v:tran]}	"shoot"
+-man	{[scat v:tran]}	"tran"
+-ngarri	{[scat v:tran]}	"tell"
+-nungu	{[scat v:tran]}	"attack"
+-panti	{[scat v:tran]}	"pierce:npst"
+-pantu	{[scat v:tran]}	"pierce:npst"
+kiji	{[scat v:tran]}	"kick"
+kuju	{[scat v:tran]}	"kick"
+ngana-ma	{[scat v:tran]}	"cause:something"
+-pinyin	{[scat v:tran]}	"assault"
+-pung	{[scat v:tran]}	"assault:pst"
+-pungu	{[scat v:tran]}	"assault:pst"
+-wilyp	{[scat v:tran]}	"remove"
+-wilypi	{[scat v:tran]}	"remove"
+ji	{[scat v:tran][class v5-root]}
+kiji	{[scat v:tran][class v2-root]}	"throw"
+luwa	{[scat v:tran][class v2-root]}	"shoot"
+ngarri	{[scat v:tran]}	"tell"
+nungu	{[scat v:tran]}	"attack"
+fiksi- 	{[scat v:tran]}	"fix"
+pi	{[scat v:tran]}	"assault"
+pu	{[scat v:tran]}	"assault"
+pung	{[scat v:tran]}	"assault:pst"
+pungu	{[scat v:tran]}	"assault:pst"
+wilyp	{[scat v:tran]}	"remove"
+wilypi	{[scat v:tran]}	"remove"
+abit	{[scat v:tran]}	"have:3sg:O"
+bandap	{[scat v:tran]}	"bang:OC:up"
+jiil	{[scat v:tran]}	"point"
+jil	{[scat v:tran]}	"point"
+jiti	{[scat v:tran][class v2-root]}	"play/tease"
+kampa	{[scat v:tran][class v1-root]}	"burn"
+karti	{[scat v:tran]}	"squash"
+kartu	{[scat v:tran]}	"squash"
+kat	{[scat v:tran]}	"press"
+katirn	{[scat v:tran]}	"presson"
+kij	{[scat v:tran]}	"throw"
+kijirn	{[scat v:tran]}	"throw"
+kip	{[scat v:tran]}	"give"
+kissim	{[scat v:tran]}
+kuju	{[scat v:tran]}	"throw:pst"
+%man	{[scat v:tran]}	"get"
+mapa	{[scat v:tran][class v2-root]}	"touch"
+mard	{[scat v:tran]}	"hold"
+marda	{[scat v:tran][class v2-root]}	"hold"
+marnpi	{[scat v:tran][class v2-root]}	"touch"
+marnpu	{[scat v:tran]}	"touch"
+marpi	{[scat v:tran]}	"touch"
+mapinyi	{[scat v:tran]}	"hit"
+matr	{[scat v:tran]}	"hit"
+milya	{[scat v:tran]}	"know"
+milyapi	{[scat v:tran]}	"know"
+nga	{[scat v:tran][class v4-root]}	"eat"		% 
+ngarntirni	{[scat v:tran]}	"build"
+nya	{[scat v:tran][class v3-root]}	"see"
+-nya	{[scat v:tran][class v3-root]}	"see"
+nyanja	{[scat v:tran]}	"eatv:infl:inf"
+nyurnju	{[scat v:tran]}	"kiss"
+openi	{[scat v:tran]}
+paju	{[scat v:tran]}	"cut:pst"
+paka	{[scat v:tran][class v2-root]}	"hit"
+palkupi	{[scat v:tran]}	"assault"
+pangi	{[scat v:tran][class v2-root]}	"dig"
+pangu	{[scat v:tran]}	"dig:pst"
+pangu	{[scat v:tran]}	"dig"
+pant	{[scat v:tran]}	"pierce"
+pantu	{[scat v:tran]}	"pierce:pst"
+parlu	{[scat v:tran]}	"find"
+parnti	{[scat v:tran][class v1-root]}	"pierce"
+parntu	{[scat v:tran]}	"pierce:pst"
+pi	{[scat v:tran][class v3-root]}	"assault"
+piji	{[scat v:tran]}	"steal"
+pijiji	{[scat v:tran]}	"steal"
+pittr	{[scat v:tran]}	"hit"
+punta	{[scat v:tran][class v2-root]}	"steal"
+puntarn	{[scat v:tran]}	"takefrom"
+pur	{[scat v:tran]}	"follow"
+purr	{[scat v:tran]}	"put"
+wajilipi	{[scat v:tran][class v3-root]}	"chase"
+wajili-pi	{[scat v:tran][class v3-root]}	"chase"
+wajili-pu	{[scat v:tran][class v3-root]}	"chase"
+warri	{[scat v:tran][class v2-root]}	"search"
+waru	{[scat v:tran]}	"tie:pst"
+wijin	{[scat v:tran]}	"pour"
+winji	{[scat v:tran][class v2-root]}	"pour"
+winjirn	{[scat v:tran]}	"pour"
+wip	{[scat v:tran]}	"eng"
+wirnji	{[scat v:tran]}	"pour"
+wirnjirn	{[scat v:tran]}	"pour"
+yirra	{[scat v:tran]}	 "put:do"
+kanyi	{[scat v:tran]}	 "take"
+ka-nyi	{[scat v:tran]}	 "take"
+kangu	{[scat v:tran]}	 "take"
+kangka	{[scat v:tran]}	 "take:carry"
+piksi	{[scat v:tran]}	 "fix:eng"
+bampi	{[scat v:tran]}	 "hit"
+panti	{[scat v:tran]}	 "smell"
+pantu	{[scat v:tran]}	 "smell"
+yalku	{[scat v:tran]}	"bite"
+yalki	{[scat v:tran]}	"bite"
+paji	{[scat v:tran][class v2-root]}	"cut/bite"
+yampi	{[scat v:tran][class v1-root]}	"leaveit"
+yampiya	{[scat v:tran]}	"leaveit"
+yarli	{[scat v:tran][class v2-root]}	"soak"
+yarlki	{[scat v:tran][class v2-root]}	"bite"
+yarlku	{[scat v:tran]}	"bite:pst"
+yily	{[scat v:tran]}	"send"
+yilya	{[scat v:tran][class v1-root]}	"send"
+yi {[scat v:tran][class v3-root]}	"give"
+yu {[scat v:tran][class v3-root]}	"give"
+yulka	{[scat v:tran][class v1-root]}	"love"
+yungka	{[scat v:tran]}	"give"
+yunpa	{[scat v:tran][class v2-root]}	"sing"
+gim	{[scat v:tran]}	"give"
+gimm	{[scat v:tran]}	"give1sg:O"
+kim	{[scat v:tran]}	"give"
+rurrunypi	{[scat v:tran]}	"take:off"
+rurrunypu	{[scat v:tran]}	"take:off"
+luwa	{[scat v:tran]}	"shoot"
+pa-ngi	{[scat v:tran]}	"dig:npst"
+yunpa	{[scat v:tran]}	"sing"
+pangi	{[scat v:tran]}	"dig"
+yalkirni	{[scat v:tran]}	"bite"
+towi-	{[scat v:tran]}	"tow"
+kati	{[scat v:tran][class v2-root]}	  "squash"
+yarlki	{[scat v:tran]}	  "bite"
+marrupinyi	{[scat v:tran]}	"hit"
+paj	{[scat v:tran]}	"cut"
+punta	{[scat v:tran]}	"steal"
+-nguna	{[scat v:intran][class v1-root]}	"lie"
+-pardi	{[scat v:intran]}	"fly"
+-parnka	{[scat v:intran][class v1-root]}	"run"
+-wanga	{[scat v:intran]}	"talk"
+-wangka	{[scat v:intran][class v1-root]}	"talk"
+-wanti	{[scat v:intran]}	"fall"
+paarr-pardi	{[scat v:intran]}	"fly"
+manyi-karri	{[scat v:intran]}	"play"
+manyu-karri	{[scat v:intran][class v1-root]}	"play"
+rdipi	{[scat v:intran][class v1-root]}	"meet"
+wanga	{[scat v:intran][class v1-root]}	"talk"
+wangka	{[scat v:intran][class v1-root]}	"talk"
+wanti	{[scat v:intran][class v1-root]}	"fall"
+jingabat	{[scat v:intran]}
+jiti	{[scat v:intran][class v1-root]}	"alight"
+jurl	{[scat v:intran]}	"move"
+kalku	{[scat v:intran]}	"facingspeaker"
+kalkurn	{[scat v:intran]}	"thisway"
+karlkurn	{[scat v:intran]}	"facingthisway"
+karri	{[scat v:intran][class v1-root]}	"stand"
+-karri	{[scat v:intran][class v1-root]}	"stand"
+maya	{[scat v:intran]}	"continue"
+ngarlarri	{[scat v:intran][class v1-root]}	"laugh"
+ngarri	{[scat v:intran][class v2-root]}	"relate"
+nguna	{[scat v:intran][class v1-root]}	"sleep"
+wapa	{[scat v:intran][class v1-root]}	"walk"
+yuka	{[scat v:intran][class v1-root]}	"enter"
+warrkarni	{[scat v:intran]} "climb"
+paarr	{[scat v:intran]}	"fly"
+pali	{[scat v:intran][class v1-root]}	"die"
+palk	{[scat v:intran]}	"exist"
+palka	{[scat v:intran]}	"exist"
+palku	{[scat v:intran]}	"exist"
+parda	{[scat v:intran][class v2-root]}	"wait"
+pardi	{[scat v:intran][class v1-root]}	"move"
+-pardi	{[scat v:intran][class v1-root]}	"move"
+parnk	{[scat v:intran]}	"run"
+payu	{[scat v:intran]}	"ask"
+purla	{[scat v:intran][class v1-root]}	"shout"
+rdirrji	{[scat v:intran][class v2-root]}	"start:a:fight"
+wangaka	{[scat v:intran]}	
+wangk	{[scat v:intran]}	"talk"
+wapa	{[scat v:intran]}	"walk"
+warlapaju	{[scat v:intran]}	"stop"
+warlpaju	{[scat v:intran]}	"stop"
+warrka	{[scat v:intran][class v2-root]}	"climb"
+parnka	{[scat v:intran][class v1-root]}	"run"
+yula	{[scat v:intran][class v1-root]}	"cry"
+yaalypa-wantim	{[scat v:intran]}	"fall:over:ground"
+-nyina	{[scat v:intran][class v1-root]}	"sit"
+wirnti	{[scat v:intran][class v1-root]}	"dance"
+wirntim	{[scat v:intran]}	"dance"
+jata-nyanyi	{[scat v:intran]}	"try:in:vain"
+yanju	{[scat v:intran]}	"go"
+yanta	{[scat v:intran]}	"go"
+yantaa	{[scat v:intran]}	"go"
+yantiji	{[scat v:intran]}	"go"
+yaarl-wanti	{[scat v:intran][class v1-root]}	"fall:to:ground"
+yula	{[scat v:intran]}	"cry"
+leav	{[scat v:intran]}
+Parda	{[scat v:intran]}	"wait"
+wanti	{[scat v:intran]}	"fall"
+wirnti	{[scat v:intran]}	"dance"
+kalkurn	{[scat v:intran]}	"this:way"
+-mi	{[scat v:tense][sufcat v1][block -mi]}	"npst"
+-nyi	{[scat v:tense][sufcat v3][block -nyi]}	"npst"
+nyi	{[scat v:tense][sufcat v3][block nyi]}	"npst"
+-rni	{[scat v:tense][sufcat v2][block -rni]}	"npst"
+-rni	{[scat v:tense][sufcat v4][block -rni]}	"npst"
+rni	{[scat v:tense][sufcat v2][block rni]}	"npst"
+rni	{[scat v:tense][sufcat v4][block rni]}	"npst"
+-ni	{[scat v:tense][sufcat v5][block -ni]}	"npst"
+ja	{[scat v:tense][sufcat v1][block ja]}	"pst"
+-ja	{[scat v:tense][sufcat v1][block -ja]}	"pst"
+-ngu	{[scat v:tense][sufcat v3][block -ngu]}	"pst"
+ngu	{[scat v:tense][sufcat v3][block ngu]}	"pst"
+-rnu	{[scat v:tense][sufcat v2][block -rnu]}	"pst"
+-rnu	{[scat v:tense][sufcat v4][block -rnu]}	"pst"
+-nu	{[scat v:tense][sufcat v5][block -nu]}	"pst"
+-ya	{[scat v:tense][sufcat v1][block -ya]}	"imp"
+-ka	{[scat v:tense][sufcat v1][block -ka]}	"imp"
+ka	{[scat v:tense][sufcat v1][block ka]}	"imp"
+-ngka	{[scat v:tense][sufcat v3][block -ngka]}	"imp"
+-nta	{[scat v:tense][sufcat v5][block -nta]}	"imp"
+-ju	{[scat v:tense][sufcat v1][block -ju]}	"fut"
+ju	{[scat v:tense][sufcat v1][block ju]}	"fut"
+-ngku	{[scat v:tense][sufcat v3][block -ngku]}	"fut"
+ngku	{[scat v:tense][sufcat v3][block ngku]}	"fut"
+-ku	{[scat v:tense][sufcat v2][block -ku]}	"fut"
+ku	{[scat v:tense][sufcat v2][block ku]}	"fut"
+-lku	{[scat v:tense][sufcat v4][block -lku]}	"fut"
+lku	{[scat v:tense][sufcat v4][block lku]}	"fut"
+-nku	{[scat v:tense][sufcat v5][block -nku]}	"fut"
+nku	{[scat v:tense][sufcat v5][block nku]}	"fut"
+-nya	{[scat v:tense][sufcat v1][block -nya]}	"pres"
+nya	{[scat v:tense][sufcat v1][block nya]}	"pres"
+-nganya	{[scat v:tense][sufcat v3][block -nganya]}	"pres"
+nganya	{[scat v:tense][sufcat v3][block nganya]}	"pres"
+-rninya	{[scat v:tense][sufcat v2][block -rninya]}	"pres"
+rninya	{[scat v:tense][sufcat v4][block rninya]}	"pres"
+rninya	{[scat v:tense][sufcat v2][block rninya]}	"pres"
+-rninya	{[scat v:tense][sufcat v4][block -rninya]}	"pres"
+-nanya	{[scat v:tense][sufcat v5][block -nanya]}	"pres"
+nanya	{[scat v:tense][sufcat v5][block nanya]}	"pres"
+-ntar	{[scat v:tense][sufcat v5][block -ntar]}	"imp"
+-ntawu	{[scat v:tense][sufcat v5][block -ntawu]}	"imp"
+mi	{[scat v:tense][sufcat v1][block mi]}	"npst"
+ni	{[scat v:tense][sufcat v5][block ni]}	"npst"
+ntawu	{[scat v:tense][sufcat v5][block ntawu]}	"imp"
+nu	{[scat v:tense][sufcat v5][block nu]}	"pst"
+ya	{[scat v:tense][sufcat v1][block ya]}	"npst"
+uka	{[scat v:tense]}	"imp"
+ungka	{[scat v:tense]}	"imp"
+jangkardu	{[scat v:prev]}	"against"
+manyu	{[scat v:prev]}	"fun"
+-puuly	{[scat v:prev]}	"pull"
+warra	{[scat v:prev]}	"around"
+warru	{[scat v:prev]}	"around"
+puuly	{[scat v:prev]}	"pull"
+jarda	{[scat v:prev]}	"sleep"
+jarn	{[scat v:prev]}	"leaning:out"
+jarna	{[scat v:prev]}	"away"
+jinjinpa	{[scat v:prev]}	"request"
+kulpari	{[scat v:prev]}	"return"
+milki	{[scat v:prev]}	"demonstrating"
+ngampurrpa	{[scat v:prev]}	"want"
+pangkirri	{[scat v:prev]}	"gash"
+parlpirrpa	{[scat v:prev]}	"split"
+puul	{[scat v:prev]}	"hold"
+puuly	{[scat v:prev]}	"hold"
+ramparlpa	{[scat v:prev]}	"accident"
+recordi	{[scat v:prev]}	"eng"
+rurrpa	{[scat v:prev]}	
+tuurnu	{[scat v:prev]}	"group"
+wapal	{[scat v:prev]}	"see"
+wapaly	{[scat v:prev]}	"see"
+wapalya	{[scat v:prev]}	"see"
+wapan	{[scat v:prev]}	"see"
+wilyji	{[scat v:prev]}	"remove"
+wilyp	{[scat v:prev]}	"remove"
+wurrpulu	{[scat v:prev]}	"hide"
+wu	{[scat v:prev]}	"around"
+wuly	{[scat v:prev]}	"hide"
+wurn	{[scat v:prev]}	"low"
+wuruly	{[scat v:prev]}	"hide"
+wurulylpa	{[scat v:prev]}	"hide"
+yaaly {[scat v:prev]}	"horizontal"
+yaalypa {[scat v:prev]}	"horizontal"
+yaarl	{[scat v:prev]}	"horizontal"
+yaarlpa {[scat v:prev]}	"horizontal"
+wurru	{[scat v:prev]}	"around"
+jaala	{[scat v:prev]}	"back-and-forth"
+jawirri	{[scat v:prev]}	"leave"
+japara	{[scat v:prev]}	"eating"
+jarrwara	{[scat v:prev]}	"astray"
+jurujuru	{[scat v:prev]}	"rolling"
+laja	{[scat v:prev]}	"carrying"
+rarra	{[scat v:prev]}	"dragging"
+pina	{[scat v:prev]}	"back"
+wararrku	{[scat v:prev]}	"slithering"
+jayirrpa	{[scat v:prev]}	"snatching"
+jaantaku	{[scat v:prev]}	"protruding"
+wajili		{[scat v:prev]}	"running"
+juka	{[scat v:prev]}	"jutting:upwards"
+jukajuka	{[scat v:prev]}	"jutting:upwards"
+-parnka	{[scat v][class v1-root]}	"run"
+pardi	{[scat v][class v1-root]}	"move"
+-pardi	{[scat v][class v1-root]}	"move"
+-ya	{[scat v][class v5-root]}	"go"
+-jana	{[scat aux][pro obj]}	"3pl:O"
+-la	{[scat aux][pro subj]}	"3du:S"
+-li	{[scat aux][pro subj]}	"3pl:S"
+-ngalpa	{[scat aux][pro obj]}	"1pl:inc"
+-nganpa	{[scat aux][pro obj]}	"1pl:ex"
+-nyarra	{[scat aux][pro obj]}	"2pl:O"
+-pala	{[scat aux][pro obj]}	"3du:S"
+-palangu	{[scat aux][pro obj]}	"3du:O"
+-rlipa	{[scat aux][pro subj]}	"1pl:Inc:S"
+-rna	{[scat aux][pro subj]}	"1sg:S"
+la	{[scat aux][pro subj]}	"3du:S"
+li	{[scat aux][pro subj]}	"3pl:S"
+lu	{[scat aux][pro subj]}	"3pl:S"
+ngalpa	{[scat aux][pro obj]}	"1pl:inc"
+nganpa	{[scat aux][pro obj]}	"1pl:ex"
+npala	{[scat aux][pro subj]}	"2du:S"
+nyarra	{[scat aux][pro obj]}	"2pl:O"
+palangu	{[scat aux][pro obj]}	"3du:O"
+rlipa	{[scat aux][pro subj]}	"1pl:Inc:S"
+rna	{[scat aux][pro subj]}	"1sg:S"
+rnalu	{[scat aux][pro subj]}	"1pl:ex:S"
+jana	{[scat aux][pro obj]}	"3plO"
+kalaka	{[scat aux]}	"if"
+Kapu	{[scat aux]}	"fut-3sg"
+kapu	{[scat aux]}	"fut"
+ka-pu	{[scat aux]}	"fut-3sg"
+-ju	{[scat aux][pro obj]}	"1sg:O"
+ju	{[scat aux][pro obj]}	"1sg:O"
+-lu	{[scat aux][pro subj]}	"3pl:S"
+ngalpa	{[scat aux][pro obj]}	"1plIncl:O"
+pala	{[scat aux][pro subj]}	"3du:S"
+pa	{[scat aux]}	"past:impf"
+kapu	{[scat aux][type root1]}	"fut"
+kapi	{[scat aux][type root1]}	"admonitive"
+kula	{[scat aux][type root1]}	"neg"
+kaji	{[scat aux][type root1][block aux-kaji]}	"if"
+kuja	{[scat aux][type root1][block aux-kuja]}	"relative"
+ngula	{[scat aux][type root1]}	"relative"
+yungu	{[scat aux][type root1]}	"caus"
+yinga	{[scat aux][type root1]}	"caus"
+kaji-ka	{[scat aux][type root1]}	"potential"
+kuja-ka	{[scat aux][type root1]}	"present:presentational"
+ka		{[scat aux][type root2][block aux-ka]}	"pres"
+lpa		{[scat aux][type root2]}	"imp"
+kala	{[scat aux][type root2]}	"usit"
+-ka		{[scat aux][type root2][block aux-ka]}	"pres"
+-lpa		{[scat aux][type root2]}	"imp"
+-kala	{[scat aux][type root2]}	"usit"
+goana   {[scat n]}  "goanna"

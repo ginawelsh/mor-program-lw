@@ -1,0 +1,17 @@
+@UTF8
+@Window:	45_0_761_654_0_0_562_0_510_0
+# for im rule - "im" always interpreted as object pronoun after preposition
+prep|for pro|3SG.O^pro|i:3sg-m:NONFUT => prep|for pro|3SG.O
+
+# im + transitive verb - "im" always interpreted as subject pronoun
+pro|3SG.O^pro|i:3sg-m:NONFUT v:tran|* => pro|i:3sg-m:NONFUT v:tran|*
+
+# "for dem" - "dem" always interpreted as object pronoun after preposition
+prep|for pro|3PL.O^pro|3PL.S-m:NONFUT => prep|for pro|3PL.O
+
+# "all" as in "all the family" instead of a-ll (1sg-FUT)
+
+qan|all^pro|a:1sg-ll:fut det|* => qan|all det|*
+
+# hold + im transitive verb, not to be confused with 'old' + verbalising "-im"
+v:tran|hold-im:TR^v:tran|old-im:TR => v:tran|hold-im:TR
